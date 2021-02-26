@@ -1,0 +1,1326 @@
+cholesterol||cholesterol
+epinephrine||epinephrine
+albumin human||human serum albumin
+bacitracin||bacitracin
+thiamphenicol||thiamphenicol
+metirosine||metyrosine
+iomeprol||iomeprol
+fampridine||dalfampridine
+estradiol valerate||estradiol valerate
+panthenol||panthenol
+phentolamine mesylate||phentolamine
+triamterene||triamterene
+cyanocobalamin||cyanocobalamin
+epirubicin||epirubicin
+oxytetracycline||oxytetracycline
+linezolid||linezolid
+clinofibrate||clinofibrate
+rifampin||rifampicin
+trastuzumab emtansine||trastuzumab emtansine
+duloxetine||duloxetine
+gold||gold
+ketoconazole||ketoconazole
+memantine||memantine
+ampicillin||ampicillin
+ozenoxacin||ozenoxacin
+fluoxymesterone||fluoxymesterone
+clofazimine||clofazimine
+necitumumab||necitumumab
+anhydrous caffeine||caffeine
+ramucirumab||ramucirumab
+isoniazid||isoniazid
+lenvatinib||lenvatinib
+ledipasvir||ledipasvir
+ranitidine||ranitidine
+benfotiamine||benfotiamine
+noradrenaline||norepinephrine
+oxaprozin||oxaprozin
+pegfilgrastim||pegfilgrastim
+insulin glargine||insulin glargine
+fluocinolone acetonide||fluocinolone acetonide
+codeine||codeine
+sunitinib||sunitinib
+flunisolide||flunisolide
+ondansetron||ondansetron
+vitamin d||vitamin d
+ibuprofen||ibuprofen
+mitoxantrone||mitoxantrone
+nizatidine||nizatidine
+adalimumab (genetical recombination)||adalimumab
+infliximab||infliximab
+vorinostat||vorinostat
+granulocyte colony stimulating factor||filgrastim
+fomepizole||fomepizole
+irinotecan||irinotecan
+eszopiclone||eszopiclone
+polyethylene glycol||polyethylene glycol
+bisoprolol||bisoprolol
+mitiglinide||mitiglinide
+fluorometholone||fluorometholone
+methacholine||methacholine
+tamibarotene||tamibarotene
+potassium iodide||potassium iodide
+alectinib||alectinib
+sparfloxacin||sparfloxacin
+glucose||glucose
+6-mercaptopurine||mercaptopurine
+polatuzumab vedotin||polatuzumab vedotin
+metformin||metformin
+fludiazepam||fludiazepam
+goserelin||goserelin
+pioglitazone||pioglitazone
+thalidomide||thalidomide
+luliconazole||luliconazole
+apixaban||apixaban
+sirolimus||sirolimus
+glyburide||glyburide
+aluminium hydroxide gel, dried||aluminum hydroxide
+carvedilol||carvedilol
+toremifene||toremifene
+gemcitabine||gemcitabine
+cefmetazole||cefmetazole
+aldesleukin||aldesleukin
+fluorescein||fluorescein
+alteplase (genetical recombination)||alteplase
+pancuronium||pancuronium
+diltiazem||diltiazem
+rufinamide||rufinamide
+acetylcholine chloride||acetylcholine
+azilsartan||azilsartan medoxomil
+simvastatin||simvastatin
+propranolol||propranolol
+fluvoxamine||fluvoxamine
+diazepam||diazepam
+macrogol||polyethylene glycol
+carbamazepine||carbamazepine
+huluc63||elotuzumab
+nitroglycerin||nitroglycerin
+filgrastim||filgrastim
+nafamostat mesilate||nafamostat
+nadifloxacin||nadifloxacin
+pitavastatin||pitavastatin
+aripiprazole||aripiprazole
+loxoprofen||loxoprofen
+telbivudine||telbivudine
+nicotinamide||nicotinamide
+gentamicin||gentamicin
+adalimumab||adalimumab
+diclofenac||diclofenac
+medroxyprogesterone acetate||medroxyprogesterone acetate
+nabumetone||nabumetone
+rilpivirine||rilpivirine
+glyceryl trinitrate||nitroglycerin
+cilastatin||cilastatin
+dolutegravir||dolutegravir
+nicergoline||nicergoline
+eplerenone||eplerenone
+asunaprevir||asunaprevir
+promethazine||promethazine
+digitoxin||digitoxin
+adrenaline||epinephrine
+milrinone||milrinone
+evocalcet||evocalcet
+calcium gluconate||calcium gluconate
+adrenocorticotropic hormone||corticotropin
+travoprost||travoprost
+amlodipine||amlodipine
+tannic acid||tannic acid
+chlorphenamine||chlorphenamine
+amiodarone||amiodarone
+gefitinib||gefitinib
+daratumumab||daratumumab
+ipragliflozin||ipragliflozin
+pemoline||pemoline
+sodium acetate||sodium acetate
+pancrelipase||pancrelipase
+hydrogen peroxide||hydrogen peroxide
+g-csf||filgrastim
+baricitinib||baricitinib
+mometasone||mometasone
+aminophenazone||aminophenazone
+petrolatum||petrolatum
+mitomycin c||mitomycin
+precipitated calcium carbonate||calcium carbonate
+ezetimibe||ezetimibe
+lanthanum carbonate||lanthanum carbonate
+calcium||calcium
+istradefylline||istradefylline
+dimenhydrinate||dimenhydrinate
+montelukast||montelukast
+fructose||fructose
+mizoribine||mizoribine
+ciprofloxacin||ciprofloxacin
+orantinib||orantinib
+eribulin||eribulin
+valacyclovir||valaciclovir
+mirabegron||mirabegron
+magnesium sulphate||magnesium sulfate
+tolfenamic acid||tolfenamic acid
+doxifluridine||doxifluridine
+erythropoietin||erythropoietin
+l-carbocysteine||carbocisteine
+botulinum toxin type a||botulinum toxin type a
+blonanserin||blonanserin
+carbocisteine||carbocisteine
+tiaprofenic acid||tiaprofenic acid
+insulin aspart||insulin aspart
+isopropanol||isopropyl alcohol
+perphenazine||perphenazine
+taurine||taurine
+etacrynic acid||etacrynic acid
+ethyl icosapentate||icosapent ethyl
+clobetasol propionate||clobetasol propionate
+sulbactam||sulbactam
+acetic acid||acetic acid
+methylene blue||methylene blue
+l-cysteine||l-cysteine
+folic acid||folic acid
+prednisolone||prednisolone
+nilvadipine||nilvadipine
+pregabalin||pregabalin
+methoxsalen||methoxsalen
+cimetidine||cimetidine
+rasburicase||rasburicase
+gatifloxacin||gatifloxacin
+loratadine||loratadine
+risperidone||risperidone
+haloperidol||haloperidol
+mk-0646||dalotuzumab
+ulocuplumab||ulocuplumab
+mefenamic acid||mefenamic acid
+econazole nitrate||econazole
+ipilimumab||ipilimumab
+estradiol||estradiol
+fremanezumab||fremanezumab
+brinzolamide||brinzolamide
+benzylpenicillin||benzylpenicillin
+medicinal charcoal||activated charcoal
+encorafenib||encorafenib
+chlorpropamide||chlorpropamide
+morphine||morphine
+methyltestosterone||methyltestosterone
+sesame oil||sesame oil
+iotrolan||iotrolan
+warfarin||warfarin
+topotecan||topotecan
+urapidil||urapidil
+evolocumab||evolocumab
+oxytocin||oxytocin
+clofarabine||clofarabine
+propafenone||propafenone
+lansoprazole||lansoprazole
+meropenem trihydrate||meropenem
+enalapril||enalapril
+bleomycin||bleomycin
+cortisone acetate||cortisone acetate
+factor i (fibrinogen)||fibrinogen human
+troglitazone||troglitazone
+droperidol||droperidol
+epirizole||epirizole
+stiripentol||stiripentol
+sitagliptin||sitagliptin
+daclizumab||daclizumab
+talc||talc
+voglibose||voglibose
+povidone iodine||povidone-iodine
+leucine||l-leucine
+diaphenylsulfone||dapsone
+clozapine||clozapine
+baking soda||sodium bicarbonate
+tiabendazole||thiabendazole
+fluorouracil||fluorouracil
+asparaginase||asparaginase escherichia coli
+minocycline||minocycline
+alprazolam||alprazolam
+thymol||thymol
+5-ala||aminolevulinic acid
+paroxetine||paroxetine
+hemin||hemin
+omalizumab||omalizumab
+imiquimod||imiquimod
+ephedrine||ephedrine
+naftopidil||naftopidil
+sultamicillin||sultamicillin
+baclofen||baclofen
+cefotetan||cefotetan
+vinblastine||vinblastine
+sorivudine||sorivudine
+reserpine||reserpine
+furosemide||furosemide
+levobupivacaine||levobupivacaine
+prazepam||prazepam
+amobarbital||amobarbital
+betaine||glycine betaine
+elotuzumab||elotuzumab
+flurazepam||flurazepam
+hydrochlorothiazide||hydrochlorothiazide
+glibenclamide||glyburide
+glycerin||glycerin
+isosorbide dinitrate||isosorbide dinitrate
+human chorionic gonadotropin||chorionic gonadotropin (human)
+asian ginseng||ginseng
+nivolumab||nivolumab
+muromonab-cd3||muromonab
+vasopressin||vasopressin
+pancreatin||pancrelipase
+clotiazepam||clotiazepam
+delamanid||delamanid
+tadalafil||tadalafil
+dasatinib||dasatinib
+amlexanox||amlexanox
+mexiletine||mexiletine
+aztreonam||aztreonam
+silicic acid||silicic acid
+irsogladine||irsogladine
+pembrolizumab||pembrolizumab
+mequitazine||mequitazine
+buspirone||buspirone
+zalcitabine||zalcitabine
+castor oil||castor oil
+bexarotene||bexarotene
+clomipramine||clomipramine
+cidofovir||cidofovir
+ribavirin||ribavirin
+ferrum||iron
+lafutidine||lafutidine
+yellow fever vaccine||yellow fever vaccine
+ebastine||ebastine
+interferon alfa||natural alpha interferon
+alendronic acid||alendronic acid
+felodipine||felodipine
+hydroxydaunorubicin||doxorubicin
+valine||l-valine
+aminosalicylic acid||aminosalicylic acid
+piracetam||piracetam
+carbon||activated charcoal
+biotin||biotin
+amphotericin b||amphotericin b
+methyclothiazide||methyclothiazide
+varicella vaccine||varicella zoster vaccine (live/attenuated)
+ozagrel||ozagrel
+ansamycin||rifabutin
+entecavir||entecavir
+ponatinib||ponatinib
+acetylcysteine||acetylcysteine
+griseofulvin||griseofulvin
+febuxostat||febuxostat
+tocopherol acetate||alpha-tocopherol acetate
+selegiline||selegiline
+isoflurane||isoflurane
+minoxidil||minoxidil
+pertuzumab||pertuzumab
+ribociclib||ribociclib
+procarbazine||procarbazine
+cisplatin||cisplatin
+dabigatran etexilate||dabigatran etexilate
+secretin||secretin
+miglustat||miglustat
+primaquine||primaquine
+levomenthol||menthol
+botulinum toxin type b||botulinum toxin type b
+xylitol||d-xylitol
+magnesium oxide||magnesium oxide
+alogliptin||alogliptin
+ciclacillin||cyclacillin
+mirtazapine||mirtazapine
+vitamin c||vitamin c
+eicosapentaenoic acid||icosapent
+torsemide||torasemide
+lurasidone||lurasidone
+vanutide cridificar||vanutide cridificar
+glucagon||glucagon recombinant
+biguanide||biguanide
+etizolam||etizolam
+betahistine||betahistine
+meropenem hydrate||meropenem
+isoprenaline||isoprenaline
+folinic acid||leucovorin
+hydroxycarbamide||hydroxyurea
+pegaptanib||pegaptanib
+sulfamethoxazole||sulfamethoxazole
+magnesium citrate||magnesium citrate
+fosfomycin||fosfomycin
+clarithromycin||clarithromycin
+opium||opium
+ioflupane (123i)||ioflupane i-123
+cyclosporin||cyclosporine
+propericiazine||propericiazine
+lactic acid||lactic acid
+ceftazidime||ceftazidime
+cocarboxylase||cocarboxylase
+pentamidine||pentamidine
+roxithromycin||roxithromycin
+choline theophylline||oxtriphylline
+candesartan||candesartan
+kanamycin||kanamycin
+ambroxol||ambroxol
+pentazocine||pentazocine
+luseogliflozin||luseogliflozin
+olanzapine||olanzapine
+brexpiprazole||brexpiprazole
+dexmedetomidine||dexmedetomidine
+desipramine||desipramine
+vandetanib||vandetanib
+bromazepam||bromazepam
+l-menthol||menthol
+dulaglutide||dulaglutide
+azathioprine||azathioprine
+zolmitriptan||zolmitriptan
+disulfiram||disulfiram
+rohypnol||flunitrazepam
+cyclophosphamide||cyclophosphamide
+iopamidol||iopamidol
+mk-1775||mk-1775
+dipyridamole||dipyridamole
+sevoflurane||sevoflurane
+levetiracetam||levetiracetam
+abiraterone||abiraterone
+macitentan||macitentan
+acetylsalicylic acid||acetylsalicylic acid
+clotrimazole||clotrimazole
+dupilumab||dupilumab
+lixisenatide||lixisenatide
+heparin||heparin
+terbinafine||terbinafine
+saccharin||saccharin
+cefadroxil||cefadroxil
+letrozole||letrozole
+norethisterone||norethisterone
+nitrendipine||nitrendipine
+argatroban||argatroban
+sitagliptin phosphate||sitagliptin
+levomepromazine||methotrimeprazine
+ursodiol||ursodeoxycholic acid
+benzyl benzoate||benzyl benzoate
+obinutuzumab||obinutuzumab
+allylestrenol||allylestrenol
+acemetacin||acemetacin
+fidaxomicin||fidaxomicin
+halothane||halothane
+bimatoprost||bimatoprost
+piperacillin||piperacillin
+olive oil||olive oil
+ulinastatin||ulinastatin
+lisinopril||lisinopril
+glasdegib||glasdegib
+foscarnet||foscarnet
+dabrafenib||dabrafenib
+oxymetholone||oxymetholone
+donepezil||donepezil
+bisacodyl||bisacodyl
+meloxicam||meloxicam
+idelalisib||idelalisib
+fluticasone furoate||fluticasone furoate
+potassium nitrate||potassium nitrate
+telaprevir||telaprevir
+tiopronin||tiopronin
+levonorgestrel||levonorgestrel
+phenytoin||phenytoin
+d-sorbitol||sorbitol
+tenofovir||tenofovir
+bromocriptine||bromocriptine
+selexipag||selexipag
+tribenoside||tribenoside
+bismuth subnitrate||bismuth subnitrate
+palonosetron||palonosetron
+crotamiton||crotamiton
+serotonin||serotonin
+dacomitinib||dacomitinib
+vinorelbine||vinorelbine
+bromelain||bromelains
+adenosine||adenosine
+vancomycin||vancomycin
+ipatasertib||ipatasertib
+etodolac||etodolac
+tobramycin||tobramycin
+acyclovir||acyclovir
+nitrazepam||nitrazepam
+merestinib||merestinib
+ramelteon||ramelteon
+calcium phosphate||calcium phosphate
+ethosuximide||ethosuximide
+rifaximin||rifaximin
+zidovudine||zidovudine
+nicotine||nicotine
+streptozotocin||streptozocin
+anakinra||anakinra
+chlorzoxazone||chlorzoxazone
+calcitriol||calcitriol
+sertraline||sertraline
+malic acid||malic acid
+abt-869||abt-869
+levodopa||levodopa
+polycarbophil||polycarbophil
+glutathione||glutathione
+verapamil||verapamil
+josamycin||josamycin
+gilteritinib||gilteritinib
+cephalexin||cephalexin
+insulin glargine recombinant||insulin glargine
+zaleplon||zaleplon
+amrubicin||amrubicin
+telithromycin||telithromycin
+dexamethasone||dexamethasone
+simeprevir||simeprevir
+gamma-aminobutyric acid||gamma-aminobutyric acid
+esmolol||esmolol
+efinaconazole||efinaconazole
+levoglutamide||l-glutamine
+benzodiazepine||benzodiazepine
+vonoprazan||vonoprazan
+aniracetam||aniracetam
+human menopausal gonadotropin||chorionic gonadotropin (human)
+clopidogrel||clopidogrel
+bicalutamide||bicalutamide
+magnesium||magnesium
+barbital||barbital
+ramatroban||ramatroban
+capecitabine||capecitabine
+docetaxel||docetaxel
+topiroxostat||topiroxostat
+pilocarpine||pilocarpine
+insulin human||insulin human
+valproate||valproic acid
+5-asa||mesalazine
+licorice||licorice
+desflurane||desflurane
+adenosine triphosphate||atp
+cetuximab||cetuximab
+loperamide||loperamide
+bucillamine||bucillamine
+trapidil||trapidil
+peginterferon alfa-2a||peginterferon alfa-2a
+decitabine||decitabine
+primidone||primidone
+enbucrilate||enbucrilate
+fentanyl||fentanyl
+flurbiprofen||flurbiprofen
+fluocinonide||fluocinonide
+daunorubicin||daunorubicin
+lorazepam||lorazepam
+unfractionated heparin||heparin
+denosumab||denosumab
+chlormezanone||chlormezanone
+trimethadione||trimethadione
+parnaparin sodium||parnaparin
+naldemedine||naldemedine
+lamivudine||lamivudine
+benzoyl peroxide||benzoyl peroxide
+inotuzumab ozogamicin||inotuzumab ozogamicin
+amprenavir||amprenavir
+flucytosine||flucytosine
+atropine||atropine
+dexrazoxane||dexrazoxane
+sodium phosphate||sodium phosphate
+tenofovir alafenamide||tenofovir alafenamide
+glycerol||glycerin
+iron||iron
+timothy||phleum pratense top
+mercaptopurine||mercaptopurine
+streptomycin||streptomycin
+senna||sennosides
+suxamethonium||succinylcholine
+entacapone||entacapone
+nicorandil||nicorandil
+hydroxocobalamin||hydroxocobalamin
+octreotide||octreotide
+zoledronic acid||zoledronic acid
+diphenhydramine||diphenhydramine
+pyridoxine||pyridoxine
+biperiden||biperiden
+abatacept||abatacept
+dydrogesterone||dydrogesterone
+iguratimod||iguratimod
+nepafenac||nepafenac
+piroxicam||piroxicam
+citicoline||citicoline
+exemestane||exemestane
+polaprezinc||polaprezinc
+everolimus||everolimus
+thrombin||thrombin
+sargramostim||sargramostim
+testosterone enanthate||testosterone enanthate
+rifampicin||rifampicin
+nisoldipine||nisoldipine
+levofloxacin||levofloxacin
+cinnamon||cinnamon
+palbociclib||palbociclib
+danazol||danazol
+pilsicainide||pilsicainide
+sugammadex||sugammadex
+vitamin a||vitamin a
+angiotensin ii||angiotensin ii
+insulin porcine||insulin pork
+amcinonide||amcinonide
+rebamipide||rebamipide
+bevacizumab||bevacizumab
+olokizumab||olokizumab
+ropivacaine||ropivacaine
+doripenem||doripenem
+edoxaban||edoxaban
+riociguat||riociguat
+erythromycin||erythromycin
+sennosides||sennosides
+defibrotide||defibrotide
+salmeterol||salmeterol
+arbekacin||arbekacin
+oxygen||oxygen
+quetiapine||quetiapine
+escitalopram||escitalopram
+nelarabine||nelarabine
+golimumab||golimumab
+pantethine||pantethine
+piretanide||piretanide
+ticlopidine||ticlopidine
+sarpogrelate||sarpogrelate
+icosapent ethyl||icosapent ethyl
+levothyroxine||levothyroxine
+isosorbide||isosorbide
+neratinib||neratinib
+thiotepa||thiotepa
+cetirizine||cetirizine
+temozolomide||temozolomide
+angiotensin||angiotensin ii
+mannitol||mannitol
+mesalamine||mesalazine
+vinpocetine||vinpocetine
+valsartan||valsartan
+amikacin||amikacin
+magnesium hydroxide||magnesium hydroxide
+olmesartan||olmesartan
+ascorbic acid||vitamin c
+ceftriaxone||ceftriaxone
+cilostazol||cilostazol
+albumin (human)||human serum albumin
+thrombomodulin alfa||thrombomodulin alfa
+potassium||potassium
+micafungin||micafungin
+ofloxacin||ofloxacin
+polidocanol||polidocanol
+pergolide||pergolide
+radium ra 223 dichloride||radium ra 223 dichloride
+mycophenolate mofetil||mycophenolate mofetil
+theophylline||theophylline
+ginger||ginger
+losartan||losartan
+aminoacetic acid||glycine
+prostacyclin||epoprostenol
+inulin||inulin
+ubenimex||ubenimex
+bromfenac||bromfenac
+enzalutamide||enzalutamide
+emtricitabine||emtricitabine
+ethotoin||ethotoin
+amsacrine||amsacrine
+vildagliptin||vildagliptin
+cabazitaxel||cabazitaxel
+pyrazinamide||pyrazinamide
+fludarabine||fludarabine
+amrinone||amrinone
+azilsartan medoxomil||azilsartan medoxomil
+fenofibrate||fenofibrate
+carfilzomib||carfilzomib
+citrulline||l-citrulline
+temsirolimus||temsirolimus
+salicylamide||salicylamide
+gefarnate||gefarnate
+probenecid||probenecid
+doxorubicin||doxorubicin
+dextromethorphan||dextromethorphan
+pyridoxamine phosphate||pyridoxamine-5'-phosphate
+mebendazole||mebendazole
+guaifenesin||guaifenesin
+repaglinide||repaglinide
+enviomycin||enviomycin
+stanozolol||stanozolol
+sodium chloride||sodium chloride
+amoxicillin||amoxicillin
+sofosbuvir||sofosbuvir
+choline salicylate||choline salicylate
+nadolol||nadolol
+tafluprost||tafluprost
+tolnaftate||tolnaftate
+norfloxacin||norfloxacin
+tocopheryl acetate||alpha-tocopherol acetate
+ammonium chloride||ammonium chloride
+atovaquone||atovaquone
+phenol||phenol
+durvalumab||durvalumab
+amoxapine||amoxapine
+paracetamol||acetaminophen
+incadronic acid||incadronic acid
+flecainide||flecainide
+insulin lispro||insulin lispro
+insulin degludec||insulin degludec
+cytosine arabinoside||cytarabine
+azithromycin||azithromycin
+oxatomide||oxatomide
+ombitasvir||ombitasvir
+melatonin||melatonin
+epoetin beta||erythropoietin
+nitric oxide||nitric oxide
+amino acids nos||amino acids
+sulfadiazine||sulfadiazine
+zafirlukast||zafirlukast
+benserazide||benserazide
+calcium carbonate||calcium carbonate
+mogamulizumab||mogamulizumab
+ursodeoxycholic acid||ursodeoxycholic acid
+gonadotropin, chorionic||chorionic gonadotropin (human)
+exenatide||exenatide
+nimotuzumab||nimotuzumab
+efavirenz||efavirenz
+pirarubicin||pirarubicin
+purified water||water
+iodine||iodine
+cefdinir||cefdinir
+metyrapone||metyrapone
+ethambutol||ethambutol
+tenoxicam||tenoxicam
+metronidazole||metronidazole
+actinomycin d||dactinomycin
+abacavir||abacavir
+halcinonide||halcinonide
+sulpiride||sulpiride
+azacitidine||azacitidine
+cinacalcet||cinacalcet
+chloral hydrate||chloral hydrate
+latanoprost||latanoprost
+oxycodone||oxycodone
+tafamidis||tafamidis
+aspartame||aspartame
+chlordiazepoxide||chlordiazepoxide
+anagliptin||anagliptin
+polymyxin b||polymyxin b sulfate
+tranexamic acid||tranexamic acid
+sucroferric oxyhydroxide||iron saccharate
+caffeine||caffeine
+miconazole||miconazole
+praziquantel||praziquantel
+potassium permanganate||potassium permanganate
+acetohexamide||acetohexamide
+rabeprazole||rabeprazole
+tranilast||tranilast
+adapalene||adapalene
+ciclosporin||cyclosporine
+bromperidol||bromperidol
+tramazoline||tramazoline
+flumazenil||flumazenil
+probucol||probucol
+benzoic acid||benzoic acid
+zinc oxide||zinc oxide
+asenapine||asenapine
+ibudilast||ibudilast
+prasugrel||prasugrel
+crizotinib||crizotinib
+topiramate||topiramate
+pyrimethamine||pyrimethamine
+peginterferon alfa-2b||peginterferon alfa-2b
+dextrose||glucose
+minodronic acid||minodronic acid
+methyl cellulose||methyl cellulose
+nifedipine||nifedipine
+l-glutamine||l-glutamine
+dacarbazine||dacarbazine
+prochlorperazine||prochlorperazine
+suvorexant||suvorexant
+cromoglicic acid||cromoglicic acid
+buprenorphine||buprenorphine
+cefaclor||cefaclor
+naltrexone||naltrexone
+toluene||toluene
+carbon dioxide||carbon dioxide
+nitisinone||nitisinone
+ecabet||ecabet
+tulobuterol||tulobuterol
+mazindol||mazindol
+bifonazole||bifonazole
+haloxazolam||haloxazolam
+follicle stimulating hormone||follitropin
+chlorthalidone||chlorthalidone
+estazolam||estazolam
+pravastatin||pravastatin
+dutasteride||dutasteride
+calcium acetate||calcium acetate
+thiamylal||thiamylal
+noscapine||noscapine
+flunitrazepam||flunitrazepam
+alprostadil||alprostadil
+tofacitinib||tofacitinib
+fluticasone propionate||fluticasone propionate
+vindesine||vindesine
+tocopherol||tocopherol
+petrolatum, white||petrolatum
+sennoside||sennosides
+menthol||menthol
+riluzole||riluzole
+thiopental||thiopental
+streptozocin||streptozocin
+chorionic gonadotrophin||chorionic gonadotropin (human)
+propylthiouracil||propylthiouracil
+corticotropin||corticotropin
+glimepiride||glimepiride
+daclatasvir||daclatasvir
+vitamin k||phylloquinone
+melphalan||melphalan
+neladenoson bialanate||neladenoson bialanate
+urokinase||urokinase
+polysorbate 80||polysorbate 80
+spiramycin||spiramycin
+st. john's wort||st. john's wort
+dyphylline||dyphylline
+belimumab||belimumab
+liposomal amphotericin b||amphotericin b
+aprotinin||aprotinin
+eltrombopag||eltrombopag
+valproic acid||valproic acid
+nandrolone decanoate||nandrolone decanoate
+lentinan||lentinan
+carboplatin||carboplatin
+cyproterone acetate||cyproterone acetate
+fluphenazine||fluphenazine
+dipotassium phosphate||dipotassium phosphate
+risedronic acid||risedronate
+lidocaine||lidocaine
+lactose||lactose
+creosote||wood creosote
+procaterol||procaterol
+uric acid||uric acid
+meglumine gadopentetate||gadopentetate dimeglumine
+carrot||carrot
+inosine pranobex||inosine pranobex
+dimethyl sulfoxide||dimethyl sulfoxide
+l-citrulline||l-citrulline
+fludroxycortide||flurandrenolide
+desloratadine||desloratadine
+triazolam||triazolam
+gemeprost||gemeprost
+lorlatinib||lorlatinib
+cefozopran||cefozopran
+clonidine||clonidine
+tretinoin||tretinoin
+zopiclone||zopiclone
+ferric pyrophosphate||ferric pyrophosphate
+imatinib||imatinib
+sulindac||sulindac
+inosine||inosine
+phenacetin||phenacetin
+vemurafenib||vemurafenib
+dl-methionine||racemethionine
+nateglinide||nateglinide
+lopinavir||lopinavir
+cisapride||cisapride
+telmisartan||telmisartan
+tetracycline||tetracycline
+avibactam||avibactam
+flutamide||flutamide
+trastuzumab||trastuzumab
+ganciclovir||ganciclovir
+menatetrenone||menatetrenone
+antithrombin iii||antithrombin iii human
+torasemide||torasemide
+ceritinib||ceritinib
+maraviroc||maraviroc
+potassium gluconate||potassium gluconate
+panax ginseng root||ginseng
+dopamine||dopamine
+carmustine||carmustine
+budesonide||budesonide
+trametinib||trametinib
+quazepam||quazepam
+bendamustine||bendamustine
+ethinylestradiol||ethinyl estradiol
+tiapride||tiapride
+orlistat||orlistat
+erlotinib||erlotinib
+etanercept||etanercept
+felbinac||felbinac
+tamoxifen||tamoxifen
+dapsone||dapsone
+estradiol benzoate||estradiol benzoate
+saquinavir mesylate||saquinavir
+limaprost alfadex||limaprost
+corn starch||starch, corn
+mosapride||mosapride
+coenzyme q10||ubidecarenone
+sorbitol||sorbitol
+garenoxacin||garenoxacin
+vitamin e acetate||alpha-tocopherol acetate
+thiamine||thiamine
+galantamine||galantamine
+ixazomib||ixazomib
+miglitol||miglitol
+rosuvastatin||rosuvastatin
+sitafloxacin||sitafloxacin
+rocuronium||rocuronium
+dexchlorpheniramine maleate||dexchlorpheniramine maleate
+glycyrrhizic acid||glycyrrhizic acid
+cholestyramine||cholestyramine
+edaravone||edaravone
+panitumumab||panitumumab
+abemaciclib||abemaciclib
+human serum albumin||human serum albumin
+eicosapentaenoic acid ethyl ester||icosapent ethyl
+gliclazide||gliclazide
+rapamycin||sirolimus
+ivermectin||ivermectin
+spironolactone||spironolactone
+wheat||wheat
+imidafenacin||imidafenacin
+gadolinium||gadolinium
+binimetinib||binimetinib
+dimethyl fumarate||dimethyl fumarate
+ticagrelor||ticagrelor
+infliximab (genetical recombination)||infliximab
+prothionamide||protionamide
+pantothenic acid||pantothenic acid
+ornithine||ornithine
+nicardipine||nicardipine
+urea (13c)||urea c-13
+lamotrigine||lamotrigine
+methocarbamol||methocarbamol
+silodosin||silodosin
+periciazine||propericiazine
+nalmefene||nalmefene
+kitasamycin||kitasamycin
+saccharated iron oxide||iron saccharate
+l-arginine||l-arginine
+magnesium carbonate||magnesium carbonate
+fosaprepitant||fosaprepitant
+nintedanib||nintedanib
+gadobutrol||gadobutrol
+salicylic acid||salicylic acid
+quetiapine fumarate||quetiapine
+ciclesonide||ciclesonide
+leucovorin||leucovorin
+peppermint||peppermint
+lactitol||lactitol
+vitamin d3||cholecalciferol
+gelatin||gelatin
+tremelimumab||tremelimumab
+alcohol||ethanol
+acarbose||acarbose
+dexpanthenol||dexpanthenol
+idarubicin||idarubicin
+pranlukast||pranlukast
+thioridazine||thioridazine
+cladribine||cladribine
+stavudine||stavudine
+hydroxyzine||hydroxyzine
+cefazolin||cefazolin
+teicoplanin||teicoplanin
+batroxobin||batroxobin
+liquid paraffin||mineral oil
+rifabutin||rifabutin
+finasteride||finasteride
+lubiprostone||lubiprostone
+liraglutide||liraglutide
+brotizolam||brotizolam
+ibrutinib||ibrutinib
+auranofin||auranofin
+demethylchlortetracycline||demeclocycline
+3,4-dihydroxy-l-phenylalanine||levodopa
+astaxanthin||astaxanthin
+maxacalcitol||maxacalcitol
+salazosulfapyridine||sulfasalazine
+pemetrexed||pemetrexed
+gadoteridol||gadoteridol
+siltuximab||siltuximab
+azelastine||azelastine
+tofogliflozin||tofogliflozin
+empagliflozin||empagliflozin
+enoxaparin sodium||enoxaparin
+venlafaxine||venlafaxine
+insulin lispro (genetical recombination)||insulin lispro
+orteronel||orteronel
+leuprorelin||leuprolide
+treprostinil||treprostinil
+iodixanol||iodixanol
+amitriptyline||amitriptyline
+hydroxyethyl starch||hydroxyethyl starch
+pegaptanib sodium||pegaptanib
+hydrocortisone||hydrocortisone
+enfuvirtide||enfuvirtide
+nedaplatin||nedaplatin
+aluminum hydroxide||aluminum hydroxide
+raltegravir||raltegravir
+deoxyspergualin||deoxyspergualin
+oxcarbazepine||oxcarbazepine
+baloxavir marboxil||baloxavir marboxil
+voriconazole||voriconazole
+aciclovir||acyclovir
+tolbutamide||tolbutamide
+lormetazepam||lormetazepam
+famotidine||famotidine
+cloxazolam||cloxazolam
+magnesium sulfate||magnesium sulfate
+calcium chloride||calcium chloride
+cyanamide||cyanamide
+vitamin d nos||vitamin d
+trilostane||trilostane
+cobicistat||cobicistat
+trandolapril||trandolapril
+pazopanib||pazopanib
+tramadol||tramadol
+prazosin||prazosin
+olaparib||olaparib
+isosorbide mononitrate||isosorbide mononitrate
+colchicine||colchicine
+camphor||camphor
+rotavirus vaccine||rotavirus vaccine
+bufexamac||bufexamac
+clove||clove
+octocog alfa||antihemophilic factor, human recombinant
+gabapentin||gabapentin
+vigabatrin||vigabatrin
+chlorhexidine||chlorhexidine
+factor viii (antihaemophilic factor)||antihemophilic factor human
+rovalpituzumab tesirine||rovalpituzumab tesirine
+sodium aurothiomalate||sodium aurothiomalate
+carbazochrome||carbazochrome
+ergocalciferol||ergocalciferol
+carbidopa||carbidopa
+fesoterodine||fesoterodine
+ifosfamide||ifosfamide
+calcium lactate||calcium lactate
+tazobactam||tazobactam
+teriparatide||teriparatide
+oxaliplatin||oxaliplatin
+hydroxyurea||hydroxyurea
+digoxin||digoxin
+paclitaxel||paclitaxel
+veliparib||veliparib
+dexchlorpheniramine||dexchlorpheniramine
+pomalidomide||pomalidomide
+isoleucine||l-isoleucine
+capsaicin||capsaicin
+potassium chloride||potassium chloride
+ziprasidone||ziprasidone
+bortezomib||bortezomib
+deslanoside||deslanoside
+phenobarbital||phenobarbital
+mepolizumab||mepolizumab
+adefovir pivoxil||adefovir dipivoxil
+domperidone||domperidone
+vedolizumab||vedolizumab
+zotepine||zotepine
+levocarnitine||l-carnitine
+glycine||glycine
+tazemetostat||tazemetostat
+tocilizumab||tocilizumab
+benzbromarone||benzbromarone
+chlorprotixen||chlorprothixene
+darbepoetin alfa||darbepoetin alfa
+indapamide||indapamide
+vecuronium||vecuronium
+gabexate||gabexate
+acalabrutinib||acalabrutinib
+rilonacept||rilonacept
+tegafur||tegafur
+perflutren||perflutren
+acetaminophen||acetaminophen
+protamine sulfate||protamine sulfate
+mepivacaine||mepivacaine
+chloramphenicol||chloramphenicol
+zonisamide||zonisamide
+progesterone||progesterone
+zinc||zinc
+captopril||captopril
+bezafibrate||bezafibrate
+estriol||estriol
+colecalciferol||cholecalciferol
+hepatitis b vaccine||hepatitis b vaccine (recombinant)
+d-camphor||camphor
+urea||urea
+tinidazole||tinidazole
+tetrabenazine||tetrabenazine
+ethyl aminobenzoate||benzocaine
+iloprost||iloprost
+methotrexate||methotrexate
+naproxen||naproxen
+pindolol||pindolol
+posaconazole||posaconazole
+rhubarb||rhubarb
+cyclosporine||cyclosporine
+adenine||adenine
+cycloserine||cycloserine
+tigecycline||tigecycline
+para-aminosalicylic acid||aminosalicylic acid
+peppermint oil||peppermint oil
+iopromide||iopromide
+clove oil||clove oil
+tofisopam||tofisopam
+bupivacaine||bupivacaine
+magnesium chloride||magnesium chloride
+solifenacin||solifenacin
+candesartan cilexetil||candesartan cilexetil
+prilocaine||prilocaine
+methyl salicylate||methyl salicylate
+perampanel||perampanel
+sorafenib||sorafenib
+favipiravir||favipiravir
+remifentanil||remifentanil
+gonadotropin-releasing hormone||gonadorelin
+trichlormethiazide||trichlormethiazide
+silver sulfadiazine||silver sulfadiazine
+droxidopa||droxidopa
+risedronate||risedronate
+phenylephrine||phenylephrine
+pevonedistat||pevonedistat
+prednisone||prednisone
+aminophylline||aminophylline
+etretinate||etretinate
+tamsulosin||tamsulosin
+chenodeoxycholic acid||chenodeoxycholic acid
+thyroid stimulating hormone||thyrotropin alfa
+nitrous oxide||nitrous oxide
+meropenem||meropenem
+pranoprofen||pranoprofen
+benidipine||benidipine
+apomorphine||apomorphine
+modafinil||modafinil
+retinol||vitamin a
+celecoxib||celecoxib
+sodium hydrogen carbonate||sodium bicarbonate
+alteplase||alteplase
+desmopressin||desmopressin
+ethyl loflazepate||ethyl loflazepate
+sucralfate||sucralfate
+valganciclovir||valganciclovir
+itraconazole||itraconazole
+lenalidomide||lenalidomide
+fulvestrant||fulvestrant
+aranidipine||aranidipine
+resminostat||resminostat
+dehydrocholic acid||dehydrocholic acid
+prostaglandin e1||alprostadil
+dinutuximab||dinutuximab
+ambrisentan||ambrisentan
+tacrolimus||tacrolimus
+bilastine||bilastine
+mitotane||mitotane
+carmofur||carmofur
+labetalol||labetalol
+linagliptin||linagliptin
+aprepitant||aprepitant
+pantoprazole||pantoprazole
+fexofenadine||fexofenadine
+ranimustine||ranimustine
+nitrofurantoin||nitrofurantoin
+epacadostat||epacadostat
+pentostatin||pentostatin
+anastrozole||anastrozole
+norepinephrine||norepinephrine
+clonazepam||clonazepam
+dimethicone||dimethicone
+pirfenidone||pirfenidone
+imidapril||imidapril
+sodium fluoride||sodium fluoride
+vitamin e||vitamin e
+nalidixic acid||nalidixic acid
+trabectedin||trabectedin
+flavin adenine dinucleotide||flavin adenine dinucleotide
+misoprostol||misoprostol
+perospirone||perospirone
+patritumab||patritumab
+ethionamide||ethionamide
+saquinavir||saquinavir
+alemtuzumab||alemtuzumab
+pamidronate||pamidronate
+betamethasone||betamethasone
+dibucaine||cinchocaine
+formalin||formaldehyde
+cilnidipine||cilnidipine
+tolvaptan||tolvaptan
+human insulin||insulin human
+trimethoprim||trimethoprim
+nevirapine||nevirapine
+povidone-iodine||povidone-iodine
+oxitriptan||oxitriptan
+somatostatin||somatostatin
+panobinostat||panobinostat
+lacosamide||lacosamide
+epoetin alfa||erythropoietin
+fursultiamine||fursultiamine
+acetazolamide||acetazolamide
+azosemide||azosemide
+insulin glulisine||insulin glulisine
+secukinumab||secukinumab
+calcium glycerophosphate||calcium glycerophosphate
+triamcinolone||triamcinolone
+human growth hormone||somatotropin
+teneligliptin||teneligliptin
+paliperidone||paliperidone
+carbimazole||carbimazole
+docosahexaenoic acid||doconexent
+sulfasalazine||sulfasalazine
+d-mannitol||mannitol
+arsenic trioxide||arsenic trioxide
+penicillamine||penicillamine
+artesunate||artesunate
+atp||atp
+peramivir||peramivir
+factor vii (proconvertin)||coagulation factor vii human
+gabapentine||gabapentin
+flufenamic acid||flufenamic acid
+enflurane||enflurane
+pimozide||pimozide
+diazoxide||diazoxide
+doxazosin||doxazosin
+sumatriptan||sumatriptan
+nystatin||nystatin
+didanosine||didanosine
+basiliximab||basiliximab
+eldecalcitol||eldecalcitol
+cholecalciferol||cholecalciferol
+propofol||propofol
+cefepime||cefepime
+epinastine||epinastine
+rivaroxaban||rivaroxaban
+rivastigmine||rivastigmine
+avelumab||avelumab
+atenolol||atenolol
+lovastatin||lovastatin
+monoethanolamine oleate||ethanolamine oleate
+perifosine||perifosine
+white petrolatum||petrolatum
+olopatadine||olopatadine
+bcg vaccine||bcg vaccine
+atomoxetine||atomoxetine
+dobutamine||dobutamine
+busulfan||busulfan
+ocrelizumab||ocrelizumab
+pyridoxal phosphate||pyridoxal phosphate
+natamycin||natamycin
+uracil||uracil
+aspirin||acetylsalicylic acid
+vaniprevir||vaniprevir
+vincristine||vincristine
+methylcobalamin||methylcobalamin
+tapentadol||tapentadol
+iodoform||iodoform
+promazine||promazine
+limaprost||limaprost
+fish oil||fish oil
+ginseng||ginseng
+ganirelix||ganirelix
+mestranol||mestranol
+poloxamer 188||poloxamer 188
+rituximab||rituximab
+letrozol||letrozole
+nilotinib||nilotinib
+fosphenytoin||fosphenytoin
+granisetron||granisetron
+methylprednisolone||methylprednisolone
+difluprednate||difluprednate
+indomethacin||indomethacin
+moxifloxacin||moxifloxacin
+venetoclax||venetoclax
+mesalazine||mesalazine
+estramustine||estramustine
+saxagliptin||saxagliptin
+vitamin b6||pyridoxine
+etoposide||etoposide
+disopyramide||disopyramide
+atezolizumab||atezolizumab
+doxepin||doxepin
+linaclotide||linaclotide
+esomeprazole||esomeprazole
+suprofen||suprofen
+ketoprofen||ketoprofen
+etravirine||etravirine
+metoclopramide||metoclopramide
+alfacalcidol||alfacalcidol
+canagliflozin||canagliflozin
+iohexol||iohexol
+5-aminolevulinic acid||aminolevulinic acid
+antithymocyte immunoglobulin||antithymocyte immunoglobulin (rabbit)
+lithium||lithium
+sulfaphenazole||sulfaphenazole
+anethole trithione||anethole trithione
+ritonavir||ritonavir
+lactulose||lactulose
+trazodone||trazodone
+lenograstim (genetical recombination)||lenograstim
+deferasirox||deferasirox
+romidepsin||romidepsin
+clobazam||clobazam
+apremilast||apremilast
+boric acid||boric acid
+l-dihydroxyphenylserine||droxidopa
+clofibrate||clofibrate
+flavine adenine dinucleotide||flavin adenine dinucleotide
+voclosporin||voclosporin
+eculizumab||eculizumab
+thiamazole||methimazole
+omeprazole||omeprazole
+methoxyflurane||methoxyflurane
+rotigotine||rotigotine
+albendazole||albendazole
+cytarabine||cytarabine
+propylene glycol||propylene glycol
+calcipotriol||calcipotriol
+allopurinol||allopurinol
+pentoxifylline||pentoxifylline
+nicotinic acid||niacin
+cefotaxime||cefotaxime
+mecobalamin||methylcobalamin
+lornoxicam||lornoxicam
+phenylacetic acid||phenylacetic acid
+lenograstim||lenograstim
+cherry||cherry
+cabergoline||cabergoline
+methoxy polyethylene glycol-epoetin beta||methoxy polyethylene glycol-epoetin beta
+daptomycin||daptomycin
+axitinib||axitinib
+irbesartan||irbesartan
+atorvastatin||atorvastatin
+certolizumab pegol||certolizumab pegol
+riboflavin||riboflavin
+acotiamide||acotiamide
+chlorpromazine||chlorpromazine
+l-asparaginase||asparaginase escherichia coli
+tropicamide||tropicamide
+ferrous sulfate||ferrous sulfate
+aflibercept||aflibercept
+fluconazole||fluconazole
+faropenem||faropenem
+fludeoxyglucose (18f)||fludeoxyglucose f-18
+beeswax||beeswax
+mycophenolic acid||mycophenolic acid
+sar153191||sarilumab
+insulin detemir||insulin detemir
+famciclovir||famciclovir
+fenbufen||fenbufen
+kaolin||kaolin
+midazolam||midazolam
+5-aminosalicylic acid||mesalazine
+eritoran||eritoran
+syr-322||alogliptin
+sodium bicarbonate||sodium bicarbonate
+hydroxychloroquine||hydroxychloroquine
+zolpidem||zolpidem
+soybean oil||soybean oil
+zaltoprofen||zaltoprofen
+tizanidine||tizanidine
+silver nitrate||silver nitrate
+polymyxin b sulfate||polymyxin b sulfate
+ethinyl estradiol||ethinyl estradiol
+camptothecin||camptothecin
+ephedra||ephedra
+tas-102||tas-102
+pralatrexate||pralatrexate
+biapenem||biapenem
+alminoprofen||alminoprofen
+pramipexole||pramipexole
+ethanol||ethanol
+leflunomide||leflunomide
+cefotiam||cefotiam
+clindamycin||clindamycin
+potassium carbonate||potassium carbonate
+sumatriptan succinate||sumatriptan
+glucosamine||glucosamine
+vidarabine||vidarabine
+azelnidipine||azelnidipine
+bumetanide||bumetanide
+sildenafil||sildenafil
