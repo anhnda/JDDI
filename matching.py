@@ -26,6 +26,8 @@ def loadDrugBankNames(sName=None):
         parts = name.split("||")
         syns = parts[1].split("|")
         hardDrug = parts[0]
+        if len(hardDrug) < 2:
+            continue
         rsyns = set()
         for syn in syns:
             if len(syn) < 5:
@@ -62,7 +64,7 @@ def loadJADERDrugNames(exclusivePath=None, sName=None):
 
     print(exclusiveTokens)
 
-    path = "%s/Tmp/DrugFreq.txt" % params.OUTPUT_DIR
+    path = "%s/Tmp/DrugFreq2.txt" % params.OUTPUT_DIR
     names = set()
     fin = open(path)
     cc = 0
@@ -71,6 +73,12 @@ def loadJADERDrugNames(exclusivePath=None, sName=None):
         if line == "":
             break
         parts = line.strip().split("\t")
+        if len(parts) < 2:
+            print(line)
+            print(parts[1])
+            print(parts[0])
+            print(len(parts[0].strip()))
+            exit(-1)
         name = parts[1].lower().strip()
         isCont = False
         for token in exclusiveTokens:
@@ -242,7 +250,7 @@ def exportNoMatching():
     # for k, v in d3.items():
     #     d1[k] = v
     selectedDrugs = d1.keys()
-    fin = open("%s/Tmp/DrugFreq.txt" % params.OUTPUT_DIR)
+    fin = open("%s/Tmp/DrugFreq2.txt" % params.OUTPUT_DIR)
     fout2 = open("%s/rawMatching/NoMatchingDrugFreq.txt" % params.OUTPUT_DIR, "w")
 
     dMatchCout = dict()
@@ -464,7 +472,12 @@ def exportAllDict1():
     # Salt:
     fin = open("%s/rawMatching/Salt.txt" % params.OUTPUT_DIR)
     lines = fin.readlines()
-    salts = set([line.strip() for line in lines])
+    salts = set()
+    for salt in lines:
+        salt = salt.strip()
+        if salt.__contains__("#"):
+            continue
+        salts.add(salt)
 
     # Partial matching:
     dHardDrug, _, _ = loadDrugBankNames()
@@ -489,7 +502,10 @@ def exportAllDict1():
     lines = fin.readlines()
     fin.close()
     for line in lines:
+
         line = line.strip()
+        if line.__contains__("#"):
+            continue
         parts = line.split("||")
         t = utils.get_insert_key_dict(dDict1, parts[0], set())
         t.add(parts[-1])
@@ -510,25 +526,36 @@ def exportFinalMap():
     exportAllDict1()
 
     fout = open("%s/finalMap/FinalMap.txt" % params.OUTPUT_DIR, "w")
+
     fin = open("%s/finalMap/DrugMap1.txt" % params.OUTPUT_DIR)
     lines = fin.readlines()
     fin.close()
 
     for line in lines:
         fout.write("%s" % line)
+    fout.close()
+
+    fout2 = open("%s/finalMap/FinalMapH.txt" % params.OUTPUT_DIR, "w")
     fin2 = open("%s/finalMap/DrugMapH.txt" % params.OUTPUT_DIR)
     dHardDrugMap, _, _ = loadDrugBankNames()
     while True:
         line = fin2.readline()
         if line == "":
             break
+        if line.__contains__("#"):
+            continue
         parts = line.strip().split("||")
         dJader = parts[0]
-        dDb = dHardDrugMap[parts[1].split("|")[-1]]
-        fout.write("%s||%s\n" % (dJader, dDb))
-
-    fout.close()
+        dbNames = []
+        try:
+            for dDB in parts[1].split("|"):
+                dDbName = dHardDrugMap[dDB]
+                dbNames.append(dDbName)
+            fout2.write("%s||%s\n" % (dJader, "|".join(dbNames)))
+        except:
+            continue
     fin2.close()
+    fout2.close()
 
 
 def finalStats():
@@ -541,8 +568,18 @@ def finalStats():
         dMap[parts[0]] = parts[1]
     fin.close()
 
+
+    fin = open("%s/finalMap/FinalMapH.txt" % params.OUTPUT_DIR)
+    lines = fin.readlines()
+    lines = [line.strip() for line in lines]
+    dMapH = dict()
+    for line in lines:
+        parts = line.split("||")
+        dMapH[parts[0]] = parts[1]
+    fin.close()
+
     dFreq = dict()
-    fin = open("%s/Tmp/DrugFreq.txt" % params.OUTPUT_DIR)
+    fin = open("%s/Tmp/DrugFreq2.txt" % params.OUTPUT_DIR)
     while True:
         line = fin.readline()
         if line == "":
@@ -552,8 +589,10 @@ def finalStats():
         drugJader = parts[1]
         c = int(parts[0])
         dDrugBank = utils.get_dict(dMap, drugJader, -1)
-        if dDrugBank != -1:
+        d2 = utils.get_dict(dMapH, drugJader, -1)
+        if dDrugBank != -1 or d2 != -1:
             utils.add_dict_counter(dFreq, dDrugBank, c)
+
 
     kvs = utils.sort_dict(dFreq)
     fout = open("%s/FinalDrugFreq.txt" % params.OUTPUT_DIR, "w")
@@ -588,13 +627,13 @@ def clean():
 
 if __name__ == "__main__":
     # match()
-
     # exportNoMatching()
+    # exportCanSaltFreq()
     # exportCandidateNonMatching()
-    # filterCandidates2()
-    # filterCandidates3()
-    # exportFinalMap()
+    filterCandidates2()
+    filterCandidates3()
+    exportFinalMap()
     finalStats()
-    clean()
+    # clean()
 
     pass

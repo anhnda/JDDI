@@ -1,180 +1,447 @@
-erythromycin stearate||erythromycin|stearic acid
-maxacalcitol betamethasone butyrate propionate||maxacalcitol|betamethasone|butyric acid
-estradiol levonorgestrel||levonorgestrel|estradiol
-estradiol propionic acid ester||propanoic acid|estradiol
-123i-iodine amphetamine||iodine|amphetamine
-estriol propionic acid ester||propanoic acid|estriol
+esomeprazole magnesium||magnesium|esomeprazole
+esomeprazole magnesium hydrate||magnesium|esomeprazole
+esomeprazole magnesium hydrate capsule||magnesium|esomeprazole
+estradiol benzoic acid ester (2)||estradiol|benzoic acid
+estradiol levonorgestrel||estradiol|levonorgestrel
+refined soy lecithin||lecithin, soybean|lecithin
+0.9% sodium chloride||chlorine|chloride ion
+estradiol propionic acid ester||estradiol|propanoic acid
+maxacalcitol betamethasone butyrate propionate||betamethasone|maxacalcitol
+estriol propionic acid ester||estriol|propanoic acid
 retinol palmitate||vitamin a|palmitic acid
+revo folinate calcium||calcium|leucovorin
+10% sodium chloride||chlorine|chloride ion
+rhubarb peony skin hot water||rhubarb|water
+meglumine gadopentetate||meglumine|gadopentetic acid
+riboflavin sodium phosphate||phosphate ion|riboflavin
+ethinodiol acetate||acetate|etynodiol
+ribostamycin sulfate||ribostamycin|sulfate ion
+ethinyl estradiol norethisterone||ethinylestradiol|estradiol|norethisterone
+ethinyl estradiol-based preparation||ethinylestradiol|estradiol
+rosuvastatin calcium||calcium|rosuvastatin
+metenolone acetate||acetate|metenolone
+123i-iodine amphetamine||amphetamine|iodine
+rosuvastatin calcium combination drug||calcium|rosuvastatin
+bleomycin sulfate||bleomycin|sulfate ion
+roxatidine acetate hydrochloride||acetate|roxatidine acetate
+methenolone acetate||acetate|metenolone
 methionine preparation||methionine|n-acetylmethionine
-riboflavin butyrate||riboflavin|butyric acid
-ethinyl estradiol norethisterone||estradiol|norethisterone|ethinyl estradiol
-ethinyl estradiol-based preparation||estradiol|ethinyl estradiol
-methyl salicylate dl-menthol||menthol|methyl salicylate
-bopindolol malonate||bopindolol|malonic acid
-brivanib alaninate or placebo||brivanib alaninate|brivanib
-bromelain tocopherol acetate||bromelains|alpha-tocopherol acetate|tocopherol
-methylthioninium chloride hydrate||methylthioninium|methylene blue
-budesonide formoterol fumarate hydrate||formoterol|budesonide
-fibrinogen factor xiii (1)||fibrinogen human|coagulation factor x human
-fibrinogen factor xiii (2)||fibrinogen human|coagulation factor x human
-fibrinogen factor xiii (3)||fibrinogen human|coagulation factor x human
+blood coagulation factor xiii||factor xiii (human)|coagulation factor x human
+fenoprofen calcium||fenoprofen|calcium
+saiko keishi inui ginger hot water||ginger|water
+methylmethionine sulfonium chloride||chlorine|chloride ion
+methylprednisolone acetate||acetate|methylprednisolone
+salbutamol sulfate||sulfate ion|salbutamol
+methylprednisolone succinate nato||methylprednisolone hemisuccinate|methylprednisolone
+methylrosaniline chloride||gentian violet cation|chlorine|chloride ion
+fibrinogen factor xiii (1)||factor xiii (human)|fibrinogen human|coagulation factor x human
+methylthioninium chloride hydrate||methylene blue|chlorine|methylthioninium|chloride ion
+fibrinogen factor xiii (2)||factor xiii (human)|fibrinogen human|coagulation factor x human
+brivanib alaninate or placebo||brivanib alaninate|brivanib|alanine
+fibrinogen factor xiii (3)||factor xiii (human)|fibrinogen human|coagulation factor x human
+bromelain tocopherol acetate||acetate|alpha-tocopherol acetate|tocopherol|bromelains
+miconazole nitrate||nitrate|miconazole
 flavin adenine dinucleotide sodium||flavin adenine dinucleotide|adenine
-morphine atropine||atropine|morphine
-fluphenazine decanoic acid ester||capric acid|fluphenazine
+budesonide formoterol fumarate hydrate||budesonide|formoterol
+mitiglinide calcium||mitiglinide|calcium
+flecainide acetate||flecainide|acetate
+mitiglinide calcium hydrate||mitiglinide|calcium
+fludarabine phosphate||fludarabine|phosphate ion
+fludrocortisone acetate||acetate|fludrocortisone
+fluphenazine decanoic acid ester||fluphenazine|capric acid
 formalin cresol||formaldehyde|cresol
 formalin guaiacol||formaldehyde|guaiacol
-fosravuconazole l-lysine ethanol||ethanol|l-lysine
-fosravuconazole l-lysine ethanol adduct||ethanol|l-lysine
-candesartan cilexetil hydroclo||candesartan|candesartan cilexetil
-furosemide reserpine||furosemide|reserpine
-nandrolone frill propionic acid ester||nandrolone|propanoic acid
-galactose-palmitic acid mixture||palmitic acid|galactose
-natural aluminum silicate||silicon dioxide|aluminium
-carteolol hydrochloride latanoprost||carteolol|latanoprost
 serotonin noradrenaline reuptake inhibitor (snri)||serotonin|norepinephrine
-cefoperazone sodium sulbactamna||cefoperazone|sulbactam
-nicotinamide papaverine||nicotinamide|papaverine
-nicotinamide papaverine hydrochloride||nicotinamide|papaverine
-glucose vitamin b1||thiamine|glucose
-aceglutamide aluminum||aluminium|aceglutamide
-glycerin-fructose||fructose|glycerin
-acetaminophen-diphenhydramine||acetaminophen|diphenhydramine
-glycyrrhizin_glycine_cysteine combined drug||glycine|glycyrrhizic acid|l-cysteine
-norethisterone ethinyl estradiol||estradiol|norethisterone|ethinyl estradiol
-norethisterone mestranol (3)||mestranol|norethisterone
-norgestrel ethinyl estradiol||estradiol|norgestrel|ethinyl estradiol
-chloramphenicol colistin sodium methanesulfonate||chloramphenicol|colistin
-chloramphenicol palmitic acid ester||chloramphenicol|palmitic acid
-guaiacol parachlorophenol||parachlorophenol|guaiacol
-adenosine triphosphate disodium||atp|adenosine
-adenosine triphosphate disodium hydrate||atp|adenosine
-chlorphenesin carbamic acid ester||chlorphenesin|carbamic acid
-haloperidol decanoic acid ester||haloperidol|capric acid
-chlorpromazine phenol phthalate||chlorpromazine|phenol
+fosamprenavir calcium hydrate||calcium|fosamprenavir
+fosaprepitant meglumine||fosaprepitant|meglumine
+fosfomycin calcium||fosfomycin|calcium
+fosfomycin calcium hydrate||fosfomycin|calcium
+fosravuconazole l-lysine ethanol||l-lysine|ethanol|fosravuconazole
+fosravuconazole l-lysine ethanol adduct||l-lysine|ethanol|fosravuconazole
+morphine atropine||morphine|atropine
+fradiomycin gramicidin s||gramicidin d|neomycin
+fradiomycin prednisolone acetate||acetate|prednisolone acetate|prednisolone|neomycin
+calcium chloride dihydrate||calcium|chlorine|calcium chloride|chloride ion
+morphine sulfate||morphine|sulfate ion
+fradiomycin sulfate||sulfate ion|neomycin
+morphine sulfate hydrate||morphine|sulfate ion
+calcium chloride hydrate||calcium|chlorine|calcium chloride|chloride ion
+calcium folinate||calcium|leucovorin
+calcium gluconate hydrate||calcium|calcium gluconate
+calcium gluconate preparation||calcium|calcium gluconate
+calcium hydrogen phosphate hydrate||calcium|hydrogen|phosphate ion
+calcium hydroxide||calcium|hydroxide ion
+calcium isoniazid pyruvate||calcium|isoniazid
+calcium lactate hydrate||calcium|calcium lactate
+calcium lactate preparation||calcium|calcium lactate
+calcium pantothenate||calcium|pantothenic acid
+calcium pantothenate (1)||calcium|pantothenic acid
+furosemide reserpine||reserpine|furosemide
+calcium phosphate preparation||calcium|calcium phosphate|phosphate ion
+calcium polystyrene sulfonate||calcium|tolevamer
+3% petrolatum acetate||acetate|petrolatum
+galactose-palmitic acid mixture||galactose|palmitic acid
+calcuum carbonate||carbonate ion|activated charcoal
+calcuum chloride||chlorine|chloride ion
+calcuum chloride anhydrous||chlorine|chloride ion
+ganirelix acetate||acetate|ganirelix
+sitagliptin phosphate||phosphate ion|sitagliptin
+sitagliptin phosphate hydrate||phosphate ion|sitagliptin
+sitagliptin phosphate monohydrate||phosphate ion|sitagliptin
+candesartan cilexetil hydroclo||candesartan cilexetil|candesartan
+capreomycin sulfate||capreomycin|sulfate ion
+sodium acetate hydrate||acetate|sodium acetate
+mupirocin calcium hydrate||calcium|mupirocin
+sodium acetate trihydrate||acetate|sodium acetate
+gentamicin sulfate||gentamicin|sulfate ion
+sodium alginate sulfate||alginic acid|sulfate ion
+sodium amidotrizoate meglumine||diatrizoate|meglumine
+sodium betamethasone phosphate||betamethasone|betamethasone phosphate|phosphate ion
+sodium chloride solution.isotonic||chlorine|chloride ion
+sodium chondroitin sulfate||chondroitin sulfate|sulfate ion
+n-methylscopolamine methyl sulfate||methscopolamine|sulfate ion
+na hydrogen carbonate||carbonate ion|hydrogen|activated charcoal
+carnitine chloride||levocarnitine|chlorine|chloride ion
+sodium colistin methanesulfonate||methane|colistin
+carnitine chloride preparation||levocarnitine|chlorine|chloride ion
+sodium cromoglycate||chromium|cromoglicic acid
+glatiramer acetate||acetate|glatiramer
+nafarelin acetate hydrate||acetate|nafarelin
+4-dihydroxy-l-phenylalanine||phenylalanine|levodopa
+carpronium chloride||chlorine|chloride ion
+carteolol hydrochloride latanoprost||latanoprost|carteolol
+nandrolone frill propionic acid ester||nandrolone|propanoic acid
+naphazoline nitrate||nitrate|naphazoline
+caspofungin acetate||caspofungin|acetate
+glucose vitamin b1||thiamine|dextrose, unspecified form
+sodium hydrocortisone phosphate||hydrocortisone|phosphate ion|hydrocortisone phosphate
+sodium hydrogen phosphate hydrate||hydrogen|phosphate ion
 sodium iodide (123i)||iodide|sodium iodide
 sodium iodide (131i)||iodide|sodium iodide
-opium alkaloid atropine||opium|atropine
-sodium riboflavin phosphate||flavin mononucleotide|riboflavin
-opium alkaloid scopolamine||opium|scopolamine
-solvent degreased soybean carbonization tar||activated charcoal|soybean
-aluminium hydroxide gel||aluminium|aluminum hydroxide
-aluminum flufenamic acid||aluminium|flufenamic acid
-aluminum hydroxide gel||aluminium|aluminum hydroxide
-clobetasone butyrate||clobetasone|butyric acid
-hydrocortisone butyrate||hydrocortisone|butyric acid
-hydrocortisone crotamiton||hydrocortisone|crotamiton
-hydrocortisone propionate butyrate||hydrocortisone|butyric acid
-hydrocortisone sodium phosphate||hydrocortisone|sodium phosphate
-colistin methanesulfonate sodium tetracycline hydrochloride||colistin|tetracycline
-sulbactam sodium ampicillin nato||ampicillin|sulbactam
-outside of fluticasone propionate||fluticasone|fluticasone propionate
-sulbactam sodium cefoperazone||cefoperazone|sulbactam
-sulbactam-ampicillin||ampicillin|sulbactam
-sulfamethoxazole; trimethoprim||sulfamethoxazole|trimethoprim
-contains telmisartan and hydrochlorothiazide||telmisartan|hydrochlorothiazide
-contains valsartan and amlodipine besilate||amlodipine|valsartan
-copper chlorophyllin sodium||copper|chlorophyll a
-anti-aldosterone preparations||fidarestat|aldosterone
-ibuprofen l-lysine||ibuprofen|l-lysine
-synthetic aluminum silicate||silicon dioxide|aluminium
-imipenem cilastatin sodium||cilastatin|imipenem
+natural aluminum silicate||aluminium|silicon dioxide
+sodium methylprednisolone succinate||methylprednisolone hemisuccinate|methylprednisolone
+neomycin sulfate||sulfate ion|neomycin
+neostigmine methyl sulfate||neostigmine|sulfate ion
+glycerin-fructose||glycerin|fructose
+sodium prednisolone phosphate||prednisolone phosphate|prednisolone|phosphate ion
+sodium prednisolone succinate||prednisolone hemisuccinate|prednisolone
+glycyrrhizic acid / dl-methionine||racemethionine|methionine|glycyrrhizic acid|n-acetylmethionine
+sodium riboflavin phosphate||flavin mononucleotide|phosphate ion|riboflavin
+glycyrrhizin_glycine_cysteine combined drug||glycine|cysteine|glycyrrhizic acid
+cefoperazone sodium sulbactamna||sulbactam|cefoperazone
+solvent degreased soybean carbonization tar||soybean|activated charcoal
+nicotinamide combination||nicotinamide|nicotine
+goserelin acetate||acetate|goserelin
+nicotinamide papaverine||papaverine|nicotinamide|nicotine
+spiramycin acetate||acetate|spiramycin
+nicotinamide papaverine hydrochloride||papaverine|nicotinamide|nicotine
+abacavir sulfate||abacavir|sulfate ion
+guaiacol parachlorophenol||parachlorophenol|guaiacol
+abiraterone acetate||acetate|abiraterone
+guanabenz acetate||acetate|guanabenz
+guanethidine sulfate||sulfate ion|guanethidine
+norethisterone acetate||acetate|norethisterone
+norethisterone ethinyl estradiol||ethinylestradiol|estradiol|norethisterone
+norethisterone mestranol (3)||mestranol|norethisterone
+norgestrel ethinyl estradiol||norgestrel|estradiol|ethinylestradiol
+acamprosate calcium||acamprosate|calcium
+streptomycin sulfate||sulfate ion|streptomycin
+aceglutamide aluminum||aceglutamide|aluminium
+acetaminophen-diphenhydramine||diphenhydramine|acetaminophen
+strontium chloride (89sr)||chlorine|strontium chloride|chloride ion
+cetrorelix acetate||acetate|cetrorelix
+cetylpyridinium chloride hydrate||cetylpyridinium|chlorine|chloride ion
+acetylcholine chloride||acetylcholine|chlorine|chloride ion
+sugar-containing iron oxide||iron|ferric oxide
+haloperidol decanoic acid ester||haloperidol|capric acid
+octreotide acetate||acetate|octreotide
+sulbactam sodium ampicillin nato||sulbactam|ampicillin
+sulbactam sodium cefoperazone||sulbactam|cefoperazone
+sulbactam-ampicillin||sulbactam|ampicillin
+sulconazole nitrate||nitrate|sulconazole
+sulfamethoxazole; trimethoprim||trimethoprim|sulfamethoxazole
+adenosine triphosphate disodium||adenosine|atp
+heparin calcium||calcium|heparin
+adenosine triphosphate disodium hydrate||adenosine|atp
+chloramphenicol colistin sodium methanesulfonate||chloramphenicol|methane|chlorine|colistin
+chloramphenicol palmitic acid ester||chloramphenicol|chlorine|palmitic acid
+chloramphenicol sodium succinate||chloramphenicol|chlorine
+chlordiazepoxide hydrochloride||chlorine|chlordiazepoxide
+adrenaline potassium bitartrate||epinephrine|potassium bitartrate
+chlorhexidine acetate||acetate|chlorine|chlorhexidine
+chlorhexidine gluconate||chlorine|chlorhexidine
+chlorhexidine hydrochloride||chlorine|chlorhexidine
+adrenaline tartrate hydrogen salt||epinephrine|hydrogen
+suxamethonium chloride hydrate||succinylcholine|chlorine|chloride ion
+chlormadinone acetate mestranol||chlormadinone acetate|mestranol|chlorine|chlormadinone|acetate
+sweet barley jujube hot water||barley|water
+hexamine mandelic acid||mandelic acid|methenamine
+hexoprenaline sulfate||hexoprenaline|sulfate ion
+chlorphenamine maleate||chlorine|chlorpheniramine
+chlorphenesin carbamic acid ester||chlorine|carbamic acid|chlorphenesin
+chlorpheniramine maleate||chlorine|chlorpheniramine
+chlorpheniramine maleate anhydrous caffeine||chlorine|caffeine|chlorpheniramine
+chlorpromazine hibenzate||chlorine|chlorpromazine
+chlorpromazine hydrochloride||chlorine|chlorpromazine
+chlorpromazine phenol phthalate||chlorine|phenol|chlorpromazine
+synthetic aluminum silicate||aluminium|silicon dioxide
+chlorpromazine preparation||chlorine|chlorpromazine
+chlorpromazine tannate||chlorine|chlorpromazine
+chlorprothixen hydrochloride||chlorprothixene|chlorine
+opium alkaloid atropine||atropine|opium
+cholecalciferol (natural vitamin d)||cholecalciferol|vitamin d
 synthetic salmon calcitonin||salmon calcitonin|salmon, unspecified
-paliperidone palmitate||palmitic acid|paliperidone
-paliperidone palmitic acid ester||palmitic acid|paliperidone
-indinavir sulfate ethanol adduct||indinavir|ethanol
-tafluprost timolol maleate||timolol|tafluprost
-indium (111in) ibritumomab tiuxetan (genetical recombination)||indium|ibritumomab tiuxetan
-cyclophosphamide (cp)||cyclophosphamide|emodepside
-cyclophosphamide hydrate||cyclophosphamide|emodepside
-cyclophosphamide monohydrate||cyclophosphamide|emodepside
+opium alkaloid scopolamine||opium|scopolamine
+chondroitin sulfate sodium||chondroitin sulfate|sulfate ion
+chondroitin sulfate sodium (1)||chondroitin sulfate|sulfate ion
+chondroitin sulfate sodium (2)||chondroitin sulfate|sulfate ion
+orciprenaline sulfate||sulfate ion|orciprenaline
+tafamidis meglumine||meglumine|tafamidis
+tafluprost timolol maleate||tafluprost|timolol
+oseltamivir phosphate||oseltamivir|phosphate ion
+aluminium hydroxide gel||aluminium|aluminum hydroxide|hydroxide ion
+aluminum flufenamic acid||aluminium|flufenamic acid
+aluminum hydroxide gel||aluminium|aluminum hydroxide|hydroxide ion
+clindamycin phosphate||clindamycin|phosphate ion
+clindamycin phosphate hydrate||clindamycin|phosphate ion
+aluminum hydroxide gel combination drug||aluminium|aluminum hydroxide|hydroxide ion
+aluminum potassium sulfate hydrate||sulfate ion|aluminium|potassium sulfate|potassium alum
+clopidogrel hydrogen sulfate||clopidogrel|sulfate ion|hydrogen
 tazobactam sodium piperacillin nato||piperacillin|tazobactam
-insulin aspart protamine (crystal line)||insulin aspart|protamine
-d-sorbitol and d-mannitol||mannitol|sorbitol
+hydrocortisone crotamiton||hydrocortisone|crotamiton
+clopidogrel sulfate||clopidogrel|sulfate ion
+amikacin sulfate||amikacin|sulfate ion
+hydrocortisone sodium phosphate||hydrocortisone|phosphate ion
+hydrocortisone succinate natriu||hydrocortisone succinate|hydrocortisone
+codein phosphate hydrate||phosphate ion|codeine
+codein phosphate hydrate (1% or less)||phosphate ion|codeine
+codein phosphate hydrate (10%)||phosphate ion|codeine
+hydroxocobalamin acetate||acetate|hydroxocobalamin
+codeine phosphate||phosphate ion|codeine
+hydroxychloroquine sulfate||hydroxychloroquine|sulfate ion
+codeine phosphate hydrate||phosphate ion|codeine
 tenofovir alafenamide fumarate||tenofovir|tenofovir alafenamide
 tenofovir disoproxil fumarate||tenofovir|tenofovir disoproxil
-dapagliflozin propylene glycol hydrate||propylene glycol|dapagliflozin
-interferon alfacon-1 (genetical recombination)||natural alpha interferon|interferon alfacon-1
-interferon alpha-2a (genetical recombination)||interferon alfa-2a, recombinant|natural alpha interferon|interferon alfa-n1
-testosterone propionic acid ester||propanoic acid|testosterone
-interferon alpha-2b (genetical recombination)||natural alpha interferon|interferon alfa-n1
-darunavir ethanol adduct||ethanol|darunavir
-pentamidine acetylate||pentaerythritol tetranitrate|pentamidine
-pentazocine hydrochloride||pentaerythritol tetranitrate|pentazocine
-ipragliflozin l-proline||ipragliflozin|l-proline
-artemether lumefantrine||artemether|lumefantrine
-tetrakismethoxyisobutylisocyanide copper (i) boric acid tetrafluoride||copper|boric acid
-dental iodine glycerin||iodine|glycerin
-desogestrel ethinyl estradiol||desogestrel|estradiol|ethinyl estradiol
-dexamethasone palmitic acid ester||dexamethasone|palmitic acid
-aspirin aluminum||aluminium|acetylsalicylic acid
-aspirin and ascorbic acid||vitamin c|acetylsalicylic acid
-dexamethasone sodium phosphate||dexamethasone|sodium phosphate
-josamycin propionic acid ester||josamycin|propanoic acid
-dexamethasone sodium sulfate||dexamethasone|sodium sulfate
-aspirin dl-lysine||acetylsalicylic acid|l-lysine
-dextran sodium sulfate||dextran|sodium sulfate
-titanium silicate||silicon dioxide|titanium
+colistin methanesulfonate sodium tetracycline hydrochloride||tetraiodothyroacetic acid|tetracycline|methane|colistin
+terbutaline sulfate||terbutaline|sulfate ion
+teriparatide acetate||acetate|teriparatide
+colistin sodium methanesulfonate||methane|colistin
+ibuprofen l-lysine||l-lysine|ibuprofen
+colistin sulfate||sulfate ion|colistin
+testosterone enanthic acid ester||testosterone|heptanoic acid
+amvenonium chloride||chlorine|chloride ion
+testosterone propionic acid ester||testosterone|propanoic acid
+tetracaine hydrochloride||tetracaine|tetraiodothyroacetic acid
+tetracosactide acetate||acetate|tetracosactide|tetraiodothyroacetic acid
+tetracosactide acetate [persistence]||acetate|tetracosactide|tetraiodothyroacetic acid
+imipenem cilastatin sodium||cilastatin|imipenem
+tetracycline antibiotics||tetraiodothyroacetic acid|tetracycline
+outside of fluticasone propionate||fluticasone propionate|fluticasone
+tetracycline hydrochloride||tetraiodothyroacetic acid|tetracycline
+tetracycline hydrochloride [insertion]||tetraiodothyroacetic acid|tetracycline
+tetrahydrozoline nitrate||nitrate|tetryzoline
+tetrakismethoxyisobutylisocyanide copper (i) boric acid tetrafluoride||boric acid|copper
+contains telmisartan and hydrochlorothiazide||hydrochlorothiazide|telmisartan
+thallium chloride (201tl)||thallous chloride|chlorine|chloride ion
+anhydrous disodium hydrogen phosphate||sodium phosphate, dibasic|hydrogen|phosphate ion
+contains valsartan and amlodipine besilate||amlodipine|valsartan
+thiamine chloride hydrochloride||thiamine|chlorine|chloride ion
+indinavir sulfate ethanol adduct||indinavir|ethanol|sulfate ion
+anhydrous mitiglinide calcium||mitiglinide|calcium
+oxiconazole nitrate||nitrate|oxiconazole
+indium (111in) ibritumomab tiuxetan (genetical recombination)||ibritumomab tiuxetan|indium
+anti-aldosterone preparations||fidarestat|aldosterone
+thiamine nitrate||thiamine|nitrate
+copper chlorophyllin sodium||chlorine|copper
+indium chloride||chlorine|indium|chloride ion
+copper chlorophyllin sodium combination||chlorine|copper
+copper chlorophyllin sodium combination drug||chlorine|copper
+titanium silicate||titanium|silicon dioxide
+paliperidone palmitate||paliperidone|palmitic acid
+insulin aspart protamine (crystal line)||insulin aspart|protamine
 tocopherol nicotinic acid ester||niacin|tocopherol
-diflucortolone valerate lidocaine||lidocaine|difluocortolone
-phenytoin phenobarbital||phenytoin|phenobarbital
-diflucortolone valeric acid ester lidocaine||lidocaine|difluocortolone
-tramadol and acetaminophen||acetaminophen|tramadol
-diphenhydramine diprophylline||dyphylline|diphenhydramine
-trametinib dimethyl sulfoxide adduct||trametinib|dimethyl sulfoxide
-piperacillin and tazobactam||piperacillin|tazobactam
-travoprost timolol maleate||timolol|travoprost
-l-arginine l-glutamic acid hydrate||glutamic acid|l-arginine
+paliperidone palmitic acid ester||paliperidone|palmitic acid
+tocopherol succinate calcium||calcium|tocopherol
+cromoglicate sodium||chromium|cromoglicic acid
+tokishigyakukago 茱萸 ginger hot water||ginger|water
+interferon alfacon-1 (genetical recombination)||interferon alfa|interferon alfacon-1
+interferon beta-1a (genetical recombination)||human interferon beta|interferon beta-1a
+interferon beta-1b (genetical recombination)||human interferon beta|interferon beta-1b
+paromomycin sulfate||paromomycin|sulfate ion
+tramadol and acetaminophen||tramadol|acetaminophen
+trametinib dimethyl sulfoxide adduct||dimethyl sulfoxide|trametinib
+iodine lecithin||lecithin|iodine
+d-chlorpheniramine maleate||chlorine|chlorpheniramine
+d-sorbitol and d-mannitol||mannitol|sorbitol
+ipragliflozin l-proline||proline|ipragliflozin
+travoprost timolol maleate||travoprost|timolol
+ipragliflozin l-proline combination||proline|ipragliflozin
+d-α-tocopherol acetate||acetate|vitamin e|alpha-tocopherol acetate|tocopherol
+dabigatran etexilate mesilate||dabigatran|dabigatran etexilate
+dabigatran etexylate methanesulfon||methane|dabigatran
+dabigatran etexylate methanesulfonate||methane|dabigatran
 tribenoside lidocaine||lidocaine|tribenoside
-barium sulfate containing carbon dioxide||barium|activated charcoal|barium sulfate|carbon dioxide
+trichlormethiazide combination drug||trichlormethiazide|trichloroethylene
+isatuximab (anti-cd38 monoclonal antibody)||muromonab|isatuximab
+apricot kernel water||apricot|prunus armeniaca seed|water
+isoconazole nitrate||nitrate|isoconazole
 trifluridine and tipiracil hydrochloride||tipiracil|trifluridine
-barium sulfate powder 97.5% holly||barium|barium sulfate
-polyvinyl alcohol iodine||iodine|ethanol|polyvinyl alcohol
-basiliximab (genetical recombination)||basiliximab|basil
-lamivudine abacavir sulfate||lamivudine|abacavir
-potassium l-aspartate||l-aspartic acid|insulin aspart
-laninamivir octanoic acid ester hydrate||caprylic acid|laninamivir
-lanthanum carbonate hydrate||activated charcoal|lanthanum carbonate
-pralidoxime iodide||iodide|pralidoxime
-unadjusted cornstarch||corn|starch, corn
-dried egg yolk combination||egg|egg yolk
-latanoprost timolol maleate||timolol|latanoprost
-droperidol fentanyl citrate||droperidol|fentanyl
-drospirenone ethinyl estradiol betadex||betadex|drospirenone|ethinyl estradiol|estradiol
-prasterone sulfate sodium hydrate||prasterone|prasterone sulfate
-dry aluminum hydroxide gel||aluminium|aluminum hydroxide
-dry concentrated human activated protein c||protein c|drotrecogin alfa
-pregnenolone androstenedione combination||pregnenolone|androstenedione
-levodopa benserazide hydrochloride||levodopa|benserazide
-procainamide hydrochloride||procaine|procainamide
-benzylpenicillin procaine||procaine|benzylpenicillin
-procainamide-based preparation||procaine|procainamide
-levonorgestrel ethinyl estradiol||levonorgestrel|estradiol|ethinyl estradiol
-betamethasone butyrate propionate||betamethasone|butyric acid
-efonidipine hydrochloride ethanol adduct||ethanol|efonidipine
-betamethasone butyrate propionic acid ester||propanoic acid|betamethasone|butyric acid
-betamethasone d-chlorpheniramine maleate||betamethasone|chlorphenamine
-limethason (dexamethasone palmitate)||dexamethasone|palmitic acid
+apricot kernel water mixed liquid medicine||apricot|prunus armeniaca seed|water
+isoniazid sodium methanesulfonate hydrate||methane|isoniazid
+pentamidine acetylate||pentamidine|pentaerythritol tetranitrate
+isoprenaline sulfate||isoprenaline|sulfate ion
+arbekacin sulfate||arbekacin|sulfate ion
+dapagliflozin propylene glycol hydrate||dapagliflozin|propylene glycol
+pentazocine hydrochloride||pentazocine|pentaerythritol tetranitrate
+trospium chloride||trospium|chlorine|chloride ion
+pentobarbital calcium||calcium|pentobarbital
+darunavir ethanol adduct||ethanol|darunavir
+artemether lumefantrine||artemether|lumefantrine
+josamycin propionic acid ester||propanoic acid|josamycin
+decalinium chloride||chlorine|chloride ion
+decalinium chloride lozenges||chlorine|chloride ion
+kanamycin sulfate||sulfate ion|kanamycin
+degarelix acetate||acetate|degarelix
+aspartate calcium||calcium|insulin aspart
+aspirin aluminum||aluminium|acetylsalicylic acid
+dental iodine glycerin||glycerin|iodine
+aspirin and ascorbic acid||ascorbic acid|acetylsalicylic acid
+unadjusted cornstarch||starch, corn|corn
+aspirin dl-lysine||l-lysine|acetylsalicylic acid
+atazanavir sulfate||sulfate ion|atazanavir
+dequalinium chloride||dequalinium|chlorine|chloride ion
+desmopressin acetate||acetate|desmopressin
+atorvastatin calcium||calcium|atorvastatin
+desmopressin acetate hydrate||acetate|desmopressin
+desogestrel ethinyl estradiol||ethinylestradiol|estradiol|desogestrel
+atorvastatin calcium hydrate||calcium|atorvastatin
+atorvastatin calcium hydrate combination drug||calcium|atorvastatin
+atorvastatin calcium hydrate combination drug (1)||calcium|atorvastatin
+phenytoin phenobarbital||phenytoin|phenobarbital
+atorvastatin calcium hydrate combination drug (2)||calcium|atorvastatin
+dexamethasone palmitic acid ester||dexamethasone|palmitic acid
+atorvastatin calcium hydrate combination drug (3)||calcium|atorvastatin
+dexamethasone phosphate||dexamethasone|phosphate ion
+l-arginine l-glutamic acid hydrate||glutamic acid|arginine
+atorvastatin calcium hydrate combination drug (4)||calcium|atorvastatin
+atorvastatin calcium trihydrate||calcium|atorvastatin
+l-calcium aspartate hydrate||calcium|insulin aspart
+atropine sulfate||atropine|sulfate ion
+dexamethasone sodium phosphate||dexamethasone|phosphate ion
+atropine sulfate hydrate||atropine|sulfate ion
+dexamethasone sodium sulfate||sodium sulfate|dexamethasone|sulfate ion
+dextran sodium sulfate||sodium sulfate|dextran|sulfate ion
+piperacillin and tazobactam||piperacillin|tazobactam
+piperazine phosphate hydrate||piperazine|phosphate ion
+l-potassium aspartate||insulin aspart|potassium aspartate
+dibekacin sulfate||sulfate ion|dibekacin
+pitavastatin calcium||calcium|pitavastatin
+lamivudine abacavir sulfate||lamivudine|abacavir|sulfate ion
+diflorasone acetate||acetate|diflorasone
+diflucortolone valerate lidocaine||lidocaine|difluocortolone
+diflucortolone valeric acid ester lidocaine||lidocaine|difluocortolone
+laninamivir octanoic acid ester hydrate||laninamivir|caprylic acid
+lanreotide acetate||acetate|lanreotide
+lanthanum carbonate hydrate||carbonate ion|lanthanum carbonate|activated charcoal
+dihydrocodeine phosphate||dihydrocodeine|phosphate ion
+dihydrocodeine phosphate (1% or less)||dihydrocodeine|phosphate ion
+latanoprost timolol maleate||latanoprost|timolol
+dihydrocodeine phosphate (10%)||dihydrocodeine|phosphate ion
+dimemorfan phosphate||dimemorfan|phosphate ion
+polymyxin b sulfate||sulfate ion|polymyxin b
+polyvinyl alcohol iodine||ethanol|polyvinyl alcohol|iodine
 valsartan_hydrochlorothiazide||hydrochlorothiazide|valsartan
-betamethasone sodium phosphate||betamethasone|sodium phosphate
-lithium carbonate||lithium|activated charcoal
-emtricitabine tenofovir arafenamide fumarate||tenofovir|emtricitabine
-protamine insulin zinc||zinc|protamine
-emtricitabine tenofovir disoproxil fumarate||tenofovir|emtricitabine|tenofovir disoproxil
-liver extract flavin adenine dinucleotide sodium||flavin adenine dinucleotide|adenine
-protein silver||silver|protein s human
-endoxan [cyclophosphamide]||cyclophosphamide|emodepside
+potassium chloride combination||chlorine|potassium chloride|chloride ion
+diphenhydramine diprophylline||dyphylline|diphenhydramine
+bamethane sulfate||sulfate ion|bamethan
+diphenhydramine lauryl sulfate||sulfate ion|dodecyl sulfate|diphenhydramine
+potassium l-aspartate||aspartic acid|insulin aspart
+barium sulfate containing carbon dioxide||barium|barium sulfate|carbon dioxide|activated charcoal|sulfate ion
+leuprorelin acetate||acetate|leuprolide
+pralidoxime iodide||iodide|pralidoxime
+barium sulfate powder 97.5% holly||barium|barium sulfate|sulfate ion
+dipotassium chlorazepate||clorazepic acid|chlorine
+prasterone sulfate sodium hydrate||prasterone|prasterone sulfate|sulfate ion
+levocarnitine chloride||levocarnitine|chlorine|chloride ion
+disopyramide phosphate||phosphate ion|disopyramide
 victegravir sodium emtricitabine tenofovir arafenamide fumarate||tenofovir|emtricitabine
-lopinavir ritonavir||ritonavir|lopinavir
-pyridoxal calcium phosphate||calcium phosphate|pyridoxal
-losartan potassium hydrochlorothiazide||losartan|hydrochlorothiazide
-pyridoxal phosphate hydrate||pyridoxal phosphate|pyridoxal
-ephedrine and ephedra preparations||ephedrine|ephedra
-vitamin b12 agent||cyanocobalamin|thiamine
-vitamin b12 preparation||cyanocobalamin|thiamine
-lugol's iodine glycerin||iodine|glycerin
+basiliximab (genetical recombination)||basil|basiliximab
+precipitated ca carbonate||carbonate ion|activated charcoal
+vinblastine sulfate||sulfate ion|vinblastine
+bazedoxifene acetate||acetate|bazedoxifene
+vincristine sulfate||vincristine|sulfate ion
+levodopa benserazide hydrochloride||benserazide|levodopa
+dl-methionine combination||racemethionine|methionine|n-acetylmethionine
+vindesine sulfate||sulfate ion|vindesine
+prednisolone valerate acetate||acetate|prednisolone
+levoleucovorin calcium||levoleucovorin|calcium
+beef liver extract||beef liver|beef
+prednisolone valeric acid ester acetate||acetate|prednisolone
+bekanamycin sulfate||sulfate ion|bekanamycin
+levonorgestrel ethinyl estradiol||ethinylestradiol|estradiol|levonorgestrel
+pregnenolone androstenedione combination||androstenedione|pregnenolone
+vitamin b12 agent||thiamine|cyanocobalamin
+primaquine phosphate||phosphate ion|primaquine
+vitamin b12 preparation||thiamine|cyanocobalamin
+procainamide hydrochloride||procaine|procainamide
+procainamide-based preparation||procaine|procainamide
+benzalkonium chloride||chlorine|benzalkonium|chloride ion
 vitamin d3 preparation||cholecalciferol|vitamin d
-zidovudine and lamivudine||zidovudine|lamivudine
+benzethonium chloride||benzethonium|chlorine|chloride ion
+limethason (dexamethasone palmitate)||dexamethasone|palmitic acid
+benzylpenicillin procaine||procaine|benzylpenicillin
+dried egg yolk combination||egg yolk|egg
+berberine chloride||chlorine|berberine|chloride ion
+droperidol fentanyl citrate||droperidol|fentanyl
+drospirenone ethinyl estradiol betadex||estradiol|drospirenone|betadex|ethinylestradiol
+berberine chloride hydrate||chlorine|berberine|chloride ion
+protamine insulin zinc||protamine|zinc
+protein silver||silver|protein s human
+liver extract flavin adenine dinucleotide sodium||flavin adenine dinucleotide|adenine
+berberine sulfate hydrate||sulfate ion|berberine
+dry aluminum hydroxide gel||aluminium|aluminum hydroxide|hydroxide ion
+dry concentrated human activated protein c||protein c|drotrecogin alfa
+betamethasone acetate||acetate|betamethasone
+betamethasone butyrate propionic acid ester||betamethasone|propanoic acid
+betamethasone d-chlorpheni maleate||betamethasone|chlorine
+betamethasone d-chlorpheniramine maleate||betamethasone|chlorine|chlorpheniramine
+betamethasone phosphate sodium||betamethasone|betamethasone phosphate|phosphate ion
+dry iron sulfate (1)||iron|sulfate ion
+pstassium chloride sodium chliride||chlorine|chloride ion
+betamethasone sodium phosphate||betamethasone|phosphate ion
+dry iron sulfate (2)||iron|sulfate ion
+dry iron sulfate (3)||iron|sulfate ion
+bethanechol chloride||bethanechol|chlorine|chloride ion
+lopinavir ritonavir||ritonavir|lopinavir
+yellow rice hot water||rice|water
+losartan potassium hydrochlorothiazide||hydrochlorothiazide|losartan
+yttrium chloride||chlorine|chloride ion
+econazole nitrate||econazole|nitrate
+pyridoxal calcium phosphate||calcium|calcium phosphate|pyridoxal|phosphate ion
+pyridoxal phosphate hydrate||pyridoxal phosphate|pyridoxal|phosphate ion
+zidovudine and lamivudine||lamivudine|zidovudine
+lugol's iodine glycerin||glycerin|potassium triiodide|iodine
+edrophonium chloride||edrophonium|chlorine|chloride ion
+zinc acetate hydrate||acetate|zinc|zinc acetate
+efonidipine hydrochloride ethanol adduct||efonidipine|ethanol
+lysine acetate||acetate|l-lysine
 zinc methionine||zinc|methionine|n-acetylmethionine
-zinc oxide and clove oil||clove oil|clove|zinc oxide|zinc
-zinc sulfate syrup||zinc|zinc sulfate
-zinc undecylenate||undecylenate|zinc
+quinidine sulfate hydrate||quinidine|sulfate ion
+lysozyme chloride||lysozyme|chlorine|chloride ion
+zinc oxide and clove oil||zinc oxide|zinc|clove|clove oil
+electrolyte solution w sodium acetate||acetate|sodium acetate
+zinc sulfate combination||sulfate ion|zinc|zinc sulfate
+zinc sulfate hydrate||sulfate ion|zinc|zinc sulfate
+zinc sulfate hydrate combination agent||sulfate ion|zinc|zinc sulfate
+zinc sulfate syrup||sulfate ion|zinc|zinc sulfate
+zinc undecylenate||zinc|undecylenic acid
+radium chloride (223ra)||chlorine|chloride ion
+magnesium aluminate silicate||magnesium|silicon dioxide
+magnesium carbonate combination tablet||carbonate ion|magnesium carbonate|magnesium|activated charcoal
+magnesium oxide tablets 330mg||magnesium|magnesium oxide
+magnesium sulfate hydrate||magnesium sulfate|magnesium|sulfate ion
+emtricitabine tenofovir arafenamide fumarate||tenofovir|emtricitabine
+emtricitabine tenofovir disoproxil fumarate||tenofovir|emtricitabine|tenofovir disoproxil
+manganese chloride||chlorine|manganese|chloride ion
+manganese chloride tetrahydrate||chlorine|manganese|chloride ion
+ephedrine and ephedra preparations||ephedrine|ephedra sinica root

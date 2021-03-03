@@ -1,143 +1,285 @@
-ougon||onion||onion
+teprenon||teprenone||teprenone
+propolis||propolis wax||propolis wax
+dipyrone||dipyrine||aminophenazone
+tituzumab||tigatuzumab||tigatuzumab
+diphenidine||diphenadione||diphenadione
+tas-121||tas-116||tas-116
+prodonisolone||prednisolone||prednisolone
 dip||ditpa||3,5-diiodothyropropionic acid
-asp||atp||atp
-dextrin||dextran||dextran
-asa404||as1404||vadimezan
-ramucir||ramycin||fusidic acid
-daiphen||domiphen||domiphen
-pyr||pear||pear
-zip||zinc||zinc
-coumadin||coumarin||coumarin
-kojin||kaolin||kaolin
-tas-121||tas-102||tas-102
-insulin||inulin||inulin
+soisterol||soysterol||soy sterol
+snri||snail||snail, unspecified
 sg||sage||sage
-dapt||date||date
-coenzyme q||coenzyme r||biotin
-clo||cyclo||emodepside
-clavazam||clobazam||clobazam
+dextrin||dextran||dextran
+sal||salix||willow bark
+dapt||dapta||dapta
+recinamine||rescinnamine||rescinnamine
+protidic acid||piromidic acid||piromidic acid
+insulin||inulin||inulin
+platelet||platelet lysate||platelet lysate
+daiphen||domiphen||domiphen
+ponatib||ponatinib||ponatinib
+freloxacin||fleroxacin||fleroxacin
+cystene||cysteine||cysteine
+cs-7017||cx-717||cx-717
+cox||corn||corn
+coumadin||coumarin||coumarin
 pen||pea||pea
+cough||coash||coenzyme a
 pas||pasbn||pasbn
-chikunine||chinine||quinine
 oxendolone||oxandrolone||oxandrolone
+pge 1||pge-1||alprostadil
+pge||pge-1||alprostadil
+b2||bv2||bv2
 pem||pea||pea
 peg||pea||pea
-pca||pea||pea
 okt||oat||oat
-cdp870||cg7870||cg7870
-cddp||cd-np||cenderitide
+pca||pea||pea
+octotiamine||octopamine||octopamine
+coenzyme q||coenzyme q5||ubiquinone q1
+pav||pea||pea
+niphenazone||norphenazone||edaravone
+nab||na-1||na-1
+clo||cloro||chlorine
+ppi||pvp-i||povidone-iodine
+clavazam||clobazam||clobazam
 par||pear||pear
-nab||namn||namn
+pantosin||pantomin||pantethine
+human immunoglobulin||human immunoglobulin g||human immunoglobulin g
+pyrenoxin||pirenoxina||pirenoxine
 pabron||patrol||fenpropidin
-pab||pacba||4-acetamidobenzoic acid
-abt-199||abt-869||abt-869
-cap||ca4p||ca4p
+pab||pasbn||pasbn
+abt-199||abt-639||abt-639
 mag||mango||mango
-ots||oat||oat
-hep||hops||hops
-buprosion||bupropion||bupropion
-buf||beef||beef
-bor||boron||boron
-nn1250||nd1251||nd1251
+ci-1008||ci-1040||ci-1040
+liquid||lisurid||lisuride
+aldioxa||alcloxa||alcloxa
+lard||l-arg||arginine
+chitin||chinin||quinine
+troxipid||troxipide||troxipide
+kyushin||kushen||sophora flavescens root
+isatsuximab||isatuximab||isatuximab
+imm||imm101||imm101
+chikunine||chinine||quinine
+fsh||fsh-a||follitropin
+flomox||flomoxef||flomoxef
+flavor||flavon||flavone
 eve a||e-epa||icosapent ethyl
-opikapon||opicapone||opicapone
-blopress||baypress||nitrendipine
+oxatomid||oxatomida||oxatomide
+epa||e-epa||icosapent ethyl
 ensure||endura||boscalid
-bf||beef||beef
-bev||beet||beet
-colac||colace||docusate
-bep||bepio||benzoyl peroxide
+cddp||cd-np||cenderitide
+ole||olive||olea europaea leaf
+cock||cocoa||cocoa
+crestor||cresol||cresol
+adriamycin||apramycin||apramycin
+colac||cndac||2'-cyano-2'-deoxy-1-(beta-d-arabinofuranosyl)cytosine
+pronase||praconase||praconase
 chink oil||china oil||balsam of peru
-nitro||nitrosyl||nitric oxide
-tokito||tomato||tomato
-baseta||basen||voglibose
-baff||beef||beef
+cephalolysine||cephaloglycine||cephaloglycin
+carbo||carbon||activated charcoal
+carbocon||carbon||activated charcoal
+cap||ca4p||ca4p
 cabezin||casein||casein
-azunol||acenol||acetaminophen
-azd9941||azd0947||azd0947
-azanin||alanine||l-alanine
-avan||avac||avac
+zio||zinc||zinc
 neu||neon||neon
-neovale||neonal||butethal
-neoral||neonal||butethal
-atn-103||atn-161||atn-161
-atg||atp||atp
-atelec||ateben||nortriptyline
-asuperin||aspirin||acetylsalicylic acid
-ben||basen||voglibose
-mtx||mx6||mx6
+tokito||tomato||tomato
+neoral||neogaa||avalglucosidase alfa
+ben||bean||bean
+bcg||bcg ssi||bacillus calmette-guerin substrain danish 1331 live antigen
+buf||beef||beef
 bactramin||bacitracin||bacitracin
-mk0518||mk-5108||mk-5108
-mk-3475||mk-1775||mk-1775
-mk-0518||mk-5108||mk-5108
-maoto||mango||mango
+b||bv2||bv2
 asa||apsac||anistreplase
+narmin a||narasin a||narasin
+narasuke||narasine||narasin
+bowcon||boron||boron
+bor||borax||sodium borate
+bon||boron||boron
+bod||boldo||boldo leaf extract
+mtx||mx6||mx6
+biwayou||bimayou||castor oil
+kamiyosan||kamillosan||levomenol
+apartamide||apalutamide||apalutamide
+monoclonal antibody||monoclonal antibody 3f8||anti-gd2 monoclonal antibody 3f8
+amg162||amg 102||rilotumumab
+albumin||albumen||egg white
+mk0518||mk-5108||mk-5108
+bf||beef||beef
+mk-3475||mk-3577||mk-3577
+mk-0518||mk-5108||mk-5108
+bev||beet||beet
+bep||bepio||benzoyl peroxide
+ace||acmet||n-acetylmethionine
+benzyl alcohl||benzyl alcohol||benzyl alcohol
+acc-001||at-001||at-001
+baseta||base q||queuine
+baff||beef||beef
+daroltamid||darolutamide||darolutamide
+maoto||mango||mango
+celecox||celecoxib||celecoxib
+medicon a||medimin a||methoxy peg-12 retinamide
 car||carob||carob
-metenolone||mesterolone||mesterolone
+mcipc||mcc||mcc
+azd9941||azd0947||azd0947
+azanin||alanine||alanine
+avan||avac||avac
+magmit||mannit||mannitol
+atn-103||atl-104||atl-104
+atg||atp||atp
+asuperin||aspirin||acetylsalicylic acid
+aspergillus||aspergillus vitis||eurotium amstelodami
+vitamins nos||vitamin d nos||vitamin d
+standardized||standardized cat pelt||felis catus skin
+analgesic||analgesine||antipyrine
+analgesics||analgesine||antipyrine
 pl||plum||plum
 pf-04449913||pf-04447943||pf-04447943
-albumin||arbutin||arbutin
-medipain||medapan||heptabarbital
-medicon a||medimin a||methoxy peg-12 retinamide
-ara-c||avac||avac
-air||aicar||aica ribonucleotide
+zingiber||zingiberone||zingerone
+zin||zinc||zinc
 lev||leek||leek
-senega||senna||sennosides
-ocv-101||oc-1012||oc-1012
+ara-c||avac||avac
+steroid||sterol||soy sterol
+mefluside||mefruside||mefruside
+laba||lamb||lamb
 la||lamb||lamb
 kw6002||kb002||kb002
-kamag||kava||kava
-cs-1008||ci 1008||pregabalin
+kobay||kobalt||cobalt
+kob||kobalt||cobalt
+deslanosid||deslanoside||deslanoside
 vp15||vp025||vp025
-iomeron||iomeprol||iomeprol
-carocon||carbon||activated charcoal
-interleukin-6||interleukin-4||binetrakin
+vitamin nos||vitamin d nos||vitamin d
+agarcidase beta (genetical recombination)||agalsidase beta (genetical recombination)||agalsidase beta
+vitamin b||vitamin b5||pantothenic acid
+kcl||kale||kale
+vitamin||vitamin k||phylloquinone
+kamala||karaya||karaya gum
+kamag||kava||kava
+air||aicar||aica ribonucleotide
 vitamin b complex||vitamin b12 complex||cyanocobalamin
-vitamin||vitamin h||biotin
-uz||up5||up5
-uri||urief||silodosin
+vit||vit-100||vit-100
+vaseline||valine||valine
+urso||urson||ursolic acid
 ura||urea||urea
-upa||up5||up5
-hump||hbmp7||eptotermin alfa
-tre||trien||triethylenetetramine
-tak-924||tak-428||tak-428
+anti-cd20 monoclonal antibody||anti-cd80 monoclonal antibody||galiximab
+iro||iron||iron
+denopamine||dopamine||dopamine
+pancol||pantol||dexpanthenol
+ocv-101||oc-1012||oc-1012
+interleukin-6||interleukin-7||interleukin-7
+interleukin 2||interleukin-2||human interleukin-2
+magnolia||magnesia||magnesium oxide
+analgesia||analgesine||antipyrine
+holoxan||haloxon||haloxon
+eucommia||eucommia bark||eucommia ulmoides bark
+tuberculin||tuberculinum||tuberculin purified protein derivative
 tsr||tmr||tmr
-treme||thyme||thyme
-topotesin||topotecan||topotecan
-interleukin-2||interleukin-3||muplestim
-tenma||teína||caffeine
-temodar||timcodar||timcodar
-abt-414||abt-510||abt-510
+alvex||aloes||aloe vera leaf
+allorian||alloin||alloin
+il-2||igf-2||insulin-like growth factor ii
+corticosteroid||corticosterone||corticosterone
+ics||imrcs||human embryonic stem cell-derived m cell
+treme||tremella||tremella fuciformis whole
+afp||atp||atp
+hydrocol||hydrocone||hydrocodone
+hydrine||hydroxine||hydroxyzine
+carocon||crocin||crocin
+hump||hbmp7||eptotermin alfa
+humira||hemina||hemin
+act||acmet||n-acetylmethionine
+hou||hops||hops
+top||tmp||tmp
+abt-414||abt-341||abt-341
 abi-007||abl-001||abl-001
 a||atp||atp
-tarige||tacrine||tacrine
-tak-875||tak-475||tak-475
-tak 438||tak-448||tak-448
+thirajin||thiamin||thiamine
+thiazole||thiamazole||methimazole
+guayphenesin||guaiphenesin||guaifenesin
+guaifenecin||guaifenesin||guaifenesin
 gra||grape||grape
-syr-472||syr-322||alogliptin
+teripressin||terlipressin||terlipressin
 goou||goose||goose
-sul||sulema||mercuric chloride
-statin||stibatin||sodium stibogluconate
-ant||an-9||an-9
-amg 706||amg 102||rilotumumab
-sodium edetate||sodium acetate||sodium acetate
+tenma||teína||caffeine
+temodar||timcodar||timcodar
+gil||gold||gold
+tak-924||tak-243||tak-243
+tarige||taurine||taurine
 gdc-0941||gdc-0917||gdc-0917
-smile||smelt||smelt
-sifrol||sefril||cefradine
-g-c||g-csf||filgrastim
-sgn-35||sgn-15||sgn-15
-tak-438||tak-448||tak-448
-condriase||condoliase||condoliase
-salilmab||sarilumab||sarilumab
-sultium||sultiame||sulthiame
-ryutan||rutin||rutin
+talion||talco||talc
+paraffin||paraffin oil||mineral oil
+tak-875||tak-475||tak-475
+tak-816||tak-831||tak-831
+tak 438||tak-448||tak-448
+t-20||t-2000||t-2000
+sulfur||sulfurol||5-(2-hydroxyethyl)-4-methylthiazole
+fol||fixol||hydroxycitronellal
+lyrica||lysina||l-lysine
+l-gluta||l-glutamin||l-glutamine
+flucasone propionate||fluticasone propionate||fluticasone propionate
+streptornase||streptokinase||streptokinase
 fil||fig||fig
+ferrous||ferrum||iron
+fermoxides||ferumoxides||ferumoxides
+fentos||fenol||phenol
+smile||smelt||smelt
+sirukum||sirukumab||sirukumab
+sifrol||sterol||soy sterol
+eswan||escin||escin
+erythro||erythrol||erythritol
+sgn-35||sgn-30||sgn-30
+ant||atp||atp
+sesamin||suramin||suramin
+amg 706||amg 102||rilotumumab
 epoetin||etretin||acitretin
 epivir||epinin||deoxyepinephrine
-ipecate||ipecac||ipecac
+seraga||senega||polygala senega root
+seletil||selenio||selenium
+sansho||sanchi||panax notoginseng root
+sultium||sultiamum||sulthiame
 elpinan||epinin||deoxyepinephrine
 elise||eisen||iron
+saba||safra||safrazine
 eleisen||eisen||iron
+ryutan||rutin||rutin
+oxypertin||oxypertine||oxypertine
+e5555||e5531||e5531
+trepibton||trepibutone||trepibutone
+tak-438||tak-448||tak-448
+siler||silver||silver
+rfsh||rhtsh||thyrotropin alfa
+red||redtop||agrostis gigantea top
+dochinurad||dotinurad||dotinurad
+penicillin||penicillin g||benzylpenicillin
+ramucir||ramycin||fusidic acid
+rambirumab||ramucirumab||ramucirumab
+mt-4666||mk-8666||mk-8666
+r-fsh||rhtsh||thyrotropin alfa
+pyrozone||pyrazole||pyrazole
+pyr||pork||pork
+magnesi||magnesio||magnesium
+machinin||machixian||purslane
+ipecate||ipecac||ipecac
+gel||gold||gold
+forsythia||forsythia fruit||forsythia suspensa fruit
 often||ohton||dimethylthiambutene
-doac||donu||donu
-tak-700||tak-733||tak-733
+epogin||eosin||eosin
+nemonapride||naronapride||naronapride
+laudanum||lindanum||lindane
+dl-methioni||dl-methionine||racemethionine
+costus||cosmos||methcathinone
+chorei||chlore||chlorine
+bli||bia||bia
+asp||atp||atp
+asa404||as1409||as1409
+amylase||amylose||amylose
+estrogen||estrone||estrone
+zip||zinc||zinc
+tak-700||tak-580||tak-580
+zingiber officinale rhizome||zingiber officinale rhizome oil||ginger oil
+urogastro||urogastrone||nepidermin
+meticlan||meticrane||meticrane
+tergrid||terguride||terguride
+ougon||ohton||dimethylthiambutene
+china root||chanda root||angelica archangelica root
+ferlipresin||felipresina||felypressin
+sodium lactate||sodium acetate||sodium acetate
+kojin||kokain||cocaine

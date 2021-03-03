@@ -37,7 +37,7 @@
    12182	esomeprazole magnesium hydrate
    12000	ribavirin
    11980	pregabalin
-   11966	Clopidogrel sulphat
+   11966	clopidogrel sulphate
    11940	revo folinate calcium
    11917	cyclosporine
    11874	carvedilol
@@ -312,7 +312,7 @@
     2346	beraprost sodium
     2324	cefoperazone sodium / sulbactam sodium
     2317	solifenacin succinate
-    2310	Ethyl loflazepate
+    2310	ethyl loflazepate
     2303	glucose
     2294	precipitated 13-valent pneumococcal conjugate vaccine (non-toxic mutant diphtheria toxin conjugate)
     2293	ramelteon
@@ -387,7 +387,7 @@
     1846	palbociclib
     1842	dasatinib hydrate
     1833	dobutamine hydrochloride
-    1831	Levocetirizine hydrochloride
+    1831	levocetirizine hydrochloride
     1823	gliclazide
     1814	tipepidine hibenzate
     1813	insulin
@@ -1659,7 +1659,7 @@
       81	lomefloxacin hydrochloride
       81	glucagon
       81	fibrinogen factor xiii (3)
-      80	Glucagon (genetical recombination)
+      80	glucagon (genetical recombination)
       80	timiperone
       80	simetride / anhydrous caffeine
       80	diphenhydramine lauryl sulfate
@@ -1920,7 +1920,7 @@
       46	defibrotide sodium
       46	3959a01
       46	3231401
-      45	Clofazimine
+      45	clofazimine
       45	ubenimex
       45	tegafur
       45	polidocanol
@@ -2847,7 +2847,7 @@
        9	alminoprofen
        9	429
        9	3229001
-       8	netylmycin sulfate
+       8	ネチルマイシン硫酸塩
        8	zio
        8	varlitiib
        8	uterotonic
@@ -3035,7 +3035,7 @@
        7	1242008
        7	1149f09
        7	1145001
-       6	peritoneal dialysate (9-2)
+       6	腹膜透析液（９－２）
        6	methyldopa preparation
        6	zedoary
        6	vonoprazan
@@ -4553,26 +4553,26 @@
        2	113
        2	1129405
        1	tsu-68
-       1	sennoside
-       1	pas [aminosalicylic
+       1	ｓｅｎｎｏｓｉｄｅ
+       1	ｐａｓ　［ａｍｉｎｏｓａｌｉｃｙｌｉｃ
        1	normal
        1	ms
-       1	measles and rubella
+       1	ｍｅａｓｌｅｓ　ａｎｄ　ｒｕｂｅｌｌａ
        1	荊 protective poisoning powder
        1	茯 蓓 shigyakuto
        1	芍 candy yellow spicy hot water
-       1	chloral hydrate
-       1	rebamipide
-       1	peg interferon
+       1	抱水クロラール
+       1	レバミピド
+       1	ペグインターフェロン
        1	vecuronium bromide
-       1	viranterol triphenylacetic acid _fluticasone furancarboxylic acid ester
-       1	human chorionic gonadotropin
-       1	triclophos sodium
-       1	diazepam
-       1	kagosou
-       1	atorvastatin calcium hydrate + amlodipine besilate
-       1	acetaminophen, bromhexine hydrochloride, dihydrocodeine phosphate, noscapine, methylephedrine hydrochloride, lysozyme chloride, carbinoxacin maleate, caffeine anhydride, bisuibutyamine, vitamin b2
-       1	horsetail am san
+       1	ビランテロールトリフェニル酢酸塩_フルチカゾンフランカルボン酸エステル
+       1	ヒト絨毛性性腺刺激ホルモン
+       1	トリクロホスナトリウム
+       1	ジアゼパム
+       1	カゴソウ
+       1	アトルバスタチンカルシウム水和物 + アムロジピンベシル酸塩
+       1	アセトアミノフェン、塩酸ブロムヘキシン、リン酸ジヒドロコデイン、ノスカピン、塩酸メチルエフェドリン、塩化リゾチーム、マレイン酸カルビノキサシン、無水カフェイン、ビスイブチアミン、ビタミンｂ2
+       1	つくしam散
        1	ε-aminocaproic acid
        1	γ-benzen hexachloride
        1	γ globulin preparation

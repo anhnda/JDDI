@@ -1,6 +1,14 @@
-calcium
+calcium ## more likely to be a drug itself
 sodium hydrate
 potassium
-water
 succinate
-magnesium
+magnesium ## more likely to be a drug itself
+butyrate
+sodium phosphate
+sodium citrate
+silica ## i'm not sure about this
+polyethylene glycol ## this is not a salt, but used as a modification agent to prolong effects
+sodium chloride
+palmitate ## less certain about this
+hyaluronate ## less certain about this
+acetic acid ## less certain about this

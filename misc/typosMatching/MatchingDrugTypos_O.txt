@@ -1,0 +1,378 @@
+ougon||onion||onion ## no match, ougon is a drug, onion is not
+dip||ditpa||3,5-diiodothyropropionic acid ## first 'dit' can be different
+dimethyl sulfooxide||dimethyl sulfoxide||dimethyl sulfoxide
+iopamidor||iopamidol||iopamidol
+azd7762||azd-7762||azd-7762
+remeron||reverin||rolitetracycline ## no match
+asp||atp||atp ## no match
+dextrin||dextran||dextran ## no match
+dexamethason||dexamethasone||dexamethasone
+asa404||as1404||vadimezan
+defibrotoide||defibrotide||defibrotide
+amylase||amylase a||pancrelipase amylase ## pancrelipase contains amylase
+defi brotide||defibrotide||defibrotide
+rauvolfia serpentina||rauwolfia serpentina||rauwolfia serpentina root
+ramucir||ramycin||fusidic acid ## ramucir - ramucirumab, ramycin - fusidic acid sodium salt, fusidic acid - base form
+rambirumab||ramucirumab||ramucirumab ## im not sure. seems to be different, but no match for rambirumab
+abelumab||avelumab||avelumab
+pyrozone||pyrazole||pyrazole ## no match, pyrozone is different
+daiphen||domiphen||domiphen ## daiphen is a sulfamethoxazole trimethoprim combination, domiphen is another drug
+pyr||pear||pear ## no match, I think pir refers to pyrimethamine, but I would delete it
+zip||zinc||zinc ## no match, no idea what zip is
+vilanoa||vilasta||alcaftadine ## don't know what is vilanoa, i don't think it is a match
+vaniprenir||vaniprevir||vaniprevir
+urogastro||urogastrone||nepidermin ## no match, nepidermin is very different
+prossilaridin||proscillaridin||proscillaridin
+propolis||propolis wax||propolis wax ## no match
+coumadin||coumarin||coumarin ## no match, coumadin is a drug conatining warfarin, coumarin is another drug from the same class
+kojin||kaolin||kaolin ## no match, i don't know what kojin is
+lembatinib mesylate||lenvatinib mesylate||lenvatinib
+tas-121||tas-102||tas-102 ## no match, first one is an EGFR inhibitor, second and third are drug combinations
+prodonisolone||prednisolone||prednisolone ## don't know what is prodonisolone, it has a patent on google patents, but never heard of
+stelara||stelera||ustekinumab
+prednitsone||prednisone||prednisone
+insulin||inulin||inulin ## no match, very different
+sg||sage||sage ## no match
+prednisolon||prednisolone||prednisolone
+dapt||date||date ## i don't think it is a match, but i'm unsure
+coenzyme q||coenzyme r||biotin ## no match
+recinamine||rescinnamine||rescinnamine ## no match
+clo||cyclo||emodepside ## im not sure
+clavazam||clobazam||clobazam ## don't know what clavazam is, i dont think it is a match
+pravastantin||pravastatin||pravastatin
+predonisone||prednisone||prednisone
+freloxacin||fleroxacin||fleroxacin ## im not sure
+serratiopeptase||serratiopeptidase||serrapeptase
+ponatib||ponatinib||ponatinib ## no match, ponatib might refer to something else
+ciclanderato||ciclandelato||cyclandelate
+ci-1008||ci 1008||pregabalin
+interferon beta||interferon beta-1a||interferon beta-1a ## no match, first can refer to many different interferon betas
+pictilisb||pictilisib||pictilisib
+pibrent asvir||pibrentasvir||pibrentasvir
+chloride||chlorine||chlorine ## no match
+pge1||pge-1||alprostadil
+pgi2||pge₁||alprostadil ## no match, the second one is the same as alprostadil, but the first one is very different
+pge 1||pge-1||alprostadil ##
+pge||pge₁||alprostadil ## only the second one matches with alprostadil
+pen||pea||pea ## i don't think it is a match
+pas||pasbn||pasbn ## no match, "pas" is usually p-aminoacetylsalicylic acid, pasbn is an experimental compound
+chikunine||chinine||quinine ## no match
+oxendolone||oxandrolone||oxandrolone ## i don't know
+pertsuzumab||pertuzumab||pertuzumab
+pem||pea||pea ## no match
+peg||pea||pea ## no match
+pca||pea||pea ## no match
+sodium lactate||sodium acetate||sodium acetate ## no match
+pasileotide||pasireotide||pasireotide
+okt||oat||oat ## no match
+cdp870||cg7870||cg7870 ## no match (second is an adenovirus therapy, first is certolizumab pegol)
+ocrelizumb||ocrelizumab||ocrelizumab
+cddp||cd-np||cenderitide ## last two are a match, the first one is very different (cisplatin)
+par||pear||pear ## no match
+noradrinaline||noradrenaline||norepinephrine
+pantosin||pantomin||pantethine ## no match
+niphenazone||norphenazone||edaravone ## no match
+nab||namn||namn ## no match
+pabron||patrol||fenpropidin ## no match
+pab||pacba||4-acetamidobenzoic acid ## theoretically it is a match, but the first one can designate other substances. I would need the list of cases, where the first was used
+interferon gamma-n1||interferon gamma-1b||interferon gamma-1b ## no match
+mitozantrone||mitoxantrone||mitoxantrone
+methyl octatropin bromide||methyloctatropine bromide||anisotropine methylbromide
+human immunoglobulin||human immunoglobulin g||immune globulin human ## no match
+carbo||carbon||activated charcoal ## theoretically a match, but I would need the cases
+abt-199||abt-869||abt-869 ## no match
+cap||ca4p||ca4p ## no match
+mag||mango||mango ## no match
+ots||oat||oat ## no match
+lenvatinb||lenvatinib||lenvatinib
+aldioxa||alcloxa||alcloxa ## no match
+ubidecarenon||ubidecarenone||ubidecarenone
+hep||hops||hops ## no match
+calboplatin||carboplatin||carboplatin
+sofalcon||sofalcone||sofalcone
+granulocyte --colony stimulating factor||granulocyte colony stimulating factor||filgrastim
+buprosion||bupropion||bupropion
+buf||beef||beef ## no match
+bromazapam||bromazepam||bromazepam
+brex piprazole||brexpiprazole||brexpiprazole
+oxatomid||oxatomide||oxatomide
+fsh||fsh-b||follitropin
+rivaloxaban||rivaroxaban||rivaroxaban
+bowcon||boron||boron ## no match
+flomox||flomoxef||flomoxef ## no match
+bor||boron||boron ## theoretic match
+nn1250||nd1251||nd1251 ## no match
+nimotsuzumab||nimotuzumab||nimotuzumab
+eve a||e-epa||icosapent ethyl ## i don't know
+opikapon||opicapone||opicapone
+blopress||baypress||nitrendipine ## last two are a match, the first one is very different (candesartan)
+epa||e-epa||icosapent ethyl ## i don't know
+glycyrrhetinic acid||glycyrrhetic acid||enoxolone
+ensure||endura||boscalid ## no match
+biwayou||bimayou||castor oil ## no match
+olmecartan||olmesartan||olmesartan
+cock||cocoa||cocoa ## no match
+diflupredante||difluprednate||difluprednate
+adriamycin||abramycin||tetracycline ## no match
+dapro dustat||daprodustat||daprodustat
+bf||beef||beef ## no match
+bev||beet||beet ## no match
+crestor||cresol||cresol ## no match
+colac||colace||docusate ## i don't know because of the first one (it can be a typo, but i'm not sure)
+norepine phrine||norepinephrine||norepinephrine
+noradrenalin||noradrenaline||norepinephrine
+ciproflox acin||ciprofloxacin||ciprofloxacin
+bep||bepio||benzoyl peroxide ## theoretically a match
+chink oil||china oil||balsam of peru ## no match
+cephalolysine||cephaloglycine||cephaloglycin ## no match
+daratsumumab||daratumumab||daratumumab
+carbocon||carbon||activated charcoal ## i don't know
+carbocistine||carbocisteine||carbocisteine
+calcuum lactate||calcium lactate||calcium lactate
+bendamostine||bendamustine||bendamustine
+nitro||nitrosyl||nitric oxide ## no match
+varlitiib||varlitinib||varlitinib
+tokito||tomato||tomato ## no match
+baseta||basen||voglibose ## no match
+baff||beef||beef ## no match
+cabezin||casein||casein ## no match
+brosumab (genetical recombination)||burosumab (genetical recombination)||burosumab
+azunol||acenol||acetaminophen ## no match
+azd9941||azd0947||azd0947 ## no match
+kamiyosan||kamillosan||levomenol ## no match, i think
+azanin||alanine||l-alanine ## no match
+avan||avac||avac ## no match
+atvaquone||atovaquone||atovaquone
+apartamide||apalutamide||apalutamide ## i don't know
+atovaquane||atovaquone||atovaquone
+atovaqone||atovaquone||atovaquone
+neu||neon||neon ## no match
+granulocyte colony simulating factor||granulocyte colony stimulating factor||filgrastim
+neovale||neonal||butethal ## no match
+neoral||neonal||butethal ## no match
+atn-103||atn-161||atn-161 ## no match
+atg||atp||atp ## no match
+atelec||ateben||nortriptyline ## no match
+atavaquone||atovaquone||atovaquone
+asuperin||aspirin||acetylsalicylic acid ## i don't know
+n butyl-2-cyanoacrylate||n-butyl-2-cyanoacrylate||enbucrilate
+ben||basen||voglibose ## no match
+bcg||bcg ssi||bacillus calmette-guerin substrain danish 1331 live antigen ## i'm unsure whether they are the same, first one may be different BCG vaccine too
+aspergillus||aspergillus flavus||aspergillus flavus ## first one can refer to many different bacteria
+mtx||mx6||mx6 ## no match
+bactramin||bacitracin||bacitracin ## no match
+morniflunate||morniflumate||morniflumate
+monoclonal antibody||monoclonal antibody 2c4||pertuzumab ## no match
+modefinil||modafinil||modafinil
+mk0518||mk-5108||mk-5108 ## no match
+omari griptin||omarigliptin||omarigliptin
+mk-3475||mk-1775||mk-1775 ## no match
+mk-0518||mk-5108||mk-5108 ## no match
+maoto||mango||mango ## no match
+asa||apsac||anistreplase ## no match
+celecox||celecoxib||celecoxib ## can be a match
+mitazoram||midazolam||midazolam
+carbocysteine||carbocisteine||carbocisteine
+car||carob||carob ## no match
+minodoronic acid||minodronic acid||minodronic acid
+theophyllline||theophylline||theophylline
+methoxypolyethylene glycol-epotin beta||methoxy polyethylene glycol-epoetin beta||methoxy polyethylene glycol-epoetin beta
+metenolone||mesterolone||mesterolone ## no match
+pl||plum||plum ## no match
+pf-04449913||pf-04447943||pf-04447943 ## no match
+amg162||amg 102||rilotumumab ## no match
+albumin||arbutin||arbutin ## no match
+ariskiren||aliskiren||aliskiren
+medipain||medapan||heptabarbital ## no match
+medicon a||medimin a||methoxy peg-12 retinamide ## no match
+ara-c||avac||avac ## no match
+magmit||magmitt||magnesium oxide
+apixiban||apixaban||apixaban
+diphenhy dramine||diphenhydramine||diphenhydramine
+aparutamide||apalutamide||apalutamide
+ranoconazole||ravuconazole||ravuconazole
+lorumedazepam||lormetazepam||lormetazepam
+lopemin||lopirin||captopril ## no match
+air||aicar||aica ribonucleotide ## no match
+liquorice||licorice||licorice
+vit||vit 45||ferric carboxymaltose ## no match
+vertepolfin||verteporfin||verteporfin
+vaseline||valine||l-valine ## no match
+sulfadimethoxone||sulfadimethoxine||sulfadimethoxine
+levoca bastine||levocabastine||levocabastine
+lev||leek||leek ## no match
+polaplez inc||polaprezinc||polaprezinc
+senega||senna||sennosides ## no match
+deslanosid||deslanosido||deslanoside
+ocv-101||oc-1012||oc-1012 ## no match
+la||lamb||lamb ## no match
+lembolexant||lemborexant||lemborexant
+kw6002||kb002||kb002 ## no match
+hydrocorisone||hydrocortisone||hydrocortisone
+granulocyte colony-stimulating factor||granulocyte colony stimulating factor||filgrastim
+eldecal citol||eldecalcitol||eldecalcitol
+zin||zinc||zinc ## no match
+kamag||kava||kava ## no match
+anti-cd20 monoclonal antibody||anti-cd80 monoclonal antibody||galiximab ## no match
+denopamine||dopamine||dopamine ## no match
+cs-1008||ci 1008||pregabalin ## no match
+corticosteroid||corticosterone||corticosterone ## no match
+vp15||vp025||vp025 ## no match
+iro||iron||iron ## no match
+iomeron||iomeprol||iomeprol
+carocon||carbon||activated charcoal## i don't know
+vitamin nos||vitamin d nos||vitamin d ## no match
+interleukin-6||interleukin-4||binetrakin ## no match
+vitamin b complex||vitamin b12 complex||cyanocobalamin ## no match
+interleukin 2||interleukin 3||muplestim ## no match
+vitamin||vitamin h||biotin ## no match
+analgesia||analgesine||antipyrine ## no match
+inotuzumab ozogamacin||inotuzumab ozogamicin||inotuzumab ozogamicin
+valgancyclovir||valganciclovir||valganciclovir
+uz||up5||up5 ## no match
+ursode oxycholate||ursodeoxycholate||ursodeoxycholic acid
+uri||urief||silodosin ## no match
+ura||urea||urea ## no match
+upa||up5||up5 ## no match
+phytonadione||phytomenadione||phylloquinone
+icht hammol||ichthammol||ichthammol
+oxyglutathione||oxiglutatione||glutathione disulfide
+hydrine||hydroxine||hydroxyzine ## no match
+indocyanine green||indocyanine green acid form||indocyanine green acid form ## i don't know
+hump||hbmp7||eptotermin alfa ## no match
+tre||trien||triethylenetetramine
+tak-924||tak-428||tak-428 ## no match
+tuberculin||tuberculinum||tuberculin purified protein derivative ## i'm not sure
+tsr||tmr||tmr ## no match
+polaprez inc||polaprezinc||polaprezinc
+treme||thyme||thyme## no match
+histmin||histamine||histamine
+tramesinib||trametinib||trametinib
+akitnib||axitinib||axitinib
+hidroxocobalamina||hydroxocobalamin||hydroxocobalamin
+topotesin||topotecan||topotecan
+netsupitant||netupitant||netupitant
+thirajin||thiamin||thiamine ## no match
+lyrica||lysina||l-lysine ## no match
+thiazole||thiamazole||methimazole ## no match
+thiama zole||thiamazole||methimazole
+interleukin-2||interleukin-3||muplestim ## no match
+teripressin||terlipressin||terlipressin ## i'm not sure
+tenofofir||tenofovir||tenofovir
+tenma||teína||caffeine ## no match
+temodar||timcodar||timcodar ## no match
+abt-414||abt-510||abt-510 ## no match
+abi-007||abl-001||abl-001 ## no match
+a||atp||atp ## no match
+tasoshitinib||tasocitinib||tofacitinib
+tarige||tacrine||tacrine ## no match
+granulocyte-colony stimulating factor||granulocyte colony stimulating factor||filgrastim
+granulocyte colony s||granulocyte colony stimulating factor||filgrastim
+granuiocyte colony-stimulating factor||granulocyte colony stimulating factor||filgrastim
+tak-875||tak-475||tak-475 ## no match
+tak 438||tak-448||tak-448 ## no match
+tabentador||tapentadol||tapentadol
+calglumic acid||carglumic acid||carglumic acid
+gra||grape||grape ## no match
+syr-472||syr-322||alogliptin ## no match
+goou||goose||goose ## no match
+gnrha||gnrh-i||gonadorelin ## no match
+sulupirido||sulpirid||sulpiride
+sulpyrin||sulpyrid||sulpiride
+sul||sulema||mercuric chloride ## no match
+dihydroergotoxin mesylate||dihydroergotoxine mesylate||ergoloid mesylate
+statin||stibatin||sodium stibogluconate ## no match
+ant||an-9||an-9 ## no match
+indigo carmine||indigo carmine acid||indigotindisulfonic acid
+amg 706||amg 102||rilotumumab ## no match
+sodium oxbate||sodium oxybate||sodium oxybate
+sodium edetate||sodium acetate||sodium acetate ## no match
+gdc-0941||gdc-0917||gdc-0917 ## no match
+gcsf||g-csf||filgrastim
+smile||smelt||smelt ## no match
+sirukum||sirukumab||sirukumab ## no match
+sifrol||sefril||cefradine ## no match
+vitamins nos||vitamin d nos||vitamin d ## no match
+g-c||g-csf||filgrastim
+ursodes oxycholic acid||ursodeoxycholic acid||ursodeoxycholic acid
+trazenta||trajenta||linagliptin
+fullvestrant||fulvestrant||fulvestrant
+shark-liver oil||shark liver oil||shark liver oil
+sgn-35||sgn-15||sgn-15 ## no match
+sevofluren||sevofluran||sevoflurane
+sesamin||separin||tolnaftate ## no match
+seraga||serina||serine ## no match
+folinicacid||folinic acid||leucovorin
+tak-438||tak-448||tak-448 ## no match
+seletil||selenio||selenium ## the first one is no match to the latter two
+sunitiib||sunitinib||sunitinib
+tyroxapol||tyloxapol||tyloxapol
+condriase||condoliase||condoliase
+salilmab||sarilumab||sarilumab
+flucasone propionate||fluticasone propionate||fluticasone propionate ## i'm not sure
+sultium||sultiame||sulthiame ## no match
+ioxagluic acid||ioxaglic acid||ioxaglic acid
+ryutan||rutin||rutin ## no match
+siler||silver||silver## i'm not sure
+fil||fig||fig ## no match
+ferrous sulphate||ferrous sulfate||ferrous sulfate
+ferrous||ferrum||iron ## no match, iron can be a supplement, while ferrous can refer to salts
+corticolerin (human)||corticorelin (human)||corticorelin
+falda previr||faldaprevir||faldaprevir
+exar||exarta||ximelagatran ## first one is no match, the second two are okay
+antibiotic||antibiotic sm 7338||meropenem ## no match (first one refers to any antibiotic)
+penicillin||penicillin g||benzylpenicillin ## no match
+ioxylan||ioxilan||ioxilan
+paraffin||paraffin oil||mineral oil ## no match
+ethyl cosapentate||ethyl icosapentate||icosapent ethyl
+eswan||eatan||nitrazepam ## i'm not sure
+estroge||estrone||estrone
+erythro||erythromycin||erythromycin
+epoetin||etretin||acitretin ## no match
+epivir||epinin||deoxyepinephrine ## no match
+magnesi||magnesium||magnesium
+protilerin||protirelin||protirelin
+enfuvil tide||enfuvirtide||enfuvirtide
+ipecate||ipecac||ipecac ## no match
+interferon gamma||interferon gamma-2a||interferon gamma-1b ## no match
+empaglifozin||empagliflozin||empagliflozin
+elpinan||epinin||deoxyepinephrine ## no match
+elise||eisen||iron ## no match
+eleisen||eisen||iron ## no match
+often||ohton||dimethylthiambutene ## no match
+epogin||emodin||emodin ## no match
+nemonapride||naronapride||naronapride ## no match
+dravirin||doravirine||doravirine
+doxorubin||doxorubicin||doxorubicin
+docosahexanoicacid||docosahexaenoic acid||doconexent
+dioctylsodium sulfosuccinate||dioctyl sodium sulfosuccinate||docusate ## first two are salts, third is base form
+dimeticone||dimethicone||dimethicone
+doac||donu||donu ## no match
+psycho||psychostyl||nortriptyline ## no match
+estrogen||estrone||estrone ## no match
+tak-700||tak-733||tak-733 ## no match
+teperenone||teprenone||teprenone
+orodatero||olodaterol||olodaterol
+phellodendron||phellodendron amurense||phellodendron amurense bark
+taraxacum officinale||taraxacum officinale leaf||taraxacum officinale leaf
+carbochromen||carbocromen||carbocromen
+proxyphyllin||proxyphylline||proxyphylline
+onasemnogene abeparbovek||onasemnogene abeparvovec||onasemnogene abeparvovec
+bromisobal||bromisoval||bromisoval
+diprophyllline||diprophylline||dyphylline
+symfibrate||simfibrate||simfibrate
+flourouracil||fluorouracil||fluorouracil
+cassia angustifolia||cassia angustifolia vahl||senna leaf
+amphotericine b||amphotericin b||amphotericin b
+bifidobacterium||bifidobacterium breve||mrx-4dp0004
+sulfisomidin||sulfisomidine||sulfaisodimidine
+pema fibrate||pemafibrate||pemafibrate
+ipriflabon||ipriflavona||ipriflavone
+delgositinib||delgocitinib||delgocitinib
+glycopyrrolate||glycopyrrolate ion||glycopyrronium
+ticlpidine||ticlopidine||ticlopidine
+elbitegrabir||elvitegravir||elvitegravir
+diphenhydrami||diphenhydramine||diphenhydramine
+cycloserin||cycloserine||cycloserine
+piperasin||piperazin||piperazine
+

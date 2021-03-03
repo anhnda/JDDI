@@ -1,101 +1,135 @@
+sulfate
+chlor
 calcium
+acetate
+phosphate
+chloride
 sodium hydrate
 potassium
 water
-succinate
+magnesium
 dexamethasone
 prednisolone
 heparin
-magnesium
-gold
-cyclo
 betamethasone
-zinc
-ethanol
-butyrate
-hydrocortisone
 estradiol
-aspirin
-iron
-gelatin
+zinc
+gold
 diphenhydramine
-vitamin d
-tenofovir
-licorice
-iodine
-ethinyl estradiol
+cysteine
+caffeine
+ethanol
+meglumine
+iron
 codein
-aspart
+butyrate
+aspirin
 aluminum
+vitamin d
+tetrac
+promethazine
+nitrate
+iodine
+hydrogen
+glycerin
+gelatin
+carbon
+atorvastatin
+tenofovir
+senna
+phenobarbital
+methane
+licorice
+hydroxide
+hydrocortisone
+hydrochlorothiazide
+ethinyl estradiol
+aspart
+amlodipine
 vitamin b1
 trastuzumab
-senna
+rhubarb
 propionic acid
 morphine
 morphin
-glycerin
+lamivudine
+lamivudin
 fibrinogen
-cysteine
+colistin
+codeine
 clopidogrel
-carbon
-vitamin e
+acetaminophen
+vitamin c
+tartaric acid
 sulbactam
-sodium phosphate
 sodium citrate
 silica
-rhubarb
+prasugrel
 piperacillin
 pemetrexed
 opium
 methylprednisolone
 methylprednisolon
+mestranol
+lysine
 lidocaine
-lamivudine
-lamivudin
+levodopa
 lactic acid
 iodide
 insulin glargine
 infliximab
 doxorubicin
+dextran
 chlorpromazine
 ceftriaxone
+carbonate
 bevacizumab
 atropine
 atropin
-amlodipine
-vitamin c
+anhydrous caffeine
+zinc sulfate
+vitamin e
+valsartan
 urea
+tocopherol
 timolol
 thiamine
 thiamin
 tetracycline
 tetracyclin
 teriparatide
+technetium (99mtc)
+streptomycin
 rituximab
 risedronate
 rabbit
-promethazine
-prasugrel
 polyethylene glycol
 petrolatum
 penta
 palmitic acid
 paclitaxel
+norethisterone
+norethisteron
+nicotina
 methotrexate
 methotrexat
-lysine
+methionine
+methionin
+metformin
 loxoprofen
-levodopa
-interferon alpha
 infliximab (genetical recombination)
-hydrochlorothiazide
+hyaluronate
 glycyrrhizin
+glycine
+glycin
 glucose
 g-csf
+fradiomycin
 fosfomycin
 fluphenazine
 fluphenazin
 filgrastim
+factor xiii
 factor x
 ethambutol
 etanercept
@@ -103,29 +137,36 @@ esomeprazole
 esomeprazol
 erythromycin
 diphos
-dextran
+dihydrocodeine
 cyclophosphamide
 cyclophosphamid
-colistin
-codeine
+cortisone
+copper
+chondroitin sulfate
+chlorpheniramine
 carbazochrome
 carbazochrom
+berberine
 benzodiazepine
 barium
 axitinib
 ampicillin
 alcohol
-acetaminophen
-vitamin k
-valsartan
 valproate
-tocopherol
+tipiracil
 tazobactam
-streptomycin
+sulfamethoxazole
 sodium chloride
+sodium acetate
+sitagliptin
 serum albumin
+rosuvastatin
+riboflavin
+reserpine
+reserpin
 rabeprazole
 quinol
+pseudoephedrine
 prothrombin
 protamine
 progesterone
@@ -133,76 +174,85 @@ progesteron
 procaterol
 procaine
 pilsicainide
+phenothiazine
 pertuzumab
 perphenazine
 perphenazin
 papaverine
+pantothenate
 palmitate
 ozagrel
 oxycodone
 olmesartan
-norethisterone
-norethisteron
 nivolumab
+nicotinamide
 neostigmine
-metformin
-mestranol
+mitiglinide
+levallorphan
 lenalidomide
 l-lysine
 l-lysin
 l-lys
+l-cystein
+l-cys
 isoprenaline
 isoniazid
+interferon gamma
+insulin human
+insulin aspart
+indium
 hydroxyzine
 hydroxyzin
-hyaluronate
 human serum albumin
 human insulin
 histamine
-glycine
-glycin
+glycyrrhiza
 ginseng
 ginger
 formoterol
 folinate
+ferric citrate
 fentanyl
 epoetin beta
 eplerenone
 epinephrine
 epinephrin
+ephedrine
 enalapril
 emtricitabine
 emtricitabin
-dihydrocodeine
 diflucortolone
 diclofenac
+dibucaine
 dextromethorphan
 denosumab
 darbepoetin alfa
 darbepoetin
 dapagliflozin
+dabigatran
 cyproheptadine
 cyproheptadin
+cresol
+corn
+clindamycin
+citric acid
 choline
-chlorpheniramine
 chlorhexidine
 chlorhexidin
 chloramphenicol
 cefoperazone
 cefepime
 camphor
-caffeine
 bupivacaine
 bleomycin
 biperiden
 betahistine
 betadex
-berberine
 bepotastine
 benzylpenicillin
 beef
-atorvastatin
 angiotensin
+aluminum hydroxide
 adenosine
 adenosin
 adenine
