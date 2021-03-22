@@ -5,7 +5,7 @@ from utils import utils
 F_Names = ["./Data/demo202101_utf.csv_EN", "./Data/drug202101_utf.csv_EN", "./Data/hist202101_utf.csv_EN",
            "./Data/reac202101_utf.csv_EN"]
 
-
+DRUG_T = 10
 def loadDrugmap():
     fin = open("%s/finalMap/FinalMap.txt" % params.OUTPUT_DIR)
     lines = fin.readlines()
@@ -23,9 +23,19 @@ def loadDrugmap():
     lines = [line.strip() for line in lines]
     for line in lines:
         parts = line.split("||")
-        dMap[parts[0]] = parts[1].split("|")
+        dMapH[parts[0]] = parts[1].split("|")
     fin.close()
-    return dMap, dMapH
+
+    fin = open("%s/FinalDrugFreq.txt" % params.OUTPUT_DIR)
+    lines = fin.readlines()
+    validDrugs = set()
+    for line in lines:
+        line = line.strip()
+        parts = line.split("\t")
+        v, k = int(parts[0]), parts[1]
+        if v >= DRUG_T:
+            validDrugs.add(k)
+    return dMap, dMapH, validDrugs
 
 
 def splitDrugs(drugString):
@@ -44,6 +54,7 @@ def splitDrugs(drugString):
         drugx.append(drug)
 
     return drugx
+
 
 def loadMissTrans():
     fin = open("%s/Translate/MissTrans" % params.OUTPUT_DIR)
@@ -68,7 +79,7 @@ def loadMissTrans():
     return d
 
 def filterCases():
-    dMap, dMapH = loadDrugmap()
+    dMap, dMapH, validDrugs = loadDrugmap()
     # print(splitDrugs("pentazocine"))
     # print("pentazocine" in dMap)
     # exit(-1)
@@ -125,25 +136,44 @@ def filterCases():
                 nMatch = 0
                 matchingSet = set()
                 oDrugSet = set()
+                dSet = set()
+                dList = list()
 
                 for drug, ct in currentCaseDrugCount.items():
                     isValidSub = True
-                    # if drug == "クロピドグレル硫酸塩":
-                    #     print(utils.get_dict(dMiss, drug, drug))
-                    #     print("?")
-                    #     exit(-1)
+
                     drug = utils.get_dict(dMiss, drug, drug)
 
                     drugs = splitDrugs(drug)
 
                     for edrug in drugs:
                         edrug = utils.get_dict(dMiss, edrug, edrug)
-                        if edrug not in dMap:
-                            if edrug not in dMapH:
+                        d1 = utils.get_dict(dMap, edrug, -1)
+                        d2 = utils.get_dict(dMapH, edrug, -1)
+                        # print(type(validDrugs))
+                        # print(type(d1), d1,  type(d2), d2)
+                        # print(d1, d2)
+                        if d1 == -1:
+                            if d2 == -1:
                                 isValidSub = False
                                 if isValid:
                                     isValid = False
-
+                            else:
+                                for d2i in d2:
+                                    if d2i not in validDrugs:
+                                        isValidSub = False
+                                        if isValid:
+                                            isValid = False
+                                        break
+                                    dSet.add(d2i)
+                                    dList.append(d2i)
+                        elif d1 not in validDrugs:
+                            isValidSub = False
+                            if isValid:
+                                isValid = False
+                        else:
+                            dSet.add(d1)
+                            dList.append(d1)
 
                     if isValidSub:
                         nMatch += 1
@@ -151,7 +181,8 @@ def filterCases():
 
 
                 if isValid:
-                    fvout.write("%s\n"% currentCaseNo)
+
+                    fvout.write("%s\t%s\n"% (currentCaseNo,",".join(list(dSet))))
                     nValidCase += 1
                 if 1 <= len(currentCaseDrugCount) - nMatch <= KM:
                     nMiss2 += 1

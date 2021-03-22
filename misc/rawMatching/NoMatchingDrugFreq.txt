@@ -10,7 +10,6 @@
     4660	b6
     4252	lima prost alphadex
     4198	bifidobacterium preparation (4)
-    4073	saline
     4032	edxavant sylate hydrate
     3967	lactomin
     3866	iopamidor
@@ -31,7 +30,6 @@
     2406	shakuyakukanzoto
     2348	shimeprevir sodium
     2294	precipitated 13-valent pneumococcal conjugate vaccine (non-toxic mutant diphtheria toxin conjugate)
-    2287	lactated ringer's solution
     2112	choleciferol
     2098	vitamins (4)
     1999	lembatinib mesylate
@@ -39,28 +37,20 @@
     1921	b12 combination drug (1)
     1920	sodium silastatin
     1920	recombinant precipitated divalent human papillomavirus-like particle vaccine (derived from cabbage looper cells)
-    1855	dry thyroid
     1814	insulin
-    1810	salpogrelate hydrochloride
     1801	gavexate mesylate
     1795	human platelet concentrate
     1749	cefmethazole sodium
-    1740	rilmazafone hydrochloride hydrate
     1690	ilsogradin maleate
     1684	carperitide (genetical recombination)
-    1668	common cold treatment (general medicine)
     1643	yokukansan
     1631	starting liquid (1)
     1576	serratiopeptase
-    1475	propiverin hydrochloride
     1326	thrombomodulin alpha (genetical recombination)
-    1307	azasetron hydrochloride
     1303	iodized poppy oil fatty acid ethyl ester
-    1264	antipyretic analgesic and anti-inflammatory agent
     1247	fosfluconazole
     1238	ringer acetate solution (with glucose)
     1230	dry concentrate antithrombin 3
-    1223	spherical adsorption charcoal
     1222	recombinant precipitated hepatitis b vaccine (derived from yeast)
     1196	tosufloxacin tosylate hydrate
     1183	antitussive combination drug (1)
@@ -81,7 +71,6 @@
      932	hochuekkito
      911	precipitated 7-valent pneumococcal conjugate vaccine (non-toxic mutant diphtheria toxin conjugate)
      878	interferon alpha (namalwa)
-     864	albumin tannate
      855	hudostain
      848	sanactase combination drug
      829	enteric component nutritional supplement (2-1)
@@ -104,10 +93,8 @@
      674	lomosozumab (genetical recombination)
      673	hangeshashinto
      665	dortegravir sodium
-     657	epradinone hydrochloride
      654	saireito
      649	epoetin alpha (genetical recombination)
-     646	dimethyl isopropyl azulene
      637	sofalcon
      636	goreisan
      623	insulin glulysine (genetical recombination)
@@ -120,9 +107,7 @@
      571	elemental diet for liver failure (1)
      568	beclomethasone propionate
      546	narutograstim (genetical recombination)
-     540	dirazep hydrochloride hydrate
      538	bakumondoto
-     528	mesna
      524	vitamins (1-1)
      517	oxatomid
      509	octothiamine
@@ -133,22 +118,18 @@
      487	peritoneal dialysate (4-7)
      485	kampo preparation (general medicine)
      483	2456001
-     474	liver hydrolyzate combination drug
      473	diastase combination drug (1)
      472	sulpyrine hydrate
      471	nardemidine tosylate
      471	iobel sole
      468	intravesical dry bcg (connaught strain)
-     464	nogitecan hydrochloride
      457	peritoneal dialysate (8-1)
      447	diabetes drug
      436	vitamins (1-2)
      432	pronase
-     427	thiaramid hydrochloride
      421	amino acid preparation for liver failure (1)
      416	maintenance solution (added with glucose) (2)
      413	cloperastin fendizoate
-     408	influenza a ha vaccine (h1n1 strain)
      407	sodium salicylate
      407	lurioctocog alpha (genetical recombination)
      406	chiamiral sodium
@@ -156,7 +137,6 @@
      401	sernitine pollen extract
      397	maintenance liquid (6)
      396	double phenib mesylate
-     384	cetraxate hydrochloride
      381	shoseiryuto
      371	red blood cell concentrate
      371	maintenance liquid (4)
@@ -164,7 +144,6 @@
      366	daiokanzoto
      364	ringer acetate solution (with glucose) (2-2)
      362	takadiastase
-     362	herbal medicine combination drug
      362	diaphenyl sulfone
      361	cefteram pivoxil
      360	vitamins (2-3)
@@ -176,13 +155,11 @@
      346	hypnotic sedative
      345	precipitated purified pertussis diphtheria tetanus mixed vaccine
      344	ph4 treated acidic human immunoglobulin
-     342	basic solution for high-calorie infusion (5-7)
      340	pibrentasville
      340	lasagirin mesylate
      339	metabolic drugs not classified elsewhere
      339	kamiyosan
      337	diuretic
-     330	laxatives
      314	keishibukuryogan
      314	apartamide
      313	pyrazolone antipyretic analgesic and anti-inflammatory combination (4)
@@ -190,8 +167,6 @@
      309	hachimijiogan
      309	ginoprost
      308	lactated ringer's solution (with sorbitol)
-     306	anti-human thymocyte horse immunoglobulin
-     302	multivitamin for high-calorie infusion (7)
      302	anxiolytic
      301	actarit
      300	salilumab (genetical recombination)
@@ -208,7 +183,6 @@
      280	orengedokuto
      278	oxesazein
      272	non-pyrine cold remedy (2)
-     270	common cold treatment
      269	other gastrointestinal drugs
      268	psychiatric agents
      267	geranium thunbergii extract
@@ -229,13 +203,10 @@
      238	amino acid preparation for renal failure (2-1)
      237	cholestimid
      236	viranterol triphenylacetic acid salt
-     233	purified pituitary gonadotropin
-     233	multivitamin for high-calorie infusion (4)
      232	dried plasmin treated human immunoglobulin
      228	person haptoglobin
      227	teseroykin (genetical recombination)
      224	vitamins (2-1)
-     221	bicarbonate ringer's solution (1)
      218	vitamins (2-2)
      218	dioctylsodium sulfosuccinate casanslanol
      217	enteric component nutritional supplement (9-2)
@@ -252,34 +223,26 @@
      191	diastase
      191	boiogito
      188	precipitated purified pertussis diphtheria tetanus inactivated polio (soak vaccine) combination vaccine
-     187	nifecalant hydrochloride
      186	biodiastase 2000 combination drug (4)
      182	milogavaline besylate
      182	flopropione
      181	glazoprevir hydrate
      181	elvas building
      181	dry ph4 treated human immunoglobulin
-     181	astringent
      181	antipruritic
      181	anti-inflammatory agent (general drug)
-     181	analgesic
-     180	astringents
      179	itching
      179	corticosteroid preparation
      179	anti-inflammatory agents
      178	letter mobile
      178	folitropin beta (genetical recombination)
-     178	analgesics
-     177	enemas (general drugs)
      175	saiko keishiyu
      173	otsujiyu
      172	bromovalerylurea
      171	3135001
      169	sideferon
      169	casei fungus preparation
-     169	antiseptic
      168	ranoconazole
-     166	indicetron hydrochloride
      165	maotobushi saishinto
      165	blood substitute
      164	saibokuyu
@@ -289,22 +252,18 @@
      161	mixed vitamins (excluding mixed vitamin a
      159	mefluside
      159	lactated ringer's solution (with 40 dextran) (1)
-     159	antitussive expectorant (general drug)
      158	octocog alpha (genetical recombination)
      157	polyporus decoction
      157	peritoneal dialysate (4-8)
      157	otorhinolaryngological agent (general medicine)
      156	shin'iseihaito
      155	ugali (3-14)
-     153	enemas
      153	comprehensive amino acid preparation for high-calorie infusion (4)
      152	drugs (over-the-counter drugs) whose main purpose is not classified elsewhere
-     151	multivitamin for high-calorie infusion (2)
      151	inorganic salt combination agent
      151	amena meville
      149	maintenance liquid (17)
      144	other blood pressure lowering agents
-     143	orprinone hydrochloride hydrate
      141	deslanosid
      140	nonakog alpha (genetical recombination)
      139	vitamins (3-1)
@@ -313,10 +272,8 @@
      135	c. versicolor polysaccharide preparation
      135	4211001
      134	intestinal regulator
-     134	bicarbonate ringer's solution (2)
      133	yokukansankachimpi
      133	placebo
-     132	pyrmenol hydrochloride hydrate
      132	inorganic preparation
      132	dry concentrated human blood coagulation factor viii
      132	calf blood extract
@@ -325,8 +282,6 @@
      130	bifidobacterium combination drug
      129	seishin renko drink
      128	junkoto
-     127	eptakog alpha (active type) (genetical recombination)
-     126	multivitamin for high-calorie infusion (6)
      124	other hormonal agents (including anti-hormonal agents)
      123	heated person plasma protein
      121	vitamins (2-6)
@@ -344,16 +299,11 @@
      112	seihaito
      112	pancol
      112	anabolic steroids
-     111	herbal medicine combination (2)
-     111	antibiotic preparation
-     110	maintenance solution (composite sugar added)
      110	human platelet transfusion hla (irradiation)
-     109	synthetic antibacterial agent
      109	nikoami combination (2)
      109	ingredient name unknown
      109	enteric component nutritional supplement (10)
      109	enocitabin
-     108	fasdil hydrochloride hydrate
      107	electrolytes (2-1)
      107	1172010
      106	dried human blood coagulation factor antibody bypass active complex
@@ -361,7 +311,6 @@
      106	brolsimab (genetical recombination)
      106	alkylating agent
      105	those that mainly act on gram-positive and gram-negative bacteria
-     105	postoperative recovery fluid (2)
      104	prosultiamine
      104	1143001
      103	stomach digestive agent
@@ -395,7 +344,6 @@
       91	chotosan
       91	aoi chin kabuki
       90	gastric digestive agent (general drug)
-      89	piperidrate hydrochloride
       88	protein amino acid preparation
       88	blood products
       88	anti-tuberculosis agent
@@ -411,7 +359,6 @@
       84	maintenance liquid (9)
       83	mixed killed bacteria
       83	dental analgesics and sedatives (including root canal and pit disinfectants)
-      82	thyroid
       82	ling gui zhuanyu
       82	lilanafto
       82	keishikashakuyakuto
@@ -419,7 +366,6 @@
       80	simetride
       80	comprehensive amino acid preparation for high-calorie infusion (6)
       80	cardiac stimulant (general drug)
-      79	sodium thiosulfate hydrate
       79	pema fibrate
       79	docarpamine
       78	2642701
@@ -432,34 +378,28 @@
       75	eppikajutsuto
       75	antiviral agent
       74	paraflebon
-      72	pephycitinib hydrobromide
       72	other nourishing tonics (general medicine)
       72	onsei drink
       72	maintenance liquid (16)
       71	pegbisomant (genetical recombination)
       71	3311401
       70	biodiastase
-      69	hominoben hydrochloride
       69	alkylated human immunoglobulin
       68	jumihaidokuto
       68	245
       67	bibegron
       66	kakkonto kagawa kyu spicy kobus
-      66	doslepin hydrochloride
       65	white tiger kajinjinto
       65	vitamin b agent (excluding vitamin b1 agent)
-      65	local anesthetic
       65	fake troll
       64	unk
       64	tebipenem pivoxil
       64	skin softener (including rotting agent) (general medicine)
       64	other hyperlipidemic agents
-      64	neticonazole hydrochloride
       64	live attenuated measles vaccine
       64	enteric component nutritional supplement (1-2)
       64	d preparations)
       64	comprehensive metabolic preparation (general drug)
-      63	standardized cedar pollen extract
       63	simple syrup
       63	schizonepeta forsythia
       63	peritoneal dialysate (9-4)
@@ -472,14 +412,12 @@
       61	6222001
       60	elemental diet for liver failure (2)
       60	drugs for blood and body fluids that are not classified elsewhere
-      60	basic solution for high-calorie infusion (5-1)
       59	ufena mart
       59	sedilanib
       59	millimostim
       59	bucladesin sodium
       59	biodiastase 1000 combination drug (9)
       59	allergen extract
-      58	other allergy medicines (general medicines)
       58	precipitated diphtheria tetanus mixed toxoid
       58	other chemotherapeutic agents
       58	non-pyrine cold remedy (3)
@@ -488,23 +426,16 @@
       57	adrenal extract
       56	sho-saiko-to kakikyo gypsum
       56	rus thrombopug
-      56	herbal medicine combination drug (7)
       56	arafenamide fumarate
       55	sokei live blood bath
       55	ftalal
-      54	postoperative recovery fluid (1)
       54	kikyoto
       54	digitalis
       53	protilerin tartrate hydrate
       53	hirodase combination drug
       53	dihydroergotoxin mesylate
-      52	talipexole hydrochloride
-      52	multivitamin for high-calorie infusion (1-1)
       52	maintenance liquid (5)
       51	other diuretics
-      51	indigo carmine
-      51	herbal medicine combination drug (10)
-      51	general anesthetic
       51	comprehensive amino acid preparation (1)
       51	cod porphyrin sodium
       51	cardiac stimulant
@@ -516,13 +447,11 @@
       49	ph4 treated acidic human immunoglobulin (subcutaneous injection)
       49	nijutsuto
       49	ashotase alpha (genetical recombination)
-      49	anti-human lymphocyte horse immunoglobulin
       49	agarcidase alpha (genetical recombination)
       48	dry concentrated human blood coagulation factor ix
       48	anxiolytic (general drug)
       47	vaccines
       47	ninjinto
-      47	metoxamine hydrochloride
       47	antispasmodic
       47	antimetabolite
       47	anchusan
@@ -531,10 +460,8 @@
       46	efraloctocog alpha (genetical recombination)
       46	3959a01
       46	3231401
-      45	placental hydrolyzate
       45	other vitamins
       45	hemocoagulase
-      45	crocaplamin hydrochloride hydrate
       45	biodiastase 1000 combination drug (8)
       45	antitussive
       44	ophthalmic agent
@@ -562,7 +489,6 @@
       40	trepibton
       40	statins
       40	scopolia extract
-      40	parabutylaminobenzoate diethylaminoethyl hydrochloride
       40	labrizumab (genetical recombination)
       40	gentiana powder combination agent (2)
       40	corticolerin (human)
@@ -571,15 +497,12 @@
       39	metabolic drugs (over-the-counter drugs) that are not classified elsewhere
       39	maintenance liquid (7)
       39	disoproxil fumarate
-      39	antibiotic
       38	shofusan
       38	ioxylan
       37	thawed human red blood cell fluid (irradiation)
-      37	other allergy medicines
       37	kiyokami windbreak
       37	flutazolam
       37	electrolytes (4-2)
-      37	antitussive expectorant combination drug (1)
       36	those that mainly act on gram-positive bacteria
       36	pyrazolone antipyretic analgesic and anti-inflammatory combination (2)
       36	other central nervous system drugs
@@ -596,7 +519,6 @@
       35	hair dyes
       35	hair agents (hair growth agents
       35	depilatory agents
-      35	antacid (general drug)
       35	1125003
       34	unkeito
       34	riotyronine sodium
@@ -607,14 +529,11 @@
       33	helenien
       33	hair nourishers) (general medicine)
       33	goddess san
-      33	gastric mucosa extract
       33	enzyme preparation
       33	deoxyribonuclease combination drug
       33	dehydration supplement (1)
-      33	cyclopentrate hydrochloride
       33	biodiastase 2000 combination drug (10)
       33	antitussive (general drug)
-      33	antacid
       32	sansoninto
       32	keishikaryukotsuboi-to
       32	great windbreak
@@ -639,8 +558,6 @@
       30	nemonapride
       30	laudanum
       30	keishito
-      30	ivabrazine hydrochloride
-      29	β-galactosidase (penicillium)
       29	yokuinin
       29	stimulants
       29	prelixahol
@@ -650,12 +567,10 @@
       29	mln9708
       29	makyokansekito
       29	kanzoto
-      29	herbal extracts nos
       29	cyclophenyl
       29	biodiastase 2000 combination drug (6)
       29	biodiastase 2000 combination drug (20)
       29	bifidobacterium preparation (1)
-      29	antitumor antibiotic preparation
       29	550
       28	takejo onboriyu
       28	other nourishing tonics
@@ -664,7 +579,6 @@
       28	eftrenonacog alpha (genetical recombination)
       28	dried pit viper antitoxin
       28	drainage pus
-      28	disinfectant for exodermis (general medicine)
       28	bacillus natto combination digestive enzyme preparation
       28	b_tak-700
       28	333440103
@@ -679,11 +593,9 @@
       27	clostridium butyricum
       27	biodiastase 1000 combination drug (2)
       27	artificial dialysate (1-15)
-      27	antibacterial drug
       26	vitamin b agents (excluding vitamin b1 agents) (general medicine)
       26	spore-forming lactobacillus preparation
       26	sodium benzoate
-      26	sanmono yellow gonyu
       26	proton pump inhibitor
       26	oranexizing gluconate
       26	inorganic preparation (general drug)
@@ -701,14 +613,12 @@
       25	estrogen
       25	contrast
       25	ceratro dust
-      25	basic solution for high-calorie infusion (5-2)
       25	1171001
       24	merilot extract
       24	β-blocker
       24	tak-700
       24	sanko ryoshinto
       24	rokumi maru
-      24	pipetanate hydrochloride-containing compounding agent (2)
       24	peptic ulcer drug (general drug)
       24	octocog beta (genetical recombination)
       24	meticlan
@@ -729,12 +639,6 @@
       23	artificial dialysate (2-7)
       22	ougon
       22	other exodermis drugs
-      22	n-isopropyl-4-iodoamphetamine hydrochloride (123i)
-      22	multivitamin for high-calorie infusion (3)
-      22	mozavaptan hydrochloride
-      22	liver hydrolyzate
-      22	levobnorol hydrochloride
-      22	hydrophilic cream
       22	ergomethrin maleate
       22	comprehensive amino acid preparation for high-calorie infusion (2)
       22	china root
@@ -751,27 +655,19 @@
       21	other urinary and reproductive organs and anal medicine (general medicine)
       21	mepitiostane
       21	kikyo plaster
-      21	herbal medicine combination (3)
-      21	hemostatic agent
       21	ferlipresin
       21	drugs for purulent diseases (general drugs)
       21	contraceptive
       21	blinded therapy
-      21	antitussive expectorant
       21	aminopropyrone combination drug
       20	sodium pertechnetate (99mtc)
-      20	sodium lactate
-      20	setothiamine hydrochloride hydrate
       20	salivary gland hormone
       20	nucinersen sodium
       20	non-pyrine cold remedy (5)
-      20	fadrosole hydrochloride hydrate
       20	dried human blood coagulation factor ix complex
-      20	chinese herbal medicine
       20	antispasmodic (general drug)
       19	yhi-1001
       19	shakanzoto
-      19	renampicillin hydrochloride
       19	peony
       19	esaki serenon
       19	dry tissue culture inactivated hepatitis a vaccine
@@ -782,7 +678,6 @@
       18	takadiastase combination drug (1)
       18	taisou
       18	sulfamethoxazole + trimethoprim
-      18	skeletal muscle relaxant
       18	sennoside a + b calcuum
       18	other urinary and reproductive organs and anal medications
       18	onal tsuzumab
@@ -790,10 +685,7 @@
       18	maintenance liquid (12)
       18	kojin
       18	human tyrotropin alpha (genetical recombination)
-      18	basic solution for high-calorie infusion (7-2)
-      18	basic solution for high-calorie infusion (5-3)
       18	arbutrepenonacog alpha (genetical recombination)
-      18	amosuralol hydrochloride
       18	2134001
       17	those that mainly act on acid-fast bacilli
       17	streptococcus faecalis
@@ -803,7 +695,6 @@
       17	seishoekkito
       17	red blood cells
       17	pyromid acid
-      17	mecrophenoxate hydrochloride
       17	maou extract combination drug
       17	glucocorticoid
       17	gardenia jasminoides
@@ -816,7 +707,6 @@
       16	porphymer sodium
       16	polyporus decoction shimotsuto
       16	polyethylene resin
-      16	partial starch hydrolyzate
       16	mallotus japonicus extract
       16	keishi karyo tsukiyu
       16	human blood
@@ -835,7 +725,6 @@
       15	nesitumumab (genetical recombination)
       15	immunoglobulin
       15	human whole blood
-      15	eptazosin hydrobromide
       15	employ still
       15	dry concentrated human blood coagulation factor 10 activated activation factor 7
       15	coptis
@@ -845,11 +734,7 @@
       15	anti-hbs human immunoglobulin
       15	5-fu
       14	artificial dialysate (3-4)
-      14	xartinib hydrochloride
-      14	purified tuberculin
       14	poratsuzumab bedochin
-      14	pipetanate hydrochloride-containing compounding agent (1)
-      14	pipetanate hydrochloride
       14	other respiratory medications
       14	other blood and body fluid medicines (general medicines)
       14	inorganic salt combination
@@ -858,9 +743,7 @@
       14	byakujutsu
       14	biodiastase 2000 combination drug (3)
       14	biodiastase 1000 combination drug (5)
-      14	avastin
       14	artificial dialysate (2-10)
-      14	allergy medicine
       14	118
       13	volley
       13	unkowndrug
@@ -873,23 +756,16 @@
       13	other peptic ulcer agents
       13	nsaid
       13	no ingredients
-      13	multivitamin for high-calorie infusion (1-3)
-      13	multivitamin for high-calorie infusion (1-2)
       13	mucopolysaccharide polysaccharide ester
       13	lbh589
       13	daijokiyu
       13	chokokujokito
-      13	bufferin
-      13	bismuth subgallic acid
-      13	basic solution for high-calorie infusion (4-1)
       13	abt-199
       12	vendor zack
-      12	trimethoquinol hydrochloride hydrate
       12	traditional chinese medicine nos
       12	picrasma
       12	otorhinolaryngological agent
       12	other diabetic agents
-      12	mabuterol hydrochloride
       12	human platelet transfusion hla
       12	hmr1964
       12	ethyl piperidinoacetylaminobenzoate
@@ -902,23 +778,17 @@
       12	artificial dialysate (3-5)
       12	artificial dialysate (1-17)
       12	antithymocyte immuno globulin
-      12	antibiotics
       12	akane chin goreisan
       12	3334
-      11	xeloda
       11	unknowdrug
-      11	thiraburtinib hydrochloride
       11	sodium bromide
       11	sikon extract combination drug
-      11	ruskfloxacin hydrochloride
       11	phellodendron
       11	pf-04449913; placebo
       11	pachisilane sodium
       11	other respiratory medicines (general medicines)
       11	immunosuppressant
-      11	herbal medicine combination drug (9)
       11	hemorrhoids (general medicine)
-      11	disinfectant for exodermis
       11	comprehensive amino acid preparation (2)
       11	city
       11	chinese medicine
@@ -946,31 +816,25 @@
       10	methyl norcholestenol iodo (131i)
       10	merilot extract
       10	leukapheresis human red blood cell suspension
-      10	iclusig
       10	hyperlipidemia agent (general drug)
       10	glycyrrhetinic acid
       10	gentiana
       10	fluid replacement
       10	fats
-      10	faszil hydrochloride
       10	dry anti-tetanus human immunoglobulin
       10	dimethothiazine mesylate
       10	concentrated
-      10	common cold medicine
       10	combination of methionine and magnesium aluminate metasilicate
       10	cock
       10	chisagen recle usel
       10	calcium channel blocker
       10	bifidobacterium preparation (2)
-      10	basic solution for high-calorie infusion (5-5)
       10	bani preville
       10	bakumondou
       10	artificial dialysate (3-3)
-      10	adriamycin
       10	245600104
        9	β-galactosidase (aspergillus)
        9	those that act mainly on gram-positive bacteria and mycoplasma
-       9	tecentriq (genetical recombination)
        9	stimulant therapy
        9	sanso drinking
        9	sanshishi
@@ -982,7 +846,6 @@
        9	mysterious hot water
        9	ly21273799
        9	lomitapidomesylate
-       9	lithium
        9	lactobacillus bifidus
        9	keishi ninjinto
        9	keihito
@@ -991,15 +854,12 @@
        9	hormonal agents (including anti-hormonal agents)
        9	heiisan
        9	dimorpholamine
-       9	dimethylaminoethyl recerpyrate hydrochloride
        9	daratsumumab
        9	carbocistine
        9	bisphosphonate
        9	bi 201335 na
-       9	basic solution for high-calorie infusion (1-1)
        9	antiplatelet agent
        9	antidote
-       9	anthracycline antibiotic preparation
        9	429
        9	3229001
        8	ネチルマイシン硫酸塩
@@ -1014,14 +874,9 @@
        8	priffinium bromide
        8	precipitated hepatitis b vaccine (derived from hugk-14 cells)
        8	pneumococcal vaccine
-       8	pibmesirinum hydrochloride
        8	peritoneal dialysate (5-1)
-       8	patch test drug
        8	other protein amino acid preparations
        8	ntrectinib
-       8	multivitamin for high-calorie infusion (5)
-       8	multivitamin for high calorie infusion (1-4)
-       8	mouthwash (general drug)
        8	lyophilized
        8	kw-0761
        8	kobushi
@@ -1031,13 +886,11 @@
        8	kashu
        8	insecticide (general drug)
        8	immunoglobulin human normal
-       8	herbal medicine combination (4)
        8	granulocyte colony simulating factor
        8	glyclopyramid
        8	enterococcus faecalis
        8	drug
        8	ctl019
-       8	cold medicine
        8	chemotherapy
        8	borofalan (10b)
        8	biodiastase 2000 combination drug (13)
@@ -1066,34 +919,28 @@
        7	peg interferon
        7	painkiller
        7	other diagnostic agents (excluding in vitro diagnostic agents)
-       7	other antipyretic analgesics and anti-inflammatory agents
        7	orgotein
        7	nico mall
        7	mydriatic
-       7	mouthwash
        7	kihito
        7	isophen insulin
        7	iron compound preparation (including organic acid iron)
        7	ireito
        7	inotsuzumabu ozogami sewing machine
        7	flavin adenine dinucleotide sodium chondroitin sulfate sodium
-       7	dental local anesthetic
        7	daroltamid
        7	cytochrome c
        7	crophenamide
        7	comprehensive amino acid preparation for high-calorie infusion (5-2)
        7	celecox
-       7	carpiplamine hydrochloride hydrate
        7	carbocysteine
        7	car
        7	ca antagonist
        7	bifidobacterium bifidum
-       7	basic solution for high-calorie infusion (7-1)
        7	azulene sodium sulfonate
        7	artificial dialysate (3-2)
        7	antispasmodic (general medicine)
        7	androgens
-       7	all other therapeutic products
        7	adrenal cortex preparation
        7	3221001
        7	232
@@ -1107,48 +954,36 @@
        6	trometa mall
        6	thienopyridine drug
        6	theophyllline
-       6	standardized
        6	sodium phosphenytoin
        6	sodium glucuronate hydrate
-       6	sleeping pills
        6	sansounin
        6	pyrazolone antipyretic analgesic and anti-inflammatory combination drug (1)
        6	psychiatric drug
-       6	pralmorelin hydrochloride
        6	plasma fractionation product
        6	pl
        6	pf-04449913
        6	peritoneal dialysate (5-2)
        6	parasitic skin disease agent
-       6	parabutylaminobenzoic acid diethylaminoethyl hydrochloride
        6	other hormonal agents (including anti-hormonal agents) (general medicine)
        6	organ lysate
        6	non-therapeutic drugs that are not classified elsewhere
-       6	microstarch spheres
        6	metrereptin (genetical recombination)
        6	metoprollol tartrate
        6	maintenance liquid (8)
        6	maintenance liquid (1)
-       6	local anesthetic for ophthalmology
-       6	laxative
        6	kouka
        6	kikyo
        6	inchinkou
        6	hemorrhoids
-       6	gallium citrate (67ga)
        6	gallbladder
        6	fluoroquinolones
-       6	etaphenone hydrochloride
        6	emtricitabine + tenofovir disoproxil fumarate
        6	emorphazone
        6	dry concentrator c1-inactivator
        6	dissolving agent
-       6	diphenhy dramine
        6	de-766
        6	corticosteroid nos
        6	comprehensive metabolic preparation
-       6	chilisolol hydrochloride
-       6	cephem antibiotic preparation
        6	calcineurin
        6	bowie
        6	blood drink
@@ -1157,7 +992,6 @@
        6	autonomic nerve agent
        6	asegraton
        6	artificial kidney dialysis agent
-       6	antitussive expectorant combination drug (2)
        6	antithrombotic
        6	antipsychotic
        6	anti-human thymocyte globulin
@@ -1170,7 +1004,6 @@
        6	264
        6	2339224
        5	jiyin jihoyu
-       5	vitamin b complex
        5	vit
        5	vertepolfin
        5	vaseline
@@ -1178,7 +1011,6 @@
        5	unknown compound
        5	uncaria rhynchophylla
        5	ugali (4-13)
-       5	synthetic antibacterial agent (general drug)
        5	sulfadimethoxone
        5	ssri
        5	sodium gualenate hydrate
@@ -1191,7 +1023,6 @@
        5	pre
        5	polaplez inc
        5	piperidinoacetylamino ethyl benzoate combination
-       5	penicillin antibiotics
        5	pancreatic hormones
        5	other peripheral nervous system drugs (general drugs)
        5	other hypnotic sedatives
@@ -1205,7 +1036,6 @@
        5	lembolexant
        5	keishito kaohyoyu
        5	immuno globulin
-       5	hydrocorisone
        5	human whole blood (irradiation)
        5	holoxan
        5	hawthorn
@@ -1220,12 +1050,10 @@
        5	dried recombinant herpes zoster vaccine (derived from chinese hamster ovary cells)
        5	digestive enzyme derived from aspergillus spp.
        5	diagnostic allergen extract
-       5	cyramza
        5	cs-1008
        5	corticosteroids (unspecified)
        5	corticosteroids
        5	corticosteroid
-       5	corhorsindalopert hydrochloride
        5	coptis chinensis
        5	comprehensive amino acid preparation for high-calorie infusion (5-1)
        5	cnto 148
@@ -1239,11 +1067,9 @@
        5	budraradin
        5	blood products (general drugs)
        5	bisphosphonates
-       5	bismuth subgal acid
        5	biopharmacy
        5	bellaglucerase alpha (genetical recombination)
        5	begetamine
-       5	basic solution for high-calorie infusion (5-6)
        5	bacillus mesentericus
        5	azulene sulfonic acid na hydrate
        5	azulene
@@ -1254,11 +1080,9 @@
        5	antiviral agent (general drug)
        5	antiprotozoal
        5	antihypertensive drug
-       5	antifungal drug
        5	amino acid preparation for renal failure (1-1)
        5	allergen extract (1)
        5	aiclesig
-       5	active live bacteria preparation
        5	ac-220
        5	619
        5	423
@@ -1270,11 +1094,8 @@
        4	zaru trap
        4	wound protectant (general drug)
        4	vitamins (2-7)
-       4	vitamin b complex preparation
        4	vitamin a and d agents (general medicine)
        4	venous vascular plexus extract
-       4	vectibix
-       4	vasoconstrictor
        4	ts-1
        4	tre
        4	those that act mainly on gram-positive
@@ -1286,18 +1107,15 @@
        4	showa
        4	sanyaku
        4	rheum palmatum
-       4	pyroheptin hydrochloride
        4	psychiatric agents (general drugs)
        4	proxy philin
        4	polaprez inc
        4	paraffin
        4	ots-102
-       4	other therapeutic products
        4	other blood substitutes
        4	other antineoplastic agents
        4	other anabolic steroids
        4	opioid
-       4	novorapid
        4	nizophenone fumarate
        4	neurotropin
        4	netsupitant
@@ -1311,8 +1129,6 @@
        4	mestanolone
        4	med
        4	maruyama vaccine
-       4	lyrica
-       4	local anesthetic (general drug)
        4	l-gluta
        4	kukoshi
        4	kisartinib
@@ -1329,22 +1145,18 @@
        4	dmards
        4	diphtheria tetanus mixed toxoid
        4	delgositinib
-       4	decadron
        4	crociapin
        4	clio recipe tate
        4	cefoceris sulphate
        4	calglumic acid
-       4	bufferin a
        4	bonoprazan fumarate combination drug
        4	blood pressure lowering agent (general drug)
        4	blood cells
        4	bitter tincture
-       4	basic solution for high-calorie infusion (5-4)
        4	b_tsu-68
        4	b_placebo
        4	artificial dialysis agent (5-1)
        4	antipyretic
-       4	antibiotic preparations
        4	anti-rheumatic drug
        4	anti-allergic drug
        4	anti-allergic agent
@@ -1369,9 +1181,7 @@
        4	112
        4	0
        3	bms-734016
-       3	loxatidine hydrochloride
        3	yakuchi
-       3	voltaren
        3	vitamins (unspecified)
        3	valetamate bromide
        3	ursodes oxycholic acid
@@ -1391,14 +1201,11 @@
        3	stabilizer
        3	soldem
        3	soft santear
-       3	sleeping agent
-       3	skeletal muscle relaxant (general drug)
        3	siler
        3	schizophyllan
        3	s-488403
        3	s-488402
        3	s-488401
-       3	rilmazafone hydrochloride
        3	rheumatoid medicine
        3	rfsh
        3	red
@@ -1418,7 +1225,6 @@
        3	panipenem
        3	other mixed vitamin preparations (excluding mixed vitamin a
        3	other exodermis drugs (general drugs)
-       3	other exodermis disinfectants
        3	ornopro still
        3	organic acid preparation
        3	oral hypoglycemic agent
@@ -1429,11 +1235,9 @@
        3	nourishing tonic
        3	non-steroidal anti-inflammatory drug
        3	nikoami combination (1)
-       3	nexium
        3	new calsitu d3
        3	naron ace
        3	nab-ptx
-       3	multivitamin for high calorie feeding
        3	mucosta
        3	mucopolysaccharide polysulfuric acid ester
        3	mt-5199
@@ -1447,10 +1251,7 @@
        3	machinin
        3	loxonin s
        3	loxonin
-       3	livalo
-       3	lipitor
        3	lclusig
-       3	januvia
        3	isophane
        3	ipecate
        3	intravenous
@@ -1459,10 +1260,7 @@
        3	immune
        3	hinokitiol combination
        3	high-dose steroid therapy
-       3	herceptin
-       3	herbal nos
        3	hepronicart
-       3	hemostatic agent (general drug)
        3	gypsum
        3	gut carbuncle
        3	gnrh antagonist
@@ -1477,8 +1275,6 @@
        3	flavin adenine dinucleotide sodium pyridoxal phosphate hydrate
        3	ferrous citrate
        3	ferromia (nos)
-       3	expectorant
-       3	evenity
        3	eve quick
        3	ethambutl
        3	epogin
@@ -1518,10 +1314,6 @@
        3	biodiastase 2000 combination drug (19)
        3	biodiastase 2000 combination drug (11)
        3	bifidobacterium
-       3	berberin tannate
-       3	basic solution for high-calorie infusion (4-2)
-       3	basic solution for high-calorie infusion (2)
-       3	basic solution for high-calorie infusion (1-2)
        3	bacteria nos
        3	bacillus subtilis + lactobacillus acidophilus + streptococcus faecalis
        3	azimarin
@@ -1535,7 +1327,6 @@
        3	anti-thymocyte globulin
        3	amylase
        3	adrenal hormone preparations
-       3	acd-a solution
        3	absorbent tissue reinforcement
        3	abelumab
        3	811
@@ -1560,13 +1351,11 @@
        3	00002701
        2	γ-globulin preparation
        2	zip
-       2	zingiber officinale rhizome
        2	ym150
        2	white sugar
        2	white
        2	vilanoa
        2	vaniprenir
-       2	uromitexan 400 mg
        2	urogastro
        2	unkown drug
        2	unknwondrug
@@ -1583,13 +1372,10 @@
        2	trace element preparation for high calorie infusion
        2	tpa
        2	tituzumab
-       2	thyroid stimulating hormone
-       2	thyroid medication {nos}
        2	thioinosin
        2	thienopyridine derivative
        2	terumo raw food
        2	telmisartan + hydrochlorothiazide
-       2	tegretol
        2	tbi-1501
        2	tassericive
        2	tas-121
@@ -1601,7 +1387,6 @@
        2	supraventricular tachycardia (supraventricular tachycardia)
        2	stopper
        2	stem cell transplant
-       2	stelara
        2	starting liquid (4)
        2	souhakuhi
        2	soisterol
@@ -1622,19 +1407,16 @@
        2	ro4964913
        2	ringer's solution (with glucose)
        2	rheumatrex
-       2	repatha
        2	recinamine
        2	reagents for general testing
        2	r0486646
        2	protidic acid
        2	protein anabolic hormone
-       2	prograf
        2	proginova
        2	pressor
        2	predonisone
        2	precipitated hemophilus type b vaccine (non-toxic mutant diphtheria toxin conjugate)
        2	ppi (proton pump inhibitor)
-       2	postoperative recovery fluid (3)
        2	poria cocos sclerotium
        2	ponatib
        2	polyglycolic acid
@@ -1654,17 +1436,14 @@
        2	pdr001
        2	pavlon s
        2	pas
-       2	parabutyl aminobenzoate diethylaminoethyl hydrochloride
        2	pancreatic digestive enzyme combination (2)
        2	oxendolone
-       2	over-the-counter sleeping pills
        2	others that mainly act on gram-positive and gram-negative bacteria
        2	other sugars
        2	other peripheral nervous system drugs
        2	other neuropsychiatric agents
        2	other individual organ system medicines
        2	other gastrointestinal drugs (general drugs)
-       2	other gastric mucosa protective agents
        2	other dispensing medicines (general medicines)
        2	other dental and oral medicines
        2	other crude drugs and medicines based on kampo prescription
@@ -1672,7 +1451,6 @@
        2	other chemotherapeutic agents (general drugs)
        2	other central nervous system drugs (general drugs)
        2	other cell stimulants
-       2	other antibacterial drugs
        2	organ preparation
        2	oral steroids
        2	oral hypoglycemic drug
@@ -1699,19 +1477,14 @@
        2	mn-10-t ai
        2	mitozantrone
        2	miris tape
-       2	methylephedrine hydrochloride-dl
        2	methyl octatropin bromide
        2	metab
-       2	menthol
        2	menopause medication
-       2	map solution
        2	malotilate
        2	maintenance liquid (14)
        2	maintenance liquid
        2	mag
        2	m_gp2013
-       2	lyrica od
-       2	lumigan
        2	lulu attack
        2	lopinavir + ritonavir
        2	liver extract
@@ -1736,7 +1509,6 @@
        2	investigational drug
        2	inotsumabu ozogamicin
        2	inhaled steroids
-       2	inderoxazine hydrochloride
        2	immuno globulin g human
        2	imm
        2	hypotensive drug
@@ -1748,9 +1520,7 @@
        2	hib vaccine
        2	hib
        2	hf1
-       2	herbal extract nos
        2	hep
-       2	healthy food
        2	head boil one side
        2	hair restorers)
        2	habitual addiction agent
@@ -1783,10 +1553,8 @@
        2	enzartashid
        2	ensure
        2	endoxan 1g
-       2	emend
        2	elpasville
        2	e7080
-       2	dyslipidemia treatment
        2	durotep
        2	dsp-1747
        2	dried
@@ -1799,7 +1567,6 @@
        2	diastase combination drug (2)
        2	diabetes medicine
        2	dex
-       2	dental antibiotic preparation
        2	denotas
        2	dd-687
        2	darotsumab
@@ -1808,14 +1575,11 @@
        2	cyclopyrox olamine
        2	cyanoacrylate
        2	cs7017
-       2	crestor
        2	contrast media
-       2	contact
        2	comprehensive digestive enzyme preparation
        2	colorant
        2	colac
        2	cnidium officinale rhizome
-       2	ciproflox acin
        2	cinepadide maleate
        2	chlamydia nucleic acid kit
        2	chink oil
@@ -1830,10 +1594,8 @@
        2	calcuum lactate
        2	calcium chloride + potassium chloride + sodium chloride + sodium acetate hydrate
        2	calcium channel blockers
-       2	calamine
        2	cabezin kowa α
        2	cabezin
-       2	bunitrolol hydrochloride
        2	brosumab (genetical recombination)
        2	bonalon
        2	blood pressure medicine
@@ -1850,7 +1612,6 @@
        2	biodiastase 2000 combination drug (16)
        2	bibf1120
        2	bi10773
-       2	bi sifrol
        2	betamethasone + d-chlorpheniramine maleate
        2	beriparib
        2	benserazide hydrochloride + levodopa
@@ -1874,7 +1635,6 @@
        2	antituberculosis drug
        2	antithymocyte-globulin
        2	antipyretics
-       2	antiperspirant
        2	antihypertensive drugs
        2	antidepressant
        2	anticoagulation
@@ -1895,11 +1655,9 @@
        2	agaricus
        2	af37702
        2	ad gentle
-       2	acthib
        2	ace
        2	accrasinomycin
        2	acc-001
-       2	abraxane
        2	8100081
        2	5-a
        2	396t70e
@@ -1948,7 +1706,6 @@
        1	つくしam散
        1	γ-benzen hexachloride
        1	γ globulin preparation
-       1	β2 patch
        1	β procker
        1	α-glucosidase inhibitor (drug name unknown)
        1	α-glucosidase inhibitor
@@ -1956,20 +1713,13 @@
        1	α blocker
        1	α agonist
        1	zyzar
-       1	zytiga tablets 250mg
-       1	zyprexa
-       1	zosyn
        1	zorichizoram
-       1	zoloft
        1	zokumeiyu
        1	ziziphus jujuba var. inermis fruit
-       1	zingiber
        1	zin
-       1	ziagen
        1	zeprion
        1	zentacort
        1	zd6474 (or placebo)
-       1	zantac
        1	zajiten
        1	yunnan takasei
        1	yunker
@@ -1979,20 +1729,17 @@
        1	yokuinin extract powder
        1	yh1-1001
        1	xena pax
-       1	xeljanz
        1	xel
        1	wti vaccine
        1	wound protectant
        1	women's treasure glue
        1	women's health medicine mother of life a
        1	windbreak seisan
-       1	whooping cough
        1	whole body radiation
        1	white tiger kaninjinto
        1	white shingo pin
        1	white bud root
        1	weston double
-       1	weak antibiotics
        1	wakamoto
        1	waist specialty
        1	vp15
@@ -2009,16 +1756,13 @@
        1	vitamedin
        1	visine
        1	virus vaccines
-       1	vesicare
        1	versadan gk granules
        1	veradonna total alkaloid
-       1	vepeside
        1	venetrex
        1	vegatron
        1	vb1
        1	vascular reinforcement
        1	varicella zoster vaccine
-       1	valproic
        1	valley starch
        1	valhydi
        1	valgancyclovir
@@ -2027,7 +1771,6 @@
        1	uyaku
        1	uunknowndrug
        1	utto lock
-       1	utrogestan
        1	uterine contraction inhibitor
        1	ursode oxycholate
        1	urso tablets 50mg
@@ -2062,7 +1805,6 @@
        1	unknoun
        1	unf
        1	undecided
-       1	unasyn s
        1	una kowa cool
        1	ulcerative colitis drug
        1	ukknowndrug
@@ -2086,14 +1828,12 @@
        1	tryptanol
        1	trust tube mab
        1	trmelim
-       1	trimethoquinol hydrochloride
        1	triglyceride
        1	trifloperazine maleate
        1	trifixin
        1	tricyclic antidepressants
        1	tricyclic antidepressant
        1	tri476
-       1	tremfya
        1	treme
        1	transfusion
        1	transfer factor plus
@@ -2102,7 +1842,6 @@
        1	traditional medicine
        1	tpo agonist
        1	toxins and toxoids
-       1	toviaz
        1	tough mac
        1	tougashi
        1	tosufloxacin tosilate
@@ -2119,11 +1858,7 @@
        1	tnf-alpha
        1	tnf inhibitor
        1	tmc435 (placebo)
-       1	tm-zn oral solution
-       1	tivicay
        1	ticlpidine
-       1	thyroid hormone preparation
-       1	thyroid hormone
        1	through rack s
        1	through rack
        1	throat spray
@@ -2143,10 +1878,8 @@
        1	terperan
        1	teripressin
        1	teperenone
-       1	tenormin
        1	tenofofir
        1	tenma
-       1	temodar
        1	telluripressin
        1	technetium dimercaptosuccinate (99mtc)
        1	tbi1301
@@ -2170,7 +1903,6 @@
        1	tak-875
        1	tak-816
        1	tak 438
-       1	taisho chinese medicine laxative
        1	taffinler
        1	tabentador
        1	ta-7284
@@ -2178,10 +1910,8 @@
        1	t-20
        1	systemic steroids
        1	syr-472
-       1	synthetic antibacterial agent (624)
        1	synth
        1	symptomatic drug
-       1	symfibrate
        1	swallow oil
        1	svn-2b
        1	sut nose
@@ -2190,7 +1920,6 @@
        1	sunitib malate
        1	sulupirido
        1	sulpyrin
-       1	sulfur
        1	sulfonamide hypoglycemic agent
        1	sulfisomidin
        1	sulfa drug with thiazole nucleus
@@ -2204,16 +1933,13 @@
        1	streptornase
        1	streptokina ^ ze streptdornase
        1	str
-       1	stona ivy gel s
        1	stjohnwort
        1	steroids (245)
        1	steroidal pulse therapy
        1	steroid v.d3 mixture
        1	steroid ointment
        1	steroid hormones
-       1	steroid enema
        1	steroid drug
-       1	steroid antibacterials
        1	statin
        1	stage unknown
        1	st1
@@ -2227,7 +1953,6 @@
        1	sol melcourt
        1	sol
        1	soj
-       1	sodium pyrophosphate
        1	sodium oxbate
        1	sodium gualenate + l-glutamine
        1	sodium cefmethazole for injection
@@ -2238,7 +1963,6 @@
        1	simple ointment
        1	sil
        1	signal gastrointestinal drug
-       1	sifrol
        1	sidho building
        1	sickle
        1	shoujusen
@@ -2249,14 +1973,11 @@
        1	shitaki sentan
        1	shiratsuru reishi
        1	shirastaken na
-       1	shionogi chinese laxative s
        1	shinzounokusuri
        1	shingi
        1	shikatasan
        1	shikaron
        1	shigenen meimeto
-       1	shark-liver oil
-       1	shark maru
        1	shakuyaku-kanzo-to
        1	shajin
        1	sgn-35
@@ -2275,7 +1996,6 @@
        1	scratch dry
        1	schizonepeta
        1	sasa through
-       1	saripara solution
        1	sar650984
        1	sar342434
        1	sanyaku powder
@@ -2284,8 +2004,6 @@
        1	salt intake
        1	salon pass
        1	salmeterol xinafoate + fluticasone propionate
-       1	saline 20 ml
-       1	saline 100 ml
        1	salilmab
        1	saiko keishi inui ginger hot spring hangekobokuto
        1	saffinamide mesylate
@@ -2305,7 +2023,6 @@
        1	roth vita 40 alpha
        1	rota vaccine
        1	ronoctocog alpha (genetical recombination)
-       1	romeridine hydrochloride
        1	rokumiji huangmaru
        1	rokujo
        1	rohypnol
@@ -2314,16 +2031,13 @@
        1	rize (nos)
        1	rivera
        1	rino rosal
-       1	ringle ivy
        1	ril
        1	rikokode
        1	rifamide
        1	rickle-blended granules
        1	ricin
        1	rheum palmatum tincture
-       1	rexulti tablets 1mg
        1	revob pubakine
-       1	revlimid
        1	retrograde cardioplegia
        1	restamin u kowa tablets
        1	restamin kowa tablets 10mg
@@ -2337,8 +2051,6 @@
        1	replinast
        1	rennik
        1	renko seishin
-       1	remeron
-       1	red sardine powder
        1	red blood cell
        1	recombinative
        1	recombinant thrombomodulin
@@ -2356,8 +2068,6 @@
        1	pyr
        1	putron pump inhibitor
        1	pursennid
-       1	purple kokei-to
-       1	purple flower
        1	purinperan
        1	pup agent (1-4)
        1	pueraria lobata root
@@ -2377,7 +2087,6 @@
        1	proimend for intravenous drip infusion
        1	proimend
        1	progynova
-       1	prograf capsule
        1	producton
        1	product prescription error
        1	prodonisolone
@@ -2390,12 +2099,10 @@
        1	predonine
        1	prednitsone
        1	prednisolon
-       1	precall sustainable cough capsule
        1	prds-001 vs sham
        1	pravastantin
        1	prava
        1	prasatin powder
-       1	pradaxa
        1	powerful neominophagen sea
        1	poultice
        1	popishot
@@ -2413,7 +2120,6 @@
        1	picibanil
        1	pibrentas building
        1	pibrent asvir
-       1	physiological saline
        1	physio 500
        1	phosphodiesterase-inhibitor
        1	phosphenytoin
@@ -2435,10 +2141,8 @@
        1	pf-04383119 placebo
        1	pf-02341066
        1	pf-00299804
-       1	petroleum benzine
        1	pertsuzumab
        1	perlapin
-       1	perjeta
        1	peritoneal dialysate (9-6)
        1	peritoneal dialysate (6-1)
        1	peritoneal dialysate (5-5)
@@ -2458,7 +2162,6 @@
        1	pavlon sα tablets
        1	pavlon s α
        1	pavlon sc
-       1	pavlon s pediatric solution
        1	pavlon s alpha
        1	pavlon (type unknown)
        1	pav
@@ -2493,25 +2196,18 @@
        1	oxidized mg
        1	oxerazine citrate
        1	over-the-counter supplements
-       1	over-the-counter chinese herbal medicine
        1	out c liquid
-       1	otsuka sugar solution 5%
-       1	otsuka sugar solution 20%
        1	ots
        1	other urinary and reproductive organs and anal medications (259)
-       1	other synthetic antibacterial agents
        1	other sensory organ drugs (general drugs)
        1	other respiratory system products
-       1	other public health medicines (general medicines)
        1	other over-the-counter drugs
        1	other otolaryngological agents
        1	other ophthalmic agents
        1	other mineral products
        1	other liver disease agents
-       1	other laxatives
        1	other individual organ system drugs (over-the-counter drugs)
        1	other gout remedies
-       1	other general anesthetics
        1	other dialysis drugs
        1	other diagnostic drugs (excluding in vitro diagnostic drugs) (general drugs)
        1	other contraceptives
@@ -2524,10 +2220,6 @@
        1	other antiinflammatory agents in comb.
        1	other antiepileptic agents
        1	other anticoagulants
-       1	other antacids
-       1	other analgesics and antipyretics
-       1	other analgesics
-       1	other alkaloid narcotics (natural narcotics)
        1	other
        1	otc102
        1	otc gastrointestinal drug
@@ -2536,13 +2228,11 @@
        1	orodatero
        1	oren agoriyu
        1	orara tsumab
-       1	oral treatment
        1	oral nutrition
        1	oral medication for benzablock rhinitis
        1	oral bowel irrigation agent
        1	oral anticoagulant for paf
        1	opikapon
-       1	opdivo
        1	opc-41061
        1	opc-262
        1	onsui-to
@@ -2564,21 +2254,15 @@
        1	o2
        1	nucleic acid analog
        1	novora pit
-       1	novantrone
        1	nourishing tonic that is not classified elsewhere
-       1	noscabine hydrochloride
-       1	norvasc
        1	norovirus antigen kit
-       1	normal saline
        1	norepine phrine
        1	noradrenalin
        1	nonsteroidal anti-inflammatory drug
        1	non-steroidal anti-inflammatory drugs (nsaids)
        1	non-specific immune drug substance
-       1	non-pyrine cold preparation
        1	non-ionic contrast agent
        1	non-drug therapy
-       1	non-benzo sleeping pills
        1	no shin white
        1	no match
        1	no administration of pdt vs sharm pdt
@@ -2588,7 +2272,6 @@
        1	ninchis youchiryouyaku
        1	nik-333
        1	nid vitamin bb tablets
-       1	new sankyo gastrointestinal medicine green
        1	new power act ex
        1	new neobitan ex kunihiro
        1	new mega urso s
@@ -2597,27 +2280,20 @@
        1	new kaiteki z
        1	new jikina granules
        1	new forture granules
-       1	new dent health
-       1	new contac rhinitis p
        1	new cerbere stomach adjustment <fine granules>
        1	new bron-eki ace (otc)
        1	neutral cassette
        1	neurovitan
        1	neurase
        1	neuralgia and joint pain medicine at toyama pharmacy
-       1	neulasta
        1	neu
        1	nerve block
        1	neovale
-       1	neoral
        1	neocarzinostatin
-       1	neo kakix fine grain kotarou
        1	neo day
        1	neck crow
        1	ndaids
-       1	natural agents cobined drug
        1	nateplase (genetical recombination)
-       1	nasalplase (cell culture)
        1	narumitsu hitoshi
        1	narmin a
        1	narasuke
@@ -2625,16 +2301,13 @@
        1	naft pyridine
        1	n butyl-2-cyanoacrylate
        1	myrotarg
-       1	myocet
        1	myocardial infarction drug
        1	mylan
        1	mycin drug
-       1	multivitamin
        1	multibitamin
        1	multi-way poison sweeping circle
        1	multi vitamin i
        1	muhisoft gx
-       1	muhi child cold medicine
        1	muhi
        1	mucosolvan (nos)
        1	mtx
@@ -2652,12 +2325,10 @@
        1	morniflunate
        1	morcin combination agent (2)
        1	morab-003
-       1	moperon hydrochloride
        1	monoclonal antibody
        1	monoamine oxidase inhibitors
        1	mono basic
        1	mokutsu
-       1	moisturizing cream
        1	modefinil
        1	moctar
        1	mn-10-t
@@ -2678,14 +2349,10 @@
        1	minor tranquilizer
        1	minophagen c
        1	minodoronic acid
-       1	minashiplan hydrochloride
        1	mikelan
-       1	miguel rastat hydrochloride
        1	michela
-       1	micardis
        1	mia building
        1	mg preparation, vitamin d preparation
-       1	methylephedrine hydrochloride
        1	methylephedrine combination
        1	methylenedisalicylic acid + promethazine + acetaminophen + salicylamide + anhydrous caffeine
        1	methylbenactidium-mucin combination drug (1)
@@ -2701,7 +2368,6 @@
        1	mentha spp. oil
        1	menta oil
        1	menopause-related ingredients
-       1	mekinist
        1	mek162
        1	meditool
        1	medipain
@@ -2714,7 +2380,6 @@
        1	mdpl3280a
        1	mdpl3208a
        1	mcipc
-       1	mass infusion of saline
        1	marzulene s
        1	maruyama vaccine b
        1	maruyama vaccine a
@@ -2726,9 +2391,7 @@
        1	maintate
        1	magmit
        1	macrophage-colony stimulating factor
-       1	macrolide antibiotics
        1	macrolide
-       1	maca (health supplement)
        1	lycium chinense
        1	ly3009806
        1	ly21273
@@ -2750,7 +2413,6 @@
        1	local anesthesia
        1	local anaes thetics
        1	live varicella virus vaccine
-       1	lithium preparation
        1	lit
        1	liranaftate
        1	liquismia
@@ -2760,7 +2422,6 @@
        1	linifanib
        1	limethason
        1	lily zalostat
-       1	light sugar solution 5%
        1	licase (alpha amylase)
        1	lhrha
        1	lhr
@@ -2784,7 +2445,6 @@
        1	lactobacillus bifidus (lyophilized)
        1	lactegrabir
        1	lactec injection
-       1	lactate ringer's solution
        1	laba combination
        1	laba
        1	la
@@ -2812,7 +2472,6 @@
        1	kidney medicine
        1	khk7580
        1	khk4563
-       1	keytruda
        1	ketsumeishi
        1	keishito shakuyakukanzoto
        1	keishibukuryogan saffron
@@ -2836,7 +2495,6 @@
        1	jp
        1	jnso24er
        1	jnj-54781532
-       1	jikina kakkonto oral solution
        1	jibotentan
        1	janus kinase inhibitor
        1	ivig
@@ -2852,10 +2510,8 @@
        1	iperiden
        1	iomeron
        1	iodized oil
-       1	intravenous hyperalimentative solution
        1	intraocular pressure lowering drug
        1	intralipos
-       1	intestinal cleansing agent
        1	internal medicine prescription drug
        1	interleukin-6
        1	interleukin 2
@@ -2877,7 +2533,6 @@
        1	infant preparation
        1	inc
        1	inactivated polio
-       1	imuran
        1	impact
        1	immunosuppressive drug
        1	immunoglobulins
@@ -2896,21 +2551,13 @@
        1	ifosfamide comp-ifo + powsolinf
        1	ics
        1	icht hammol
-       1	i.v. solutions
-       1	hyzaar
        1	hypnotic
-       1	hypertonic saline
        1	hyperlipidemia drug
        1	hyperalimentation
-       1	hydroxydaunomycin
-       1	hydrothermal extract from tube
-       1	hydrocorisone sodium succinate
-       1	hydrocol
        1	hydrine
        1	hyalein (nos)
        1	hyakudokukudashi
        1	hump
-       1	humira
        1	human red blood cell suspension
        1	human red blood cell concentrate
        1	human antithrombin-iii
@@ -2924,24 +2571,17 @@
        1	holint
        1	hobushi
        1	hmg coa reductase inhibitors
-       1	histmin oral solution
        1	histmin
        1	hishifagen
        1	himekuromon
        1	hilroid soft ointment 0.3%
        1	high calorie infusion
-       1	high bufferin
        1	hidroxocobalamina
        1	hes preparation
-       1	herbal preparation
-       1	herbal medicine combinations
        1	hepatisis b vaccine
-       1	hemostatic drug
        1	hematopoietic agent
-       1	helicobacter pylori disinfectant
        1	heart medicine
        1	heart failure medicine
-       1	health food maca
        1	hasumi vaccine
        1	harun care
        1	hartmann
@@ -2961,7 +2601,6 @@
        1	gro
        1	gripicid
        1	grinide drug
-       1	green juice
        1	grecaprevir hydrate
        1	gratibit c
        1	grass degib
@@ -2978,7 +2617,6 @@
        1	gonadotropin
        1	goddess dispersal
        1	gnrha
-       1	glycopyrrolate
        1	glucuronic acid amide
        1	glucose + sodium lactate + sodium chloride
        1	glu
@@ -2990,7 +2628,6 @@
        1	geranium thunbergii herb
        1	genetically modified methionyl human stem cell factor
        1	generic unknown
-       1	general anesthetics
        1	general anesthesia (general drug)
        1	general anesthesia
        1	gelpart
@@ -3002,19 +2639,15 @@
        1	gcap
        1	gc
        1	gastrointestinal drug
-       1	gastric mucosa protective drug
-       1	gastric mucosa extract preparation (2)
        1	gas preparation for inhalation
        1	ganglion blocker
        1	gamma oryzanol
        1	g-c
        1	fx dialyzer
        1	funnel extract
-       1	fungizone
        1	fungal agent
        1	fumarate benciclan
        1	fullvestrant
-       1	full cottage syrup
        1	fujicob
        1	fuji yakuhin akatama hara yaku
        1	fudosteine
@@ -3030,21 +2663,17 @@
        1	fol
        1	fluti
        1	fluoroquinolone
-       1	fluid solutions
        1	fluid diet
        1	fluid
        1	fludar999
        1	flucasone propionate
-       1	flooxetine hydrochloride
        1	floctaphenin
        1	flocinolone acetonide
        1	flex
-       1	flagyl
        1	fil
        1	fibrin decomposition product kit
        1	fibrates
        1	fes solodex
-       1	ferrous sulphate
        1	ferrous
        1	fermoxides
        1	fer
@@ -3059,7 +2688,6 @@
        1	falda previr
        1	f: k
        1	ezetipu
-       1	eye drops
        1	exodermis medicine
        1	excipients
        1	exassin
@@ -3084,13 +2712,10 @@
        1	escherichia col lyophilisate
        1	erythrosine
        1	erythro
-       1	erleada
        1	erik
-       1	erbitux
        1	equmet hd tablets
        1	equine anti-human thymocyte globuline
        1	epoetin
-       1	epivir
        1	epitope peptide vaccine
        1	epimedium powder
        1	epidural anaesthesia
@@ -3101,7 +2726,6 @@
        1	entercoccus faecalis
        1	enfuville tide
        1	enfuvil tide
-       1	enevo combination enteric solution
        1	enevo
        1	endoxan
        1	endothelin-receptor-antagonist
@@ -3111,12 +2735,10 @@
        1	empaglifozin
        1	elpinan
        1	elise
-       1	eliquis
        1	elettaria cardamomum oil
        1	elemental diet for liver failure
        1	eleisen
        1	electrolytes (unspecified)
-       1	electrolyte solution
        1	electrolyte replacement therapy
        1	electrolyte
        1	elase
@@ -3142,7 +2764,6 @@
        1	drug not further specified
        1	drug name unknown
        1	dried polyethylene glycol treated human immune gloss
-       1	dried horse antitoxin
        1	dried hop extract
        1	dried hemophilus type b vaccine
        1	dravirin
@@ -3158,26 +2779,20 @@
        1	doac
        1	dizziness
        1	divine comedy
-       1	divalproex sodium
        1	divact
        1	disodium succinate
-       1	direvalol hydrochloride
        1	direct oral anticoagulant
        1	dipyrone
        1	diprophyllline
        1	diphtheria toxoid + pertussis toxoid acellular + poliomyelitis vaccine + tetanus toxoid
        1	diphtheria toxoid + pertussis toxoid + poliomyelitis vaccine + tetanus toxoid
        1	diphtheria
-       1	diphenidine
-       1	diphenhydrami
-       1	diphenhy dramine salicylate
        1	dipeptidylpeptidase-4 inhibitor
        1	dipeptidyl-peptidase iv inhibitor
        1	dipeptidyl peptidase-iv
        1	dip
        1	dioscorea spp. rhizome
        1	dimethyl sulfooxide
-       1	dimefurin hydrochloride
        1	dikinin syrup for children
        1	diiodocalcium stearate
        1	digestive medicine not classified elsewhere
@@ -3199,11 +2814,8 @@
        1	dementia medicine
        1	defibrotoide
        1	defi brotide
-       1	decadron 2 mg
        1	ddpp-4 inhibitor
        1	dasen
-       1	darzalex
-       1	dapt treatment (2 antiplatelet drugs)
        1	dapt + oac
        1	dapt (thienopyridine)
        1	dangerous drug
@@ -3223,7 +2835,6 @@
        1	cycloserin
        1	cyclops
        1	cv185-068
-       1	cubicin
        1	csf preparation
        1	cs-7017
        1	cs-023
@@ -3234,13 +2845,9 @@
        1	cp-690550
        1	cox2 inhibitors
        1	cox
-       1	coumadin
-       1	cough medication
-       1	cough
        1	coptis spp. rhizome
        1	copd remedy
        1	cool one soft capsule
-       1	control drug
        1	contomin
        1	continuous epidural anesthesia
        1	continuous epidural analgesia
@@ -3257,7 +2864,6 @@
        1	combination of various vitamins
        1	combination formulation
        1	com 998 a
-       1	cold medicine for colds
        1	cold
        1	colac herbs
        1	coenzyme q
@@ -3266,17 +2872,13 @@
        1	clo
        1	clavazam
        1	clariccept
-       1	citrus reticulata peel
-       1	citrus fruit peel
        1	cirrhosis remedy
        1	circulatory agent
-       1	ciprotech
        1	cimicifuga spp. rhizome
        1	cim331
        1	cilastatin + imipenem
        1	ciclanderato
        1	ci-1008
-       1	chronic heart failure treatment
        1	chorionic
        1	chondroitin zs
        1	choleca
@@ -3295,19 +2897,14 @@
        1	cheong kwan jang kojin extract granules
        1	chemotherapeutic agent for drug treatment of hepatocellular carcinoma
        1	chemothera peutics
-       1	chemical treatment
-       1	charcoal
-       1	certican
        1	cernilton
        1	cercine
        1	cephem system
-       1	cephem antibiotics
        1	cephem
        1	cephalosporin nos
        1	central circulatory system non-absorbable local hemostatic material
        1	centai
        1	cellulase ap3
-       1	cellcept
        1	cell-contents & metabolites e coli
        1	cell culture influenza vaccine (h5n1 strain)
        1	celeraxin
@@ -3322,19 +2919,16 @@
        1	catecholamine
        1	castration drug
        1	casseki
-       1	casodex
        1	casanthranol + docusate sulfosuccinate
        1	carpipramine maleate
        1	carmonum sodium
        1	cardiovascular drugs
        1	cardiovascular drug
        1	cardiotonic vasodilator
-       1	cardioplegic solution
        1	carbop999
        1	carbohydrate
        1	carbochromen
        1	carbo
-       1	carbapenem antibiotics
        1	capillary stabilizer
        1	cap
        1	candesartan cilexetil + hctz
@@ -3356,10 +2950,7 @@
        1	byakushaku
        1	byakugo
        1	bushimatsu
-       1	buscopan
        1	buprosion
-       1	bufferin a81
-       1	bufetrol hydrochloride
        1	buf
        1	budralazine
        1	btk inhibitor
@@ -3370,7 +2961,6 @@
        1	broact
        1	brex piprazole
        1	breeze 2 sensor
-       1	breast cancer treatment
        1	branched-chain amino acid-containing pharmaceutical granules
        1	branched-chain amino acid
        1	bp preparation
@@ -3378,7 +2968,6 @@
        1	bowcon
        1	bosmin
        1	bor
-       1	bonviva
        1	bone medicine
        1	bon
        1	bod
@@ -3394,8 +2983,6 @@
        1	biwayou
        1	bisphosphonate preparation
        1	bisolvon (nos)
-       1	birch
-       1	biphemeran hydrochloride
        1	bionut
        1	biological test preparations
        1	biofermin r (nos)
@@ -3405,7 +2992,6 @@
        1	biodiastase 1000 combination drug (4)
        1	bio-three
        1	biltralsen
-       1	bildicainide hydrochloride
        1	bifiz bacteria preparation
        1	bifidobacterium preparation
        1	bifidobacterium lactis
@@ -3429,7 +3015,6 @@
        1	benza block dam lock
        1	benza ace
        1	benmaron
-       1	benexate hydrochloride
        1	bendamostine
        1	benchromid
        1	bellaforin
@@ -3438,8 +3023,6 @@
        1	bbi503
        1	bay 1021189 placebo
        1	bassamine
-       1	basic solution for high-calorie infusion (3-2)
-       1	basic solution
        1	basic method of 耆 耆
        1	baseta
        1	bartar
@@ -3456,17 +3039,14 @@
        1	b-type liver
        1	b mixed preparation
        1	azunol
-       1	azulfidine en
        1	azulene preparation
        1	azose
-       1	azole antifungal drug
        1	azirel
        1	azilva tablets 20mg
        1	azilva
        1	azd9941
        1	azanin
        1	axl inhibitor)
-       1	ax mouthwash
        1	avitene
        1	avan
        1	ava0005
@@ -3482,8 +3062,6 @@
        1	atezoli
        1	atelec
        1	atavaquone
-       1	atarax (nos)
-       1	atarax
        1	asuperin
        1	astragalus spp. root
        1	asthma remedy
@@ -3497,8 +3075,6 @@
        1	asnamin z
        1	ashita zano last
        1	artist
-       1	artiss
-       1	artificial tears mighty
        1	artificial dialysis agent (5-3)
        1	artificial dialysate (4-6)
        1	artificial dialysate (2-2)
@@ -3524,21 +3100,15 @@
        1	aparutamide
        1	antivirals nos
        1	antivenoms and anti-leptospira sera
-       1	antitumor antibiotic preparation (general drug)
        1	antithrombotic agents
        1	antirheumatic products
-       1	antipyretic analgesic agent
-       1	antipyretic analgesic
        1	antiplatelet dual therapy
        1	antiperkinsonism agents
        1	antiparkinson's disease drug
        1	antineoplastic and immunomodulating agents
-       1	antimicrobial (unspecified)
        1	antimetabolite (general drug)
-       1	antilymphocyte immuno globulin (horse)
        1	antiinflammatory
        1	antihistamines
-       1	antifungals
        1	antiemetic
        1	antidiarrheal
        1	antidiabetic drug
@@ -3547,9 +3117,6 @@
        1	anticoagulation therapy
        1	anticoagulant (general drug)
        1	anticholinesterase
-       1	antibiotic preparations not classified elsewhere
-       1	antibiotic drug
-       1	antibiotic and corticosteroid mixture
        1	antiasthmatic
        1	anti-tnfα preparation
        1	anti-tnfalpha antibody
@@ -3571,34 +3138,26 @@
        1	anti-cd20 monoclonal antibody
        1	anti-cancer drug (drug name unknown)
        1	anti-cancer drug
-       1	anthraquinone-containing laxative
        1	anthraquinone
        1	antebate ointment
-       1	antacids
        1	anovlar
        1	angiolancin ii receptor antagonist
        1	angina medicine
        1	anfentamin
        1	aneton almedy rhinitis tablets
        1	aneton
-       1	anesthetics (including muscle relaxants)
-       1	anesthetic
        1	anemia improving drug
        1	androgen (general drug)
        1	androgen
        1	and flu therapies (unspecified)
        1	ancotil
-       1	ancitabine hydrochloride
-       1	analgesics and anti-inflammator
        1	analgesia
        1	amphotericine b
        1	amogastrin
        1	aminosalicylate calc
-       1	aminoglycoside antibiotics
        1	aminobutyric acid-based preparation
        1	amino acids nos + electrolytes nos + vitamins nos + glucose
        1	amino acids (including formulations with polypeptides)
-       1	amino acid solution for high-calorie infusion
        1	amino 9
        1	ami
        1	amg706 tablets or placebo
@@ -3609,8 +3168,6 @@
        1	aluminium glycinate + aspirin + magnesium carbonate
        1	alosenn (sennoside a + b) granules
        1	allorian
-       1	allergic disease therapeutic agent
-       1	allegra
        1	alkylpolyaminoethylglycine combination drug (5)
        1	alkaloid preparation
        1	alisma plantago-aquatica var. orientale tuber
@@ -3629,7 +3186,6 @@
        1	adna tranexamic
        1	acz885 + pembro + platinum ctx or placebo + pembro + platinum ctx
        1	actage an
-       1	act-hib
        1	act hib
        1	act
        1	aconitum spp. processed root
@@ -3642,7 +3198,6 @@
        1	abt-414
        1	abpc
        1	aborubukabu
-       1	abilify
        1	abi-007
        1	a novel oral anticoagulant
        1	a
@@ -3660,7 +3215,6 @@
        1	7212021
        1	711
        1	7-aminoflunitrazepam
-       1	67ga-gallium citrate injection 111mbq
        1	639408
        1	639
        1	63434424
@@ -3700,7 +3254,6 @@
        1	510039
        1	510009
        1	5100063
-       1	5-hydroxytryptophan
        1	5-h
        1	5-aminolevulinicacid
        1	4990020
@@ -3770,8 +3323,6 @@
        1	3176504
        1	313600
        1	3134001
-       1	3-methyl-4-isopropylphenol
-       1	3% hypertonic saline
        1	29189018
        1	2819700
        1	2676713

@@ -532,6 +532,8 @@ def exportFinalMap():
     fin.close()
 
     for line in lines:
+        if line.__contains__("water"):
+            continue
         fout.write("%s" % line)
     fout.close()
 
@@ -543,6 +545,8 @@ def exportFinalMap():
         if line == "":
             break
         if line.__contains__("#"):
+            continue
+        if line.__contains__("water"):
             continue
         parts = line.strip().split("||")
         dJader = parts[0]
@@ -590,8 +594,12 @@ def finalStats():
         c = int(parts[0])
         dDrugBank = utils.get_dict(dMap, drugJader, -1)
         d2 = utils.get_dict(dMapH, drugJader, -1)
-        if dDrugBank != -1 or d2 != -1:
+        if dDrugBank != -1:
             utils.add_dict_counter(dFreq, dDrugBank, c)
+        elif d2 != -1:
+            utils.add_dict_counter(dFreq, drugJader, c)
+
+
 
 
     kvs = utils.sort_dict(dFreq)
@@ -623,6 +631,7 @@ def delFile(path):
 
 def clean():
     delFile("%s/typosMatching/FilterCandidateMatchingDrug.txt" % params.OUTPUT_DIR)
+
 
 
 if __name__ == "__main__":

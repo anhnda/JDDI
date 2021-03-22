@@ -1,7 +1,6 @@
 chlorpromazine hibenzate||chlorine|chlorpromazine
 miconazole nitrate||nitrate|miconazole
 calcium chloride hydrate||calcium|chlorine|calcium chloride|chloride ion
-radium chloride (223ra)||chlorine|chloride ion
 dimemorfan phosphate||dimemorfan|phosphate ion
 abacavir sulfate||abacavir|sulfate ion
 insulin aspart protamine (crystal line)||insulin aspart|protamine
@@ -26,7 +25,6 @@ brivanib alaninate or placebo||brivanib alaninate|brivanib|alanine
 sodium chloride solution.isotonic||chlorine|chloride ion
 neostigmine methyl sulfate||neostigmine|sulfate ion
 chlorprothixen hydrochloride||chlorprothixene|chlorine
-beef liver extract||beef liver|beef
 caspofungin acetate||caspofungin|acetate
 goserelin acetate||acetate|goserelin
 sodium prednisolone phosphate||prednisolone phosphate|prednisolone|phosphate ion
@@ -366,7 +364,6 @@ revo folinate calcium||calcium|leucovorin
 arbekacin sulfate||arbekacin|sulfate ion
 vinblastine sulfate||sulfate ion|vinblastine
 testosterone enanthic acid ester||testosterone|heptanoic acid
-tokishigyakukago 茱萸 ginger hot water||ginger|water
 morphine sulfate hydrate||morphine|sulfate ion
 basiliximab (genetical recombination)||basil|basiliximab
 primaquine phosphate||phosphate ion|primaquine
@@ -375,4 +372,3 @@ chondroitin sulfate sodium (1)||chondroitin sulfate|sulfate ion
 aluminum potassium sulfate hydrate||sulfate ion|aluminium|potassium sulfate|potassium alum
 interferon beta-1a (genetical recombination)||human interferon beta|interferon beta-1a
 sodium betamethasone phosphate||betamethasone|betamethasone phosphate|phosphate ion
-tetrakismethoxyisobutylisocyanide copper (i) boric acid tetrafluoride||boric acid|copper

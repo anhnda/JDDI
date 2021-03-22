@@ -185,60 +185,6 @@ def exportMissTransIn2():
     fout.close()
 
 
-def statsSEs():
-    fName = F_Names[3]
-    fin = codecs.open(fName, "r", 'utf-8')
-    # Skip first line
-    fin.readline()
-
-    dSeCount = dict()
-
-    currentCaseNo = ""
-    currentCaseSeCount = dict()
-    dSeDuplicated = dict()
-    cc = 0
-    while True:
-        line = fin.readline()
-        if line == "":
-            break
-        cc += 1
-        if cc % 100 == 0:
-            print("\r%s" % cc, end="")
-            pass
-        line = line.lower()
-        parts = line[:-1].split("\t")
-
-        caseNo = parts[0]
-        seName = parts[3]
-        if caseNo != currentCaseNo:
-            if currentCaseNo != "":
-                for se, count in currentCaseSeCount.items():
-                    utils.add_dict_counter(dSeCount, se)
-            currentCaseNo = caseNo
-            currentCaseSeCount = dict()
-        utils.add_dict_counter(currentCaseSeCount, seName)
-    utils.save_obj(dSeCount, "%s/SeCount" % params.OUTPUT_DIR)
-
-
-def processSeStats():
-    dSeCout = utils.load_obj("%s/SeCount" % params.OUTPUT_DIR)
-
-    kvs = utils.sort_dict(dSeCout)
-    counts = []
-    fout = open("%s/SeFreq.txt" % params.OUTPUT_DIR, "w")
-
-    for kv in kvs:
-        k, v = kv
-        fout.write("%8s\t%s\n" % (v, k))
-        counts.append(v)
-    fout.close()
-
-    from plotLib import plotHistS, plotCul
-    for xlim in [10, 100, 500, 10000, -1]:
-        plotHistS(counts, 100, "SEFreq_%s" % xlim, xlim=xlim)
-
-    plotCul(kvs[::-1], 50, 2, "SeCutOff", xLabel="ThreshHold: Number of cases >=", yLabel="Number of SEs")
-
 
 def statsDemo():
     fName = F_Names[0]
@@ -279,7 +225,7 @@ def statsDemo2():
     # Valid Cases:
     fin = open("%s/Tmp/Valid.txt" % params.OUTPUT_DIR)
     lines = fin.readlines()
-    validCases = set([line.strip() for line in lines])
+    validCases = set([line.strip().split("\t")[0] for line in lines])
 
     fName = F_Names[0]
     fin = codecs.open(fName, "r", 'utf-8')
@@ -319,14 +265,48 @@ def statsDemo2():
     fout.close()
 
 
+def statsDemo3():
+    def isValid(v):
+        return len(v) > 1 and v.lower() != "unknown"
+
+    fName = F_Names[0]
+    fin = codecs.open(fName, "r", 'utf-8')
+    fin.readline()
+
+    fout = open("%s/CaseDemo.txt" % params.OUTPUT_DIR, "w")
+
+    nC = 0
+    nGA = 0
+    nAll = 0
+    nV = 0
+    while True:
+        line = fin.readline()
+        if line == "":
+            break
+        nC += 1
+        line = line.lower()
+        parts = line[:-1].split("\t")
+        caseId = parts[0].lower()
+
+        gender = parts[2]
+        age = parts[3]
+        weight = parts[4]
+        height = parts[5]
+
+        if isValid(gender) and isValid(age):
+            fout.write("%s\t%s,%s\n"%(caseId, gender, age))
+
+
+    fout.close()
+
 if __name__ == "__main__":
-    statsDrug()
-    processDrugStats()
+    # statsDrug()
+    # processDrugStats()
     # exportMissTransIn()
     # exportMissTransIn2()
 
     # statsSEs()
     # processSeStats()
-    # statsDemo()
-    # statsDemo2()
+
+    statsDemo3()
     pass

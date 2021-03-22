@@ -1,14 +1,15 @@
-calcium ## more likely to be a drug itself
+calcium ## more likely to be a drug itself  #Not use
 sodium hydrate
 potassium
 succinate
-magnesium ## more likely to be a drug itself
+magnesium ## more likely to be a drug itself #Not use
 butyrate
 sodium phosphate
 sodium citrate
-silica ## i'm not sure about this
-polyethylene glycol ## this is not a salt, but used as a modification agent to prolong effects
+silica ## i'm not sure about this #Not use
+polyethylene glycol ## this is not a salt, but used as a modification agent to prolong effects #Not use
 sodium chloride
-palmitate ## less certain about this
-hyaluronate ## less certain about this
-acetic acid ## less certain about this
+palmitate ## less certain about this #Not use
+hyaluronate ## less certain about this #Not use
+acetic acid ## less certain about this #Not use
+hydrochloride

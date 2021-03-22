@@ -269,7 +269,14 @@ def transAll():
         print("Translate: ...", F_Names[i])
         tranFiles(F_Names[i], F_SKIPS[i], d)
 
+def checkW():
+    d = loadDict()
+    w = "revo"
+    for k, v in d.items():
+        if v.lower().__contains__(w):
+            print (k, v)
 
 if __name__ == "__main__":
     # transAll()
+    checkW()
     pass

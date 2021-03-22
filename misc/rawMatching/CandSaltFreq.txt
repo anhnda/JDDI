@@ -1,121 +1,128 @@
-sulfate
+hydro
 chlor
+sulfate
 calcium
-acetate
+solution
 phosphate
+acetate
 chloride
 sodium hydrate
 potassium
 water
+antibiotic
+diphen
 magnesium
-dexamethasone
 prednisolone
+herbal
+dexamethasone
 heparin
-betamethasone
 estradiol
+betamethasone
 zinc
+multivitamin
 gold
-diphenhydramine
-cysteine
 caffeine
 ethanol
+diphenhydramine
+cysteine
+treatment
 meglumine
 iron
 codein
 butyrate
-aspirin
 aluminum
 vitamin d
-tetrac
-promethazine
-nitrate
-iodine
 hydrogen
 glycerin
 gelatin
 carbon
-atorvastatin
-tenofovir
+aspirin
+antibacterial
+anesthetic
+analgesic
 senna
-phenobarbital
+saline
+promethazine
 methane
 licorice
+iodine
 hydroxide
 hydrocortisone
 hydrochlorothiazide
 ethinyl estradiol
+atorvastatin calcium
+atorvastatin
 aspart
-amlodipine
 vitamin b1
 trastuzumab
+tetrac
+tenofovir
 rhubarb
 propionic acid
-morphine
-morphin
+phenobarbital
+phenobarb
 lamivudine
 lamivudin
+isopropyl
 fibrinogen
 colistin
 codeine
-clopidogrel
+amlodipine
+activ
 acetaminophen
+yellow
 vitamin c
+thyroid
 tartaric acid
 sulbactam
 sodium citrate
 silica
 prasugrel
-piperacillin
 pemetrexed
 opium
-methylprednisolone
-methylprednisolon
+natural
+morphine
+morphin
 mestranol
 lysine
-lidocaine
 levodopa
+laxative
 lactic acid
 iodide
 insulin glargine
 infliximab
-doxorubicin
+horse
+health
 dextran
-chlorpromazine
-ceftriaxone
+clopidogrel
 carbonate
 bevacizumab
-atropine
-atropin
 anhydrous caffeine
 zinc sulfate
 vitamin e
 valsartan
 urea
 tocopherol
-timolol
-thiamine
-thiamin
-tetracycline
-tetracyclin
 teriparatide
 technetium (99mtc)
-streptomycin
+tannate
+sleep
 rituximab
-risedronate
 rabbit
+purifie
 polyethylene glycol
+piperacillin
 petrolatum
 penta
 palmitic acid
 paclitaxel
 norethisterone
 norethisteron
+nitrate
 nicotina
-methotrexate
-methotrexat
+mucosa
 methionine
 methionin
-metformin
 loxoprofen
 infliximab (genetical recombination)
 hyaluronate
@@ -126,68 +133,77 @@ glucose
 g-csf
 fradiomycin
 fosfomycin
-fluphenazine
-fluphenazin
 filgrastim
 factor xiii
 factor x
-ethambutol
+expectorant
 etanercept
-esomeprazole
-esomeprazol
 erythromycin
+doxorubicin
+disinfectant
 diphos
 dihydrocodeine
 cyclophosphamide
 cyclophosphamid
 cortisone
 copper
+cold medicine
 chondroitin sulfate
-chlorpheniramine
+chlorpromazine
+ceftriaxone
 carbazochrome
 carbazochrom
 berberine
 benzodiazepine
 barium
 axitinib
-ampicillin
-alcohol
-valproate
+atropine
+atropin
 tipiracil
-tazobactam
+timolol maleate
+timolol
+thiamine
+thiamin
+therapeutic
+tetracycline
+tetracyclin
 sulfamethoxazole
-sodium chloride
+streptomycin
 sodium acetate
 sitagliptin
 serum albumin
-rosuvastatin
+risedronate
 riboflavin
 reserpine
 reserpin
-rabeprazole
+relaxan
+relaxa
+recovery
 quinol
-pseudoephedrine
 prothrombin
 protamine
 progesterone
 progesteron
 procaterol
-procaine
 pilsicainide
 phenothiazine
 pertuzumab
 perphenazine
 perphenazin
-papaverine
+patch
 pantothenate
 palmitate
 ozagrel
-oxycodone
-olmesartan
 nivolumab
 nicotinamide
 neostigmine
+muscle
 mitiglinide
+methylprednisolone
+methylprednisolon
+methotrexate
+methotrexat
+lidocaine
 levallorphan
 lenalidomide
 l-lysine
@@ -201,61 +217,61 @@ interferon gamma
 insulin human
 insulin aspart
 indium
-hydroxyzine
-hydroxyzin
 human serum albumin
 human insulin
 histamine
+hemostat
 glycyrrhiza
 ginseng
 ginger
 formoterol
-folinate
+fluphenazine
+fluphenazin
 ferric citrate
-fentanyl
+ethambutol
 epoetin beta
 eplerenone
 epinephrine
 epinephrin
 ephedrine
-enalapril
+enema
 emtricitabine
 emtricitabin
 diflucortolone
-diclofenac
 dibucaine
-dextromethorphan
 denosumab
 darbepoetin alfa
 darbepoetin
 dapagliflozin
 dabigatran
-cyproheptadine
-cyproheptadin
 cresol
+cough
 corn
-clindamycin
 citric acid
+cipro
 choline
-chlorhexidine
-chlorhexidin
-chloramphenicol
+chlorpheniramine maleate
+chlorpheniramine
 cefoperazone
-cefepime
 camphor
-bupivacaine
+bufferin
 bleomycin
+bismuth
 biperiden
 betahistine
 betadex
 bepotastine
 benzylpenicillin
 beef
+antifungal
+antacid
 angiotensin
+ampicillin
 aluminum hydroxide
+alcohol
 adenosine
 adenosin
 adenine
 adenin
+activa
 acetic acid
-abacavir

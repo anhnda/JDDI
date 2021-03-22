@@ -375,4 +375,9 @@ elbitegrabir||elvitegravir||elvitegravir
 diphenhydrami||diphenhydramine||diphenhydramine
 cycloserin||cycloserine||cycloserine
 piperasin||piperazin||piperazine
-
+dimethyl sulfooxide||dimethyl sulfoxide||dimethyl sulfoxide
+prednisolon||prednisolone||prednisolone
+teprenon||teprenone||teprenone
+cystene||cysteine||cysteine
+mefluside||mefruside||mefruside
+dochinurad||dotinurad||dotinurad
